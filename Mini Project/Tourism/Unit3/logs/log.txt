@@ -1,0 +1,9 @@
+Started httpserver on port8080
+GETcommand from (ip,port)=('127.0.0.1', 34602)
+GETcommand from (ip,port)=('127.0.0.1', 34603)
+POSTcommand from (ip,port)=('127.0.0.1', 34604)
+Started httpserver on port8080
+GET command from (ip,port)=('127.0.0.1', 34739)
+GET command from (ip,port)=('127.0.0.1', 34740)
+GET command from (ip,port)=('127.0.0.1', 34741)
+^C received, shutting down the web server

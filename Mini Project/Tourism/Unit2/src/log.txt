@@ -1,0 +1,30 @@
+Received Connection From:127.0.0.1 From Port:44827
+Data Received:{'distance': '100@100000000'}
+Received Connection From:127.0.0.1 From Port:44828
+Data Received:{'distance': '100@100000000'}
+Child thread completed
+Time of Execution of child thread=0.0312259197235 Seconds
+Received Connection From:127.0.0.1 From Port:44829
+Data Received:{'distance': '100@100000000'}
+Child thread completed
+Time of Execution of child thread=0.0211160182953 Seconds
+Received Connection From:127.0.0.1 From Port:51787
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0145859718323 Seconds
+Received Connection From:127.0.0.1 From Port:51789
+Data Received:{'distance': '0@3000', 'weather': 'vya'}
+Child thread completed
+Time of Execution of child thread=0.00788903236389 Seconds
+Received Connection From:127.0.0.1 From Port:51792
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00945591926575 Seconds
+Received Connection From:127.0.0.1 From Port:51794
+Data Received:{'distance': '0@3000', 'weather': 'ndlk'}
+Child thread completed
+Time of Execution of child thread=0.00512909889221 Seconds
+Received Connection From:127.0.0.1 From Port:51795
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00986695289612 Seconds

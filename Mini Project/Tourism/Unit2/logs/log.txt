@@ -1,0 +1,272 @@
+Received Connection From:127.0.0.1 From Port:53132
+Data Received:{'distance': '0@3000'}
+Received Connection From:127.0.0.1 From Port:48548
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Received Connection From:127.0.0.1 From Port:48549
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Keyboard Interrupt
+Received Connection From:127.0.0.1 From Port:48551
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Received Connection From:127.0.0.1 From Port:48552
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Keyboard Interrupt
+Received Connection From:127.0.0.1 From Port:48641
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Exceution16.4000079632Seconds
+Keyboard Interrupt
+Received Connection From:127.0.0.1 From Port:48642
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Received Connection From:127.0.0.1 From Port:48643
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution=0.00137782096863 Seconds
+Keyboard Interrupt
+Received Connection From:127.0.0.1 From Port:48644
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00133299827576 Seconds
+Received Connection From:127.0.0.1 From Port:48645
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.000995874404907 Seconds
+Keyboard Interrupt
+Received Connection From:127.0.0.1 From Port:48742
+Data Received:{}
+Received Connection From:127.0.0.1 From Port:48743
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00221109390259 Seconds
+Received Connection From:127.0.0.1 From Port:48744
+Data Received:{}
+Keyboard Interrupt
+Received Connection From:127.0.0.1 From Port:48745
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00204515457153 Seconds
+Received Connection From:127.0.0.1 From Port:59710
+Data Received:{'days': '2'}
+Child thread completed
+Time of Execution of child thread=0.0242071151733 Seconds
+Received Connection From:127.0.0.1 From Port:59711
+Data Received:{'days': '1'}
+Child thread completed
+Time of Execution of child thread=0.00262689590454 Seconds
+Received Connection From:127.0.0.1 From Port:59712
+Data Received:{'distance': '3000@4000', 'days': '2'}
+Received Connection From:127.0.0.1 From Port:47375
+Data Received:{'distance': '5000@7000', 'days': '2'}
+Child thread completed
+Time of Execution of child thread=0.00715804100037 Seconds
+Received Connection From:127.0.0.1 From Port:47376
+Data Received:{'month': 'xcu'}
+Child thread completed
+Time of Execution of child thread=0.00207901000977 Seconds
+Received Connection From:127.0.0.1 From Port:47377
+Data Received:{'distance': '0@5000'}
+Child thread completed
+Time of Execution of child thread=0.00282692909241 Seconds
+Received Connection From:127.0.0.1 From Port:47378
+Data Received:{'distance': '0@5000@100000000'}
+Received Connection From:127.0.0.1 From Port:47379
+Data Received:{'distance': '0@7000'}
+Child thread completed
+Time of Execution of child thread=0.00312805175781 Seconds
+Received Connection From:127.0.0.1 From Port:44978
+Data Received:{'distance': '0@7000'}
+Child thread completed
+Time of Execution of child thread=0.00313711166382 Seconds
+Received Connection From:127.0.0.1 From Port:44979
+Data Received:{'days': '2'}
+Child thread completed
+Time of Execution of child thread=0.00278091430664 Seconds
+Received Connection From:127.0.0.1 From Port:55747
+Data Received:{'distance': '100@100000000'}
+Child thread completed
+Time of Execution of child thread=0.00365591049194 Seconds
+Received Connection From:127.0.0.1 From Port:55748
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00240182876587 Seconds
+Keyboard Interrupt
+Received Connection From:127.0.0.1 From Port:37417
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00288796424866 Seconds
+Keyboard Interrupt
+Received Connection From:127.0.0.1 From Port:46616
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00278902053833 Seconds
+Keyboard Interrupt
+Received Connection From:127.0.0.1 From Port:46617
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00301194190979 Seconds
+Received Connection From:127.0.0.1 From Port:53845
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.166140079498 Seconds
+Received Connection From:127.0.0.1 From Port:53846
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0153830051422 Seconds
+Received Connection From:127.0.0.1 From Port:55108
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.017156124115 Seconds
+Received Connection From:127.0.0.1 From Port:55110
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00571298599243 Seconds
+Received Connection From:127.0.0.1 From Port:55111
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0123579502106 Seconds
+Received Connection From:127.0.0.1 From Port:55112
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0155811309814 Seconds
+Received Connection From:127.0.0.1 From Port:55113
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0152847766876 Seconds
+Received Connection From:127.0.0.1 From Port:55114
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0150668621063 Seconds
+Received Connection From:127.0.0.1 From Port:55115
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0134229660034 Seconds
+Received Connection From:127.0.0.1 From Port:55116
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0155849456787 Seconds
+Received Connection From:127.0.0.1 From Port:55117
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.015419960022 Seconds
+Received Connection From:127.0.0.1 From Port:55118
+Data Received:{'distance': '0@3000'}
+Received Connection From:127.0.0.1 From Port:55123
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0154740810394 Seconds
+Received Connection From:127.0.0.1 From Port:55124
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0162448883057 Seconds
+Received Connection From:127.0.0.1 From Port:55158
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.218246936798 Seconds
+Received Connection From:127.0.0.1 From Port:33878
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=18.2182619572 Seconds
+Received Connection From:127.0.0.1 From Port:33879
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.039920091629 Seconds
+Received Connection From:127.0.0.1 From Port:33956
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00709295272827 Seconds
+Received Connection From:127.0.0.1 From Port:33957
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00663185119629 Seconds
+Received Connection From:127.0.0.1 From Port:37051
+Data Received:{}
+Received Connection From:127.0.0.1 From Port:37052
+Data Received:{'distance': '0@3000'}
+Received Connection From:127.0.0.1 From Port:37053
+Data Received:{'distance': '0@3000'}
+Received Connection From:127.0.0.1 From Port:37054
+Data Received:{'distance': '0@3000'}
+Received Connection From:127.0.0.1 From Port:37055
+Data Received:{'distance': '0@3000'}
+Received Connection From:127.0.0.1 From Port:37056
+Data Received:{'distance': '0@3000'}
+Received Connection From:127.0.0.1 From Port:37057
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0185580253601 Seconds
+Received Connection From:127.0.0.1 From Port:37192
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0256941318512 Seconds
+Received Connection From:127.0.0.1 From Port:37223
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0141339302063 Seconds
+Received Connection From:127.0.0.1 From Port:37224
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0149700641632 Seconds
+Received Connection From:127.0.0.1 From Port:37225
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.016074180603 Seconds
+Received Connection From:127.0.0.1 From Port:37226
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0168778896332 Seconds
+Received Connection From:127.0.0.1 From Port:37356
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0128982067108 Seconds
+Received Connection From:127.0.0.1 From Port:37357
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0127789974213 Seconds
+Received Connection From:127.0.0.1 From Port:37358
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0124371051788 Seconds
+Received Connection From:127.0.0.1 From Port:37359
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.00833082199097 Seconds
+Received Connection From:127.0.0.1 From Port:37360
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0114591121674 Seconds
+Received Connection From:127.0.0.1 From Port:37419
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0124270915985 Seconds
+Received Connection From:127.0.0.1 From Port:37420
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0123710632324 Seconds
+Received Connection From:127.0.0.1 From Port:37421
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0127501487732 Seconds
+Received Connection From:127.0.0.1 From Port:37422
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0125699043274 Seconds
+Received Connection From:127.0.0.1 From Port:37425
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0123269557953 Seconds
+Received Connection From:127.0.0.1 From Port:37426
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0112419128418 Seconds
+Received Connection From:127.0.0.1 From Port:37427
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.0125641822815 Seconds
+Received Connection From:127.0.0.1 From Port:37428
+Data Received:{'distance': '0@3000'}
+Child thread completed
+Time of Execution of child thread=0.011864900589 Seconds

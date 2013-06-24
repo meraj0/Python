@@ -1,0 +1,249 @@
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56471)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56472)
+GET command from (ip,port)=('127.0.0.1', 56473)
+GET command from (ip,port)=('127.0.0.1', 56474)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56475)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56476)
+POST command from (ip,port)=('127.0.0.1', 56477)
+Started httpserver on port8050
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56480)
+POST command from (ip,port)=('127.0.0.1', 56481)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56482)
+POST command from (ip,port)=('127.0.0.1', 56483)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56484)
+POST command from (ip,port)=('127.0.0.1', 56485)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56486)
+POST command from (ip,port)=('127.0.0.1', 56487)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56488)
+POST command from (ip,port)=('127.0.0.1', 56489)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56490)
+POST command from (ip,port)=('127.0.0.1', 56491)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56529)
+POST command from (ip,port)=('127.0.0.1', 56530)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56566)
+POST command from (ip,port)=('127.0.0.1', 56567)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56591)
+POST command from (ip,port)=('127.0.0.1', 56592)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56601)
+POST command from (ip,port)=('127.0.0.1', 56602)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 56605)
+POST command from (ip,port)=('127.0.0.1', 56606)
+Started httpserver on port8050
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 57219)
+POST command from (ip,port)=('127.0.0.1', 57221)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 52511)
+GET command from (ip,port)=('127.0.0.1', 52512)
+GET command from (ip,port)=('127.0.0.1', 52513)
+Started httpserver on port8050
+GET command from (ip,port)=('127.0.0.1', 47684)
+GET command from (ip,port)=('127.0.0.1', 47685)
+Started httpserver on port8050
+Started httpserver on port80
+Started httpserver on port8050
+Started httpserver on port8060
+Started httpserver on port8070
+Started httpserver on port8080
+GET command from (ip,port)=('127.0.0.1', 56167)
+GET command from (ip,port)=('127.0.0.1', 56168)
+GET command from (ip,port)=('127.0.0.1', 56169)
+GET command from (ip,port)=('127.0.0.1', 35887)
+GET command from (ip,port)=('127.0.0.1', 35888)
+GET command from (ip,port)=('127.0.0.1', 35889)
+POST command from (ip,port)=('127.0.0.1', 35890)
+Started httpserver on port8080
+GET command from (ip,port)=('127.0.0.1', 35891)
+POST command from (ip,port)=('127.0.0.1', 35892)
+Started httpserver on port8080
+GET command from (ip,port)=('127.0.0.1', 35893)
+POST command from (ip,port)=('127.0.0.1', 35894)
+Started httpserver on port8080
+^C received, shutting down the web server
+Started httpserver on port80
+GET command from (ip,port)=('192.168.13.238', 51938)
+GET command from (ip,port)=('192.168.13.238', 51939)
+GET command from (ip,port)=('192.168.13.238', 51940)
+^C received, shutting down the web server
+Started httpserver on port80
+^C received, shutting down the web server
+Started httpserver on port80
+^C received, shutting down the web server
+Started httpserver on port80
+^C received, shutting down the web server
+Started httpserver on port80
+Started httpserver on port80
+^C received, shutting down the web server
+Started httpserver on port8080
+GET command from (ip,port)=('192.168.8.202', 58182)
+GET command from (ip,port)=('192.168.8.202', 58183)
+GET command from (ip,port)=('192.168.8.202', 58184)
+GET command from (ip,port)=('192.168.8.202', 58186)
+POST command from (ip,port)=('192.168.8.202', 58187)
+Started httpserver on port8080
+GET command from (ip,port)=('127.0.0.1', 42574)
+GET command from (ip,port)=('127.0.0.1', 42575)
+POST command from (ip,port)=('127.0.0.1', 42576)
+Started httpserver on port8080
+Started httpserver on port8080
+GET command from (ip,port)=('127.0.0.1', 42581)
+Started httpserver on port8080
+Started httpserver on port8080
+Started httpserver on port8080
+Started httpserver on port8080
+Started httpserver on port8080
+Started httpserver on port8070
+Started httpserver on port8070
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 54006)
+GET command from (ip,port)=('127.0.0.1', 54007)
+GET command from (ip,port)=('127.0.0.1', 54008)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 54255)
+Started httpserver on port8070
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 54352)
+POST command from (ip,port)=('127.0.0.1', 54353)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 54355)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 54357)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 54361)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 54560)
+Started httpserver on port8070
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 56001)
+GET command from (ip,port)=('127.0.0.1', 56008)
+GET command from (ip,port)=('127.0.0.1', 56015)
+^C received, shutting down the web server
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 56030)
+POST command from (ip,port)=('127.0.0.1', 56033)
+POST command from (ip,port)=('127.0.0.1', 56037)
+^C received, shutting down the web server
+Started httpserver on port8070
+POST command from (ip,port)=('127.0.0.1', 56039)
+POST command from (ip,port)=('127.0.0.1', 56041)
+^C received, shutting down the web server
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 56043)
+POST command from (ip,port)=('127.0.0.1', 56045)
+^C received, shutting down the web server
+Started httpserver on port8070
+POST command from (ip,port)=('127.0.0.1', 56074)
+^C received, shutting down the web server
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 56076)
+POST command from (ip,port)=('127.0.0.1', 56078)
+^C received, shutting down the web server
+Started httpserver on port8070
+POST command from (ip,port)=('127.0.0.1', 56080)
+POST command from (ip,port)=('127.0.0.1', 56082)
+^C received, shutting down the web server
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 58852)
+POST command from (ip,port)=('127.0.0.1', 58855)
+^C received, shutting down the web server
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 34718)
+^C received, shutting down the web server
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39282)
+GET command from (ip,port)=('127.0.0.1', 39284)
+GET command from (ip,port)=('127.0.0.1', 39286)
+POST command from (ip,port)=('127.0.0.1', 39288)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39290)
+POST command from (ip,port)=('127.0.0.1', 39292)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39294)
+POST command from (ip,port)=('127.0.0.1', 39296)
+GET command from (ip,port)=('127.0.0.1', 39300)
+POST command from (ip,port)=('127.0.0.1', 39302)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39304)
+POST command from (ip,port)=('127.0.0.1', 39306)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39308)
+POST command from (ip,port)=('127.0.0.1', 39310)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39312)
+POST command from (ip,port)=('127.0.0.1', 39314)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39316)
+POST command from (ip,port)=('127.0.0.1', 39318)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39322)
+POST command from (ip,port)=('127.0.0.1', 39324)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39326)
+POST command from (ip,port)=('127.0.0.1', 39328)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39330)
+POST command from (ip,port)=('127.0.0.1', 39332)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39379)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 39387)
+Started httpserver on port8070
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 56565)
+GET command from (ip,port)=('127.0.0.1', 56566)
+GET command from (ip,port)=('127.0.0.1', 56567)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 56568)
+POST command from (ip,port)=('127.0.0.1', 56570)
+Started httpserver on port8070
+GET command from (ip,port)=('127.0.0.1', 41208)
+POST command from (ip,port)=('127.0.0.1', 41210)
+Started httpserver on port8072
+GET command from (ip,port)=('127.0.0.1', 56349)
+GET command from (ip,port)=('127.0.0.1', 56351)
+GET command from (ip,port)=('127.0.0.1', 56353)
+POST command from (ip,port)=('127.0.0.1', 56355)
+Started httpserver on port8072
+GET command from (ip,port)=('127.0.0.1', 56358)
+POST command from (ip,port)=('127.0.0.1', 56360)
+GET command from (ip,port)=('127.0.0.1', 56362)
+POST command from (ip,port)=('127.0.0.1', 56364)
+Started httpserver on port8072
+GET command from (ip,port)=('127.0.0.1', 56366)
+POST command from (ip,port)=('127.0.0.1', 56368)
+GET command from (ip,port)=('127.0.0.1', 56370)
+POST command from (ip,port)=('127.0.0.1', 56372)
+POST command from (ip,port)=('127.0.0.1', 56375)
+POST command from (ip,port)=('127.0.0.1', 56380)
+Started httpserver on port8072
+GET command from (ip,port)=('127.0.0.1', 56382)
+POST command from (ip,port)=('127.0.0.1', 56384)
+Started httpserver on port8072
+GET command from (ip,port)=('127.0.0.1', 56386)
+POST command from (ip,port)=('127.0.0.1', 56388)
+Started httpserver on port8073
+GET command from (ip,port)=('127.0.0.1', 42617)
+GET command from (ip,port)=('127.0.0.1', 42619)
+GET command from (ip,port)=('127.0.0.1', 42621)
+^C received, shutting down the web server
+Started httpserver on port8073
+GET command from (ip,port)=('127.0.0.1', 42644)
+POST command from (ip,port)=('127.0.0.1', 42646)
+Started httpserver on port8073
+GET command from (ip,port)=('127.0.0.1', 42648)
+POST command from (ip,port)=('127.0.0.1', 42650)

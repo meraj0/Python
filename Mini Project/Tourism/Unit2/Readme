@@ -1,0 +1,3 @@
+We start the program by using command "python interface.py".Start the server in other terminal using the command "python TCPServerselect.py".
+Use the menu navigation to state your input and the required result.
+The server can  handle multiple clients also.

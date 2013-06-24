@@ -1,0 +1,4006 @@
+Hotels
+State=Karnataka13
+
+Name=Fortune Park JP Celestial, Bangalore
+
+Budget=5500onwards
+Name=Aishwarya Residency, Mysore
+
+Budget=900onwards
+Name=RNS Residency, Murudeshwara
+
+Budget=2200onwards
+Name=Bombay Tiffanys Hotel, Mysore
+
+Budget=800onwards
+Name=Beena Residency, Kollur
+
+Budget=500onwards
+Name=Ginger Hotel, Mysore
+
+Budget=2100onwards
+Name=White Parrot Hotel, Mysore
+
+Budget=1400onwards
+Name=Hill View Hotel, Madikeri
+
+Budget=1400onwards
+Name=Hill Town Hotel, Coorg
+
+Budget=1000onwards
+Name=Cauvery Hotel, Coorg
+
+Budget=1200onwards
+Name=Ritz Hotel, Mysore
+
+Budget=1200onwards
+Name=Namaste Cafe, Gokarna
+
+Budget=700onwards
+Name=SK Regency, Chikmagalur
+
+Budget=1000onwards
+Name=Sujatha Residency, Mysore
+
+Budget=1500onwards
+Name=Roopa Hotel, Mysore
+
+Budget=1100onwards
+Name=Advaith Lancer Hotel, Sringeri
+
+Budget=1100onwards
+Name=Malligi Hotel, Hospet
+
+Budget=650onwards
+Name=Mayura Valley View, Coorg
+
+Budget=1800onwards
+Name=Udupi Residency Hotel, Udupi
+
+Budget=700onwards
+Name=Golden Palms Hotel & Spa, Bangalore
+
+Budget=9000onwards
+Hotels
+State=Bihar5
+
+Name=Windsor Hotel, Patna
+
+Budget=1300onwards
+Name=Maurya Hotel, Patna
+
+Budget=6500onwards
+Name=Chanakya Hotel, Patna
+
+Budget=4000onwards
+Name=Niranjana Hotel, Bodhgaya
+
+Budget=4500onwards
+Name=Rajgir Residency, Rajgir
+
+Budget=6000onwards
+Name=Patliputra Ashok Hotel, Patna
+
+Budget=4500onwards
+Name=Siddharth International Hotel, Gaya
+
+Budget=1400onwards
+Name=Tathagat Vihar Hotel, Rajgir
+
+Budget=700onwards
+Name=Meenakshi International Hotel, Muzaffarpur
+
+Budget=1550onwards
+Name=Siddharth Hotel, Rajgir
+
+Budget=1500onwards
+Name=Indo Hokke Hotel, Rajgir
+
+Budget=4500onwards
+Name=President Hotel, Patna
+
+Budget=600onwards
+Name=Hill Queen Hotel, Rajgir
+
+Budget=300onwards
+Name=Orchid Hotel, Patna
+
+Budget=3000onwards
+Name=Palm Garden Hotel, Gaya
+
+Budget=900onwards
+Name=Taj Darbar Hotel, Bodhgaya
+
+Budget=4800onwards
+Name=Sitayan Hotel, Sitamarhi
+
+Budget=400onwards
+Name=Mamata Hotel, Rajgir
+
+Budget=635onwards
+Name=Chanakya inn, Patna
+
+Budget=2000onwards
+Name=Urubela International Hotel, Bodhgaya
+
+Budget=1200onwards
+Hotels
+State=Chandigarh8
+
+Name=Shivalik View Hotel, Chandigarh
+
+Budget=4000onwards
+Name=JW Marriott Hotel, Chandigarh
+
+Budget=9900onwards
+Name=Taj Chandigarh, Chandigarh
+
+Budget=12000onwards
+Name=SunPark Hotel, Chandigarh
+
+Budget=2100onwards
+Name=Panchayat Bhawan, Chandigarh
+
+Budget=300onwards
+Name=Hometel, Chandigarh
+
+Budget=3400onwards
+Name=Mountview Hotel, Chandigarh
+
+Budget=5000onwards
+Name=Sunbeam Hotel, Chandigarh
+
+Budget=2400onwards
+Name=The Aroma, Chandigarh
+
+Budget=2400onwards
+Name=Hotel City Plaza 17, Chandigarh
+
+Budget=1700onwards
+Name=Diamond Plaza Hotel, Chandigarh
+
+Budget=1600onwards
+Name=Parkview Hotel, Chandigarh
+
+Budget=2200onwards
+Name=Divyadeep Hotel, Chandigarh
+
+Budget=800onwards
+Name=Corporate Inn Hotel, Chandigarh
+
+Budget=1600onwards
+Name=Central Park 17 Hotel, Chandigarh
+
+Budget=2700onwards
+Name=Maya Palace Hotel, Chandigarh
+
+Budget=7400onwards
+Name=Jain Sun View Hotel, Chandigarh
+
+Budget=1100onwards
+Name=Hotel City Plaza 7, Chandigarh
+
+Budget=1500onwards
+Name=Hotel KC Residency, Chandigarh
+
+Budget=2300onwards
+Name=Antheia Hotel, Chandigarh
+
+Budget=2800onwards
+Hotels
+State=Delhi3
+
+Name=Rama Inn, New Delhi
+
+Budget=1000onwards
+Name=Ginger, New Delhi
+
+Budget=1650onwards
+Name=Taj Palace Hotel, Delhi
+
+Budget=17000onwards
+Name=ITC Hotel Maurya Sheraton & Towers, Delhi
+
+Budget=16000onwards
+Name=LeMeridien New Delhi, Delhi
+
+Budget=12000onwards
+Name=Radisson Hotel Delhi, Delhi
+
+Budget=11000onwards
+Name=The Park, Delhi
+
+Budget=12000onwards
+Name=Radisson Blu Hotel New Delhi Dwarka, Delhi
+
+Budget=7000onwards
+Name=Ashok Hotel, Delhi
+
+Budget=13000onwards
+Name=The Ajanta, Delhi
+
+Budget=2000onwards
+Name=The Lalit, Delhi
+
+Budget=11500onwards
+Name=Ginger - East Delhi, New Delhi
+
+Budget=3000onwards
+Name=The Suryaa, Delhi
+
+Budget=7500onwards
+Name=Hyatt Regency inn, Delhi
+
+Budget=13000onwards
+Name=Hotel Southern, Delhi
+
+Budget=1700onwards
+Name=Southern Hotel, New Delhi
+
+Budget=1700onwards
+Name=Vivanta by Taj - Ambassador, Delhi
+
+Budget=12000onwards
+Name=Radisson Marina Hotel, New Delhi
+
+Budget=8000onwards
+Name=The Oberoi, Delhi
+
+Budget=15000onwards
+Name=Taj Mahal Hotel, New Delhi
+
+Budget=19500onwards
+Hotels
+State=Haryana9
+
+Name=Mountain Quail Resort, Morni Hills
+
+Budget=900onwards
+Name=The Leela Kempinski, Gurgaon
+
+Budget=22500onwards
+Name=Ibis Hotel, Gurgaon
+
+Budget=5400onwards
+Name=Nirula's Hotel, Panipat
+
+Budget=1400onwards
+Name=Gold Hotel, Panipat
+
+Budget=1100onwards
+Name=DR International Hotel, Ambala
+
+Budget=900onwards
+Name=Lemon Tree Hotel - City Center, Gurgaon
+
+Budget=6500onwards
+Name=Emblem Hotel, Gurgaon
+
+Budget=6000onwards
+Name=Jewel's Hotel, Karnal
+
+Budget=2200onwards
+Name=Optus Sarovar Premiere, Gurgaon
+
+Budget=8500onwards
+Name=Quality Inn Bliss, Gurgaon
+
+Budget=5900onwards
+Name=Courtyard Gurgaon, Gurgaon
+
+Budget=10400onwards
+Name=Imperial Palace, Gurgaon
+
+Budget=1300onwards
+Name=The Oberoi Gurgaon, Gurgaon
+
+Budget=16000onwards
+Name=Sapphire Hotel, Yamuna Nagar
+
+Budget=1500onwards
+Name=Shiraaz Hotel, Panchkula
+
+Budget=2400onwards
+Name=Red Bishop Hotel, Panchkula
+
+Budget=1500onwards
+Name=Park Premier Hotel, Gurgaon
+
+Budget=11000onwards
+Name=Radisson Suites Gurgaon, Gurgaon
+
+Budget=7000onwards
+Name=Maharaja Hotel, Panipat
+
+Budget=1700onwards
+Name=Mountain Top Hotel, Manali
+
+Budget=2200onwards
+Name=HoneyMoon Inn, Shimla
+
+Budget=3700onwards
+Name=HoneyMoon Inn, Manali
+
+Budget=3400onwards
+Name=Grand View Hotel, Dalhousie
+
+Budget=4000onwards
+Name=Holiday Home Hotel, Shimla
+
+Budget=2200onwards
+Name=Holiday Inn Manali, Manali
+
+Budget=10000onwards
+Name=Gulmarg Regency, Shimla
+
+Budget=800onwards
+Name=The Orchard Greens, Manali
+
+Budget=3000onwards
+Name=Grand Hotel, Shimla
+
+Budget=300onwards
+Name=Beas Hotel, Manali
+
+Budget=1600onwards
+Name=SunPark Hotel, Manali
+
+Budget=2000onwards
+Name=Naveen Hotel, Manali
+
+Budget=1700onwards
+Name=Doegar Hotel, Shimla
+
+Budget=1200onwards
+Name=Utopia Inn Hotel, Manali
+
+Budget=1800onwards
+Name=Dalhousie Heights, Dalhousie
+
+Budget=4800onwards
+Name=Radisson Jass Hotel, Shimla
+
+Budget=6000onwards
+Name=Manali Heights, Manali
+
+Budget=4200onwards
+Name=Combermere Hotel, Shimla
+
+Budget=5000onwards
+Name=Sandhya Hotel, Manali
+
+Budget=2000onwards
+Name=Landmark Hotel, Shimla
+
+Budget=4000onwards
+Name=The Lalit Grand Palace, Srinagar
+
+Budget=16500onwards
+Name=Grand Mumtaz Hotel, Srinagar
+
+Budget=7000onwards
+Name=Grand Habib Hotel, Srinagar
+
+Budget=2000onwards
+Name=Green Hill Hotel, Kashmir
+
+Budget=1200onwards
+Name=Country Inn suites, Katra
+
+Budget=4500onwards
+Name=Comrade Inn, Srinagar
+
+Budget=4200onwards
+Name=Welcome Hotel, Srinagar
+
+Budget=2500onwards
+Name=Paradise Hotel, Srinagar
+
+Budget=2000onwards
+Name=Hotel Khaleel Palace, Gulmarg
+
+Budget=5600onwards
+Name=Heevan Hotel, Pahalgam
+
+Budget=6000onwards
+Name=Greentop Hotel, Patnitop
+
+Budget=2500onwards
+Name=Hill Top Hotel, Gulmarg
+
+Budget=5800onwards
+Name=The Grand Dragon, Ladakh (Leh)
+
+Budget=6500onwards
+Name=Royal Park Hotel, Gulmarg
+
+Budget=3400onwards
+Name=Forest View Hotel, Patnitop
+
+Budget=1700onwards
+Name=Heemal Hotel, Srinagar
+
+Budget=1500onwards
+Name=Centaur Lake View Hotel, Srinagar
+
+Budget=6050onwards
+Name=Holiday Inn Hotel, Patnitop
+
+Budget=2500onwards
+Name=The White hotel, Katra
+
+Budget=4500onwards
+Name=Oriental Guest House, Ladakh (Leh)
+
+Budget=600onwards
+Name=Pachmarhi Hotel, Pachmarhi
+
+Budget=800onwards
+Name=Highlands Hotel, Pachmarhi
+
+Budget=1700onwards
+Name=Mittal Avenue Hotel, Ujjain
+
+Budget=1600onwards
+Name=Panchvati Huts & Cottages, Pachmarhi
+
+Budget=1700onwards
+Name=Glen View Hotel, Pachmarhi
+
+Budget=4000onwards
+Name=Apna Palace Hotel, Indore
+
+Budget=2300onwards
+Name=Sayaji Hotel, Indore
+
+Budget=4700onwards
+Name=Shipra Residency, Ujjain
+
+Budget=2300onwards
+Name=Pandav Hotel, Pachmarhi
+
+Budget=1300onwards
+Name=Pachmarhi Regency Hotel, Pachmarhi
+
+Budget=3800onwards
+Name=Vijan Palace Hotel, Jabalpur
+
+Budget=900onwards
+Name=Giri Shingar Hotel, Pachmarhi
+
+Budget=2850onwards
+Name=Amaltas Hotel, Pachmarhi
+
+Budget=1600onwards
+Name=Lemon Tree Hotel, Indore
+
+Budget=3800onwards
+Name=Chandela Hotel, Khajuraho
+
+Budget=7500onwards
+Name=Sarovar Portico, Indore
+
+Budget=3800onwards
+Name=Fortune Landmark Indore, Indore
+
+Budget=7000onwards
+Name=Samrat Hotel, Indore
+
+Budget=1100onwards
+Name=Payal Hotel, Khajuraho
+
+Budget=1300onwards
+Name=Kanha Safari Lodge, Kanha
+
+Budget=4300onwards
+Hotels
+State=Punjab4
+
+Name=Hotel Sham Villa, Amritsar
+
+Budget=1500onwards
+Name=Ista Hotel, Amritsar
+
+Budget=6000onwards
+Name=Singh International Hotel, Amritsar
+
+Budget=1000onwards
+Name=City Heart Hotel, Amritsar
+
+Budget=1300onwards
+Name=HK Clarks Inn, Amritsar
+
+Budget=6000onwards
+Name=Akaal Residency Hotel, Amritsar
+
+Budget=1000onwards
+Name=C J International Hotel, Amritsar
+
+Budget=1400onwards
+Name=Golden Tulip Amritsar, Amritsar
+
+Budget=3500onwards
+Name=Maya Hotel, Jalandhar
+
+Budget=4100onwards
+Name=Shiraz Regency Hotel, Amritsar
+
+Budget=1100onwards
+Name=Hotel Teg Royal, Amritsar
+
+Budget=900onwards
+Name=Radisson Windsor Hotel, Jalandhar
+
+Budget=6500onwards
+Name=Grand Hotel, Amritsar
+
+Budget=1200onwards
+Name=Majestic Park Plaza, Ludhiana
+
+Budget=9000onwards
+Name=Radisson Blu Hotel Amritsar, Amritsar
+
+Budget=5700onwards
+Name=Ramada Jalandhar, Jalandhar
+
+Budget=5500onwards
+Name=Country Inns Suites By Carlson, Amritsar
+
+Budget=4500onwards
+Name=Le Golden Hotel, Amritsar
+
+Budget=1300onwards
+Name=M K Hotel, Amritsar
+
+Budget=2700onwards
+Name=Lawrence Hotel, Amritsar
+
+Budget=3000onwards
+Hotels
+State=Rajasthan6
+
+Name=Cambay Sapphire, Alwar
+
+Budget=5500onwards
+Name=Silver Oak Hotel, Mount Abu
+
+Budget=2000onwards
+Name=Hotel Mohan, Jaipur
+
+Budget=1000onwards
+Name=Hilltone Hotel, Mount Abu
+
+Budget=4300onwards
+Name=Hillock Hotel, Mount Abu
+
+Budget=3000onwards
+Name=Padmini Palace Hotel, Udaipur
+
+Budget=1300onwards
+Name=Holiday Inn, Jaipur
+
+Budget=9000onwards
+Name=Golden Hotel, Jaipur
+
+Budget=900onwards
+Name=Hotel Satkar, Jaipur
+
+Budget=700onwards
+Name=Surbhi Palace Hotel, Jaipur
+
+Budget=1000onwards
+Name=Ramada Hotel, Jaipur
+
+Budget=4500onwards
+Name=Maya International Hotel, Jaipur
+
+Budget=2250onwards
+Name=Saraswati Hotel, Mount Abu
+
+Budget=1000onwards
+Name=Hotel Parash New, Mount Abu
+
+Budget=1550onwards
+Name=Country Inn & Suites, Jaipur
+
+Budget=5500onwards
+Name=Chacha Inn Hotel, Mount Abu
+
+Budget=2700onwards
+Name=Trident Jaipur, Jaipur
+
+Budget=10200onwards
+Name=Hilltop Hotel Palace, Udaipur
+
+Budget=4800onwards
+Name=RTDC Hotel Moomal, Jaisalmer
+
+Budget=600onwards
+Name=Hotel Hayat Rabbani, Jaipur
+
+Budget=2000onwards
+Name=Jaypee Palace Hotel, Agra
+
+Budget=10000onwards
+Name=Ajay International Hotel, Agra
+
+Budget=400onwards
+Name=Jyothi Continental, Agra
+
+Budget=1600onwards
+Name=Grand Hotel, Agra
+
+Budget=2700onwards
+Name=Rajrani Residency Hotel, Agra
+
+Budget=2600onwards
+Name=WelcomHotel Mughal Sheraton, Agra
+
+Budget=11000onwards
+Name=Vivanta by Taj - Gomti Nagar, Lucknow
+
+Budget=11000onwards
+Name=Sanjay Hotel, Agra
+
+Budget=550onwards
+Name=Amar Hotel, Agra
+
+Budget=2800onwards
+Name=Trident Agra, Agra
+
+Budget=4700onwards
+Name=Amar Yatri Niwas, Agra
+
+Budget=1500onwards
+Name=Clarks Shiraz Hotel, Agra
+
+Budget=6000onwards
+Name=Prayag Hotel, Allahabad
+
+Budget=500onwards
+Name=Taj Plaza Hotel, Agra
+
+Budget=700onwards
+Name=Holiday Inn, Agra
+
+Budget=8000onwards
+Name=Taj Heritage Hotel, Agra
+
+Budget=1800onwards
+Name=Sakura Hotel, Agra
+
+Budget=500onwards
+Name=Lara India Hotel, Varanasi
+
+Budget=600onwards
+Name=Crystal Inn Hotel, Agra
+
+Budget=3500onwards
+Name=Ranjit Hotel, Agra
+
+Budget=800onwards
+Hotels
+State=Uttaranchal7
+
+Name=Maharaja Hotel, Nainital
+
+Budget=1100onwards
+Name=Tulip Inn Green Castle, Mussoorie
+
+Budget=5500onwards
+Name=Alka - The Lake Side Hotel, Nainital
+
+Budget=2200onwards
+Name=Jaypee Residency Manor Mussoorie, Mussoorie
+
+Budget=12500onwards
+Name=Vishnu Palace Hotel, Mussoorie
+
+Budget=1000onwards
+Name=HoneyMoon Inn, Mussoorie
+
+Budget=4400onwards
+Name=Hotel Uttarakhand, Kausani
+
+Budget=1050onwards
+Name=Himalaya Hotel, Nainital
+
+Budget=1800onwards
+Name=Classic The Mall Hotel, Nainital
+
+Budget=5500onwards
+Name=Emerald Heights Hotel, Mussoorie
+
+Budget=2400onwards
+Name=Pratap Regency Hotel, Nainital
+
+Budget=1400onwards
+Name=Elphinstone Hotel, Nainital
+
+Budget=1000onwards
+Name=Queens Pearl Inn, Dehradun
+
+Budget=1200onwards
+Name=Ginger Hotel, Haridwar
+
+Budget=2000onwards
+Name=Parvati Inn Hotel, Ranikhet
+
+Budget=800onwards
+Name=Lake View Hotel, Nainital
+
+Budget=1200onwards
+Name=Grand Hotel, Nainital
+
+Budget=2600onwards
+Name=Hotel Mayur, Lansdowne
+
+Budget=800onwards
+Name=Oak Grove Inn, Lansdowne
+
+Budget=1700onwards
+Name=Hill Queen Hotel, Mussoorie
+
+Budget=1300onwards
+Name=Megapode Nest Hotel, Port Blair
+
+Budget=2450onwards
+Name=Fortune Resort Bay Island, Port Blair
+
+Budget=6800onwards
+Name=SeaShell, Port Blair
+
+Budget=4500onwards
+Name=Sinclairs Bay View Hotel, Port Blair
+
+Budget=6000onwards
+Name=The Kingdom, Havelock Island
+
+Budget=3200onwards
+Name=Silver Spring, Port Blair
+
+Budget=2800onwards
+Name=Blue Planet, Andaman & Nicobar
+
+Budget=500onwards
+Name=Andaman Residency, Port Blair
+
+Budget=1250onwards
+Name=Blue Sea Hotels, Port Blair
+
+Budget=2250onwards
+Name=Sentinel Hotel, Port Blair
+
+Budget=3800onwards
+Name=Da Bay Inn Hotel, Port Blair
+
+Budget=2000onwards
+Name=Bay View Inn, Havelock Island
+
+Budget=800onwards
+Name=Aparupa Hotel, Port Blair
+
+Budget=1400onwards
+Name=Mainak Hotel & Health Club, Port Blair
+
+Budget=1800onwards
+Name=Hilltop International Hotel, Port Blair
+
+Budget=3500onwards
+Name=Abhishek Hotel, Port Blair
+
+Budget=800onwards
+Name=Marine View Hotel, Port Blair
+
+Budget=1400onwards
+Name=Classic Regency Boutique Hotel, Port Blair
+
+Budget=2200onwards
+Name=Shompen Hotel, Port Blair
+
+Budget=1400onwards
+Name=King's Tower Hotel, Port Blair
+
+Budget=2000onwards
+Name=Punnami Srisailam, Srisailam
+
+Budget=1300onwards
+Name=Hotel MGM Grand, Srikalahasti
+
+Budget=1500onwards
+Name=Hill Resort Araku (Yatri Nivas), Araku Valley
+
+Budget=700onwards
+Name=Rajadhani Hotel, Araku Valley
+
+Budget=500onwards
+Name=Hairtha Srinivasam Complex, Tirupati
+
+Budget=500onwards
+Name=Vidhi Residency, Visakhapatnam
+
+Budget=1300onwards
+Name=Sri Sai Teja Residency, Srikalahasti
+
+Budget=600onwards
+Name=Green Valley Hotel, Araku Valley
+
+Budget=400onwards
+Name=Vijay Vihar, Nagarjunasagar
+
+Budget=1200onwards
+Name=Punnami Yatri Niwas, Araku Valley
+
+Budget=1000onwards
+Name=Balaji Grand, Kakinada
+
+Budget=900onwards
+Name=Fortune Kences, Tirupati
+
+Budget=4000onwards
+Name=The Park, Visakhapatnam
+
+Budget=9000onwards
+Name=Supreme Hotel, Visakhapatnam
+
+Budget=1200onwards
+Name=Bliss Hotel, Tirupati
+
+Budget=2800onwards
+Name=Bhimas Deluxe Hotel, Tirupati
+
+Budget=2250onwards
+Name=The Legend Hotels & resorts, Visakhapatnam
+
+Budget=1300onwards
+Name=The Bhimas Residency, Tirupati
+
+Budget=1875onwards
+Name=Daspalla Hotel, Visakhapatnam
+
+Budget=2800onwards
+Name=Pavamana Udupi Residency, Mantralayam
+
+Budget=600onwards
+Hotels
+State=Kerala15
+
+Name=Munnar Castle Hotel, Munnar
+
+Budget=2400onwards
+Name=Clouds Valley, Munnar
+
+Budget=4000onwards
+Name=Uday Samudra Hotel, Kovalam
+
+Budget=5400onwards
+Name=Green Gates Hotel, Wayanad
+
+Budget=3000onwards
+Name=Hill View Hotel, Munnar
+
+Budget=2300onwards
+Name=Cambay Palm Lagoon, Kollam (Quilon)
+
+Budget=4000onwards
+Name=Arya Nivas, Thiruvananthapuram
+
+Budget=800onwards
+Name=Elite Hotel, Guruvayur
+
+Budget=800onwards
+Name=Hotel C7, Munnar
+
+Budget=4000onwards
+Name=Grand Plaza Munnar, Munnar
+
+Budget=4000onwards
+Name=Excellency Hotel, Kochi (Cochin)
+
+Budget=900onwards
+Name=Alleppey Prince Hotel, Alappuzha (Alleppey)
+
+Budget=2000onwards
+Name=The Woodlands Hotel, Wayanad
+
+Budget=1000onwards
+Name=Samudra Hotel, Kovalam
+
+Budget=5100onwards
+Name=Tea Castle Hotel, Munnar
+
+Budget=3000onwards
+Name=Emerald Inn Hotel, Munnar
+
+Budget=2100onwards
+Name=Blue Ginger, Wayanad
+
+Budget=7500onwards
+Name=Nani Hotels & Resorts, Kollam (Quilon)
+
+Budget=1850onwards
+Name=Issac's Hotel Regency, Wayanad
+
+Budget=1400onwards
+Name=The Siena Village, Munnar
+
+Budget=5696onwards
+Hotels
+State=Pondicherry17
+
+Name=Anandha Inn, Pondicherry
+
+Budget=4500onwards
+Name=Green Palace Hotel, Pondicherry
+
+Budget=1950onwards
+Name=Ginger Hotel, Pondicherry
+
+Budget=2500onwards
+Name=Raj Residency, Pondicherry
+
+Budget=900onwards
+Name=Coramandal Hotel, Pondicherry
+
+Budget=900onwards
+Name=MGR Regency Comfort Hotel, Pondicherry
+
+Budget=1400onwards
+Name=Sri Sabthagiri Hotel, Pondicherry
+
+Budget=1250onwards
+Name=Abi Krishna Hotel, Pondicherry
+
+Budget=1500onwards
+Name=Ocean Spray Hotel, Pondicherry
+
+Budget=6400onwards
+Name=Sun Park Hotel, Pondicherry
+
+Budget=1900onwards
+Name=Abirami Residency, Pondicherry
+
+Budget=1700onwards
+Name=Sunway-GRT Grand, Pondicherry
+
+Budget=5000onwards
+Name=Annamalai International, Pondicherry
+
+Budget=4300onwards
+Name=Ram International Hotel, Pondicherry
+
+Budget=1100onwards
+Name=Kumaran Residency, Karaikal
+
+Budget=1900onwards
+Name=Jayaram Hotel, Pondicherry
+
+Budget=1700onwards
+Name=Hotel Mass, Pondicherry
+
+Budget=2750onwards
+Name=Atithi Hotel, Pondicherry
+
+Budget=4800onwards
+Name=Lotus Comfort Hotel, Pondicherry
+
+Budget=1700onwards
+Name=Palaniswamy Hotel, Pondicherry
+
+Budget=1800onwards
+Name=Lakeview Hotel, Ooty
+
+Budget=2000onwards
+Name=Clinton Park Inn, Velankanni
+
+Budget=2300onwards
+Name=Welbeck Residency Hotel, Ooty
+
+Budget=2400onwards
+Name=GRT Nature Trails, Yercaud
+
+Budget=6500onwards
+Name=Zest Danish Villa, Ooty
+
+Budget=5000onwards
+Name=Gopi Nivas Hotel, Kanyakumari
+
+Budget=950onwards
+Name=Ponmari Residencyy, Ooty
+
+Budget=2600onwards
+Name=Shevaroys Hotel, Yercaud
+
+Budget=1500onwards
+Name=Darshan Hotel, Ooty
+
+Budget=2200onwards
+Name=Sea Gate Hotel, Velankanni
+
+Budget=1000onwards
+Name=Tri Sea Hotel, Kanyakumari
+
+Budget=1600onwards
+Name=Hotel MCM Towers, Rameshwaram
+
+Budget=1300onwards
+Name=Sanjay Hotel, Ooty
+
+Budget=1680onwards
+Name=Sunrise Hotel, Kodaikanal
+
+Budget=1350onwards
+Name=Hotel Udhayam International, Thiruchendur
+
+Budget=1300onwards
+Name=Kodai International Hotel, Kodaikanal
+
+Budget=3000onwards
+Name=Picnic Hotel, Velankanni
+
+Budget=750onwards
+Name=Delightz Inn, Ooty
+
+Budget=3498onwards
+Name=Sea View Hotel, Kanyakumari
+
+Budget=3000onwards
+Name=Villa Retreat, Kodaikanal
+
+Budget=3850onwards
+Name=Woodlands Inn, Silvassa
+
+Budget=500onwards
+Name=Le Royale Hotel, Silvassa
+
+Budget=3000onwards
+Name=Van Vihar Hotel, Dadra & Nagar Haveli
+
+Budget=2000onwards
+Name=Pioneer Hotel, Silvassa
+
+Budget=1300onwards
+Name=Van Vihar Hotel, Silvassa
+
+Budget=1800onwards
+Name=Plaza Hotel, Silvassa
+
+Budget=500onwards
+Name=WoodLands Regency, Silvassa
+
+Budget=800onwards
+Name=Madhuban Hotel, Silvassa
+
+Budget=900onwards
+Name=Hotel Krishna, Silvassa
+
+Budget=1300onwards
+Name=Raj Hotel, Silvassa
+
+Budget=500onwards
+Name=Vanraj Hotel, Silvassa
+
+Budget=400onwards
+Name=Green Wood Hotel, Silvassa
+
+Budget=1400onwards
+Name=Soubhagya Inn Hotel, Silvassa
+
+Budget=600onwards
+Name=Puroihit Hotel, Silvassa
+
+Budget=800onwards
+Name=Ritz Hotel, Silvassa
+
+Budget=500onwards
+Name=Bhagwati Hotel, Silvassa
+
+Budget=500onwards
+Name=Vishwanath Hotel, Silvassa
+
+Budget=600onwards
+Name=Amruta Hotel, Silvassa
+
+Budget=400onwards
+Name=Dan Tourist Hotel, Silvassa
+
+Budget=400onwards
+Name=Pruthvi Raj Hotel, Silvassa
+
+Budget=400onwards
+Name=Miramar Hotel, Daman
+
+Budget=3000onwards
+Name=Cidade de Daman, Daman
+
+Budget=2500onwards
+Name=Apana Hotel, Diu
+
+Budget=1000onwards
+Name=Kohinoor Hotel, Diu
+
+Budget=7000onwards
+Name=Sea View Hotel, Diu
+
+Budget=900onwards
+Name=Jazira Hotel, Daman
+
+Budget=1000onwards
+Name=Gurukripa Hotel, Daman
+
+Budget=1300onwards
+Name=The Emerald Hotel, Daman
+
+Budget=1400onwards
+Name=Shilton Hotel, Daman
+
+Budget=1200onwards
+Name=Alishan Hotel, Diu
+
+Budget=500onwards
+Name=Marina Hotel, Daman
+
+Budget=900onwards
+Name=Samrat Hotel, Diu
+
+Budget=500onwards
+Name=Palms Hotel, Diu
+
+Budget=2300onwards
+Name=Ankur Hotel, Diu
+
+Budget=900onwards
+Name=Apaar Hotel, Diu
+
+Budget=2300onwards
+Name=Cidade de Diu Hotel, Diu
+
+Budget=1500onwards
+Name=Ocean Inn Hotel, Daman
+
+Budget=2000onwards
+Name=Khushi International Hotel, Diu
+
+Budget=1100onwards
+Name=Sovereign Hotel, Daman
+
+Budget=1500onwards
+Name=Prince Hotel, Diu
+
+Budget=800onwards
+Hotels
+State=Goa19
+
+Name=Neelams The Grand, Calangute
+
+Budget=6500onwards
+Name=Ginger Hotel, Panjim
+
+Budget=2500onwards
+Name=Kismat Mahal, Calangute
+
+Budget=1000onwards
+Name=Miramar Residency, Miramar
+
+Budget=2200onwards
+Name=Calangute Grande, Calangute
+
+Budget=4000onwards
+Name=Holiday Village Hotel, Goa
+
+Budget=200onwards
+Name=Colva Residency, Colva
+
+Budget=1200onwards
+Name=Germany Hotel, Calangute
+
+Budget=2000onwards
+Name=Vivanta by Taj, Panjim
+
+Budget=18000onwards
+Name=Neelams The Glitz Hotel, Calangute
+
+Budget=9000onwards
+Name=Manvins Hotel, Panjim
+
+Budget=1000onwards
+Name=Palacio de Goa Hotel, Panjim
+
+Budget=1700onwards
+Name=Colva Kinara Hotel, Colva
+
+Budget=1800onwards
+Name=Ashirwad Hotel, Bardez
+
+Budget=600onwards
+Name=Tangerine The Boutique Resort, Calangute
+
+Budget=6000onwards
+Name=Goa Woodlands Hotel, Margao
+
+Budget=2200onwards
+Name=Goan Heritage Hotel, Calangute
+
+Budget=5400onwards
+Name=Blessings Hotel, Panjim
+
+Budget=1200onwards
+Name=Godwin Hotel, Candolim Beach
+
+Budget=7500onwards
+Name=Bamboo Motels, Goa
+
+Budget=1000onwards
+Hotels
+State=Gujarat22
+
+Name=Cambay Grand Hotel, Ahmedabad
+
+Budget=8000onwards
+Name=Cambay Sapphire, Ahmedabad
+
+Budget=4000onwards
+Name=Aakar Lords Inn, Saputara
+
+Budget=6000onwards
+Name=Lords Inn, Somnath
+
+Budget=2400onwards
+Name=Patang Hotel, Saputara
+
+Budget=2000onwards
+Name=Dwarka Residency Hotel, Dwarka
+
+Budget=1000onwards
+Name=Anando Hotel, Saputara
+
+Budget=2400onwards
+Name=Vaishali, Saputara
+
+Budget=2000onwards
+Name=Avadh Hotel, Somnath
+
+Budget=600onwards
+Name=Ambar Hotel & Restaurant, Somnath
+
+Budget=800onwards
+Name=Hotel Damji, Dwarka
+
+Budget=1000onwards
+Name=Guruprerna Hotel, Dwarka
+
+Budget=850onwards
+Name=Hilltop Hotel, Saputara
+
+Budget=400onwards
+Name=City Palace Hotel, Dwarka
+
+Budget=1200onwards
+Name=Sinh Sadan Sasan Gir, Sasan gir
+
+Budget=500onwards
+Name=Champaner Hotel, Pavagadh
+
+Budget=400onwards
+Name=Darshan Hotel, Dwarka
+
+Budget=1200onwards
+Name=Hotel Sukh Sagar, Somnath
+
+Budget=1400onwards
+Name=Devang Hotel, Dwarka
+
+Budget=500onwards
+Name=Hotel Nand Nandan, Dwarka
+
+Budget=1200onwards
+Hotels
+State=Maharashtra20
+
+Name=Avion Hotel, Mumbai
+
+Budget=4800onwards
+Name=MTDC Shirdi Pilgrim's Inn, Shirdi
+
+Budget=1200onwards
+Name=Ravine Hotel, Panchgani
+
+Budget=3600onwards
+Name=Rajesh Hotel, Mahabaleshwar
+
+Budget=4000onwards
+Name=Pratap Heritage, Mahabaleshwar
+
+Budget=2600onwards
+Name=Lake View Hotel, Mahabaleshwar
+
+Budget=6800onwards
+Name=Fortune Select Dasve, Lavasa
+
+Budget=7000onwards
+Name=Sujal Heritage Hotel, Shirdi
+
+Budget=1500onwards
+Name=Sai Leela Hotel, Shirdi
+
+Budget=1700onwards
+Name=Woodlands Hotel, Matheran
+
+Budget=2700onwards
+Name=Shraddha Inn, Shirdi
+
+Budget=4450onwards
+Name=MTDC, Malshejghat
+
+Budget=1400onwards
+Name=Mahabaleshwar Palace, Mahabaleshwar
+
+Budget=2800onwards
+Name=Dreamland, Mahabaleshwar
+
+Budget=4500onwards
+Name=Jrd International, Amboli
+
+Budget=1000onwards
+Name=Regal Hotel, Matheran
+
+Budget=4500onwards
+Name=Shreyas Hotel, Mahabaleshwar
+
+Budget=3900onwards
+Name=Gujarat Bhavan Hotel, Matheran
+
+Budget=2300onwards
+Name=Grand Resort Hotel, Mahabaleshwar
+
+Budget=2400onwards
+Name=Kumar Plaza Hotel, Matheran
+
+Budget=4400onwards
+Hotels
+State=Chattisgarh26
+
+Name=Babylon International Hotel, Raipur
+
+Budget=4500onwards
+Name=Atithi Hotel, Jagdalpur
+
+Budget=400onwards
+Name=Simran Hotel, Raipur
+
+Budget=800onwards
+Name=Central Point Hotel, Bilaspur
+
+Budget=1000onwards
+Name=Grand Arjun Hotel, Raipur
+
+Budget=1800onwards
+Name=Grand International Hotel, Raipur
+
+Budget=2000onwards
+Name=Akanksha Hotel, Jagdalpur
+
+Budget=900onwards
+Name=Devansh Residency Hotel, Jagdalpur
+
+Budget=1490onwards
+Name=Kanishka Hotel, Raipur
+
+Budget=900onwards
+Name=Birendra Prabha Hotel, Ambikapur
+
+Budget=700onwards
+Name=Shubh Hotel, Raipur
+
+Budget=1100onwards
+Name=Vijay International Hotel, Durg
+
+Budget=500onwards
+Name=Sonai Rupai Hotel, Kanker
+
+Budget=1200onwards
+Name=Mayura Hotel, Raipur
+
+Budget=3200onwards
+Name=Shamrock International Hotel, Raipur
+
+Budget=2700onwards
+Name=Rainbow Hotel, Jagdalpur
+
+Budget=600onwards
+Name=Celebration Hotel, Raipur
+
+Budget=2500onwards
+Name=Amit Regency Hotel, Raipur
+
+Budget=1100onwards
+Name=Aditya Hotel, Raipur
+
+Budget=1500onwards
+Name=Sagar International Hotel, Durg
+
+Budget=1500onwards
+Hotels
+State=Jharkhand24
+
+Name=Yashoda International, Deoghar
+
+Budget=500onwards
+Name=Ginger Hotel, Jamshedpur
+
+Budget=4000onwards
+Name=Yatrik Hotel, Deoghar
+
+Budget=300onwards
+Name=Prabhat Vihar Hotel, Netarhat
+
+Budget=400onwards
+Name=Palash Residency Hotel, Ranchi
+
+Budget=2000onwards
+Name=Baidyanath Hotel, Deoghar
+
+Budget=500onwards
+Name=Mahadev Palace Hotel, Deoghar
+
+Budget=1200onwards
+Name=Manorma International Hotel, Deoghar
+
+Budget=800onwards
+Name=The Boulevard Hotel, Jamshedpur
+
+Budget=1000onwards
+Name=Element Hotel, Ranchi
+
+Budget=2700onwards
+Name=Capitol Hill Hotel, Ranchi
+
+Budget=5500onwards
+Name=Fortune Hotel Centre Point, Jamshedpur
+
+Budget=5800onwards
+Name=Darshan Hotel, Jamshedpur
+
+Budget=1500onwards
+Name=New Rajasthan Hotel, Ranchi
+
+Budget=300onwards
+Name=Ranchi Ashok, Ranchi
+
+Budget=2000onwards
+Name=Golden Tulip Hotel, Ranchi
+
+Budget=4000onwards
+Name=Sri Sai Hotel, Deoghar
+
+Budget=300onwards
+Name=The Chanakya BNR Hotel, Ranchi
+
+Budget=2700onwards
+Name=Relax Hotel, Deoghar
+
+Budget=600onwards
+Name=BS Park Plaza Hotel, Jamshedpur
+
+Budget=2800onwards
+Hotels
+State=Orissa27
+
+Name=Puri Hotel, Puri
+
+Budget=400onwards
+Name=Victoria Club Hotel, Puri
+
+Budget=700onwards
+Name=Sonali Hotel, Puri
+
+Budget=600onwards
+Name=Pulin Puri Hotel, Puri
+
+Budget=900onwards
+Name=Holiday Home, Puri
+
+Budget=500onwards
+Name=New Sea Hawk Hotel, Puri
+
+Budget=900onwards
+Name=Sea Gull Hotel, Puri
+
+Budget=1200onwards
+Name=Sonar Bangla Hotel, Puri
+
+Budget=2500onwards
+Name=Naren Palace Hotel, Puri
+
+Budget=1400onwards
+Name=Bangalaxmi Hotel, Puri
+
+Budget=1500onwards
+Name=Park Hotel, Puri
+
+Budget=500onwards
+Name=Dreamland Hotel, Puri
+
+Budget=1200onwards
+Name=Deepak Hotel, Puri
+
+Budget=850onwards
+Name=Sagarika Hotel, Puri
+
+Budget=300onwards
+Name=Sea Side Breeze, Gopalpur
+
+Budget=500onwards
+Name=Ginger Hotel, Bhubaneswar
+
+Budget=2700onwards
+Name=The Chanakya BNR Hotel, Puri
+
+Budget=2200onwards
+Name=Shree Hari Hotel, Puri
+
+Budget=2600onwards
+Name=Dolphin Hotel, Puri
+
+Budget=700onwards
+Name=Diamond Palace Hotel, Puri
+
+Budget=700onwards
+Name=Sea Hawk Hotel, Digha
+
+Budget=500onwards
+Name=Geetanjali Hotel, Digha
+
+Budget=700onwards
+Name=Dolphin Hotel, Digha
+
+Budget=700onwards
+Name=Sonar Bangla Hotel, Mandarmani
+
+Budget=2400onwards
+Name=Aqua marina drive inn, Mandarmani
+
+Budget=1400onwards
+Name=Blue View, Digha
+
+Budget=900onwards
+Name=Nest Hotel, Shankarpur
+
+Budget=400onwards
+Name=Sonar Bangla Hotel, Digha
+
+Budget=800onwards
+Name=Sea Bird Hotel, Digha
+
+Budget=300onwards
+Name=Sagarpriya Hotel, Digha
+
+Budget=800onwards
+Name=Broadway Hotel, Darjeeling
+
+Budget=1100onwards
+Name=Sonar Bangla Hotel, Tarapith
+
+Budget=2000onwards
+Name=Larica Holiday Inn, Digha
+
+Budget=1500onwards
+Name=Sonar Bangla Hotel, Darjeeling
+
+Budget=1800onwards
+Name=Seven Seventeen Hotel, Darjeeling
+
+Budget=1900onwards
+Name=Sea Coast Hotel, Midnapore
+
+Budget=1500onwards
+Name=Seagull Hotel, Digha
+
+Budget=1200onwards
+Name=The Bellevue Hotel, Darjeeling
+
+Budget=1000onwards
+Name=Greenland Inn, Digha
+
+Budget=700onwards
+Name=Royal Bengal Hotel, Santiniketan
+
+Budget=750onwards
+Name=La Hotel, Bomdila
+
+Budget=500onwards
+Name=Shipyangpong Hotel, Bomdila
+
+Budget=1200onwards
+Name=Hotel Gakyi Khang Zhang, Tawang
+
+Budget=1300onwards
+Name=Tawang Inn, Tawang
+
+Budget=1000onwards
+Name=Siddhartha Hotel, Tawang
+
+Budget=900onwards
+Name=Buddha Hotel, Tawang
+
+Budget=1000onwards
+Name=Hotel Pung Teng house, Tawang
+
+Budget=750onwards
+Name=Blue Pine Hotel, Ziro
+
+Budget=500onwards
+Name=Gorichen Hotel, Tawang
+
+Budget=800onwards
+Name=Shangrila Hotel, Bomdila
+
+Budget=300onwards
+Name=Hotel SC Continental, Itanagar
+
+Budget=2000onwards
+Name=Tawang View Hotel, Tawang
+
+Budget=1200onwards
+Name=Nefa Hotel, Tawang
+
+Budget=800onwards
+Name=Hotel Tsepal Yangjom, Bomdila
+
+Budget=1200onwards
+Name=Mount View Hotel, Tawang
+
+Budget=1500onwards
+Name=Arun Subansiri Hotel, Itanagar
+
+Budget=700onwards
+Name=Dolma Hotel, Tawang
+
+Budget=400onwards
+Name=Blue Pine Hotel, Itanagar
+
+Budget=400onwards
+Name=Himalayan Hotel, Itanagar
+
+Budget=700onwards
+Name=Pasang Hotel, Bomdila
+
+Budget=500onwards
+Hotels
+State=Assam28
+
+Name=Vishwaratna Hotel, Guwahati
+
+Budget=3500onwards
+Name=Nakshatra Hotel, Guwahati
+
+Budget=1800onwards
+Name=Mayur Hotel, Guwahati
+
+Budget=450onwards
+Name=Ginger Hotel, Guwahati
+
+Budget=2700onwards
+Name=Brindavan Hotel, Guwahati
+
+Budget=1000onwards
+Name=Rialto Hotel, Guwahati
+
+Budget=1200onwards
+Name=The Horn Bill Hotel, Guwahati
+
+Budget=1300onwards
+Name=Borail View Hotel, Silchar
+
+Budget=600onwards
+Name=Pragati Manor, Guwahati
+
+Budget=3000onwards
+Name=Nandan Hotel, Guwahati
+
+Budget=2100onwards
+Name=Dynasty Hotel, Guwahati
+
+Budget=5500onwards
+Name=Siroy Lily Hotel, Guwahati
+
+Budget=1100onwards
+Name=The Atithi Hotel, Guwahati
+
+Budget=1700onwards
+Name=Gateway Grandeur Hotel, Guwahati
+
+Budget=3900onwards
+Name=Landmark Hotel, Guwahati
+
+Budget=2200onwards
+Name=Blue Moon Hotel, Guwahati
+
+Budget=1000onwards
+Name=Starline Hotel, Guwahati
+
+Budget=800onwards
+Name=Orchid Hotel, Guwahati
+
+Budget=500onwards
+Name=Geetanjali Hotel, Guwahati
+
+Budget=500onwards
+Name=Indira Hotel, Guwahati
+
+Budget=500onwards
+Hotels
+State=Manipur30
+
+Name=Nirmala Hotel, Imphal
+
+Budget=700onwards
+Name=The Classic Hotel, Imphal
+
+Budget=2000onwards
+Name=Anand Continental Hotel, Imphal
+
+Budget=1000onwards
+Name=Imphal Hotel, Imphal
+
+Budget=400onwards
+Name=White Palace Hotel, Imphal
+
+Budget=400onwards
+Name=Hotel Prince, Imphal
+
+Budget=200onwards
+Name=Hotel Bheigo, Imphal
+
+Budget=500onwards
+Name=Dinesh Delux Hotel, Imphal
+
+Budget=300onwards
+Name=Hotel Krishtinia, Imphal
+
+Budget=300onwards
+Name=Hotel Krishtina, Imphal
+
+Budget=600onwards
+Name=Continental Hotel, Ukhrul
+
+Budget=200onwards
+Hotels
+State=Meghalaya32
+
+Name=Pinewood Ashok Hotel, Shillong
+
+Budget=2200onwards
+Name=Center Point Hotel, Shillong
+
+Budget=2800onwards
+Name=Alpine Continental Hotel, Shillong
+
+Budget=2300onwards
+Name=The Shillong Club, Shillong
+
+Budget=1500onwards
+Name=Yalana Hotel, Shillong
+
+Budget=600onwards
+Name=Polo Towers Hotel, Shillong
+
+Budget=3800onwards
+Name=Broadway Hotel, Shillong
+
+Budget=1300onwards
+Name=Silk Route Hotel, Shillong
+
+Budget=2100onwards
+Name=Orchid Hotel, Shillong
+
+Budget=600onwards
+Name=Micasa Hotel, Shillong
+
+Budget=1300onwards
+Name=Grace Hotel, Shillong
+
+Budget=700onwards
+Name=Pine Borough, Shillong
+
+Budget=700onwards
+Name=Ashutosh Inn, Shillong
+
+Budget=1200onwards
+Name=Assembly Hotel, Shillong
+
+Budget=1200onwards
+Name=Pagasus Crown Hotel, Shillong
+
+Budget=2500onwards
+Name=Rainbow Hotel, Shillong
+
+Budget=1200onwards
+Name=Monsoon Hotel, Shillong
+
+Budget=1200onwards
+Name=The Eee Cee Hotel, Shillong
+
+Budget=1800onwards
+Name=Blue Pine Hotel, Shillong
+
+Budget=1000onwards
+Name=Magnum Hotel, Shillong
+
+Budget=800onwards
+Hotels
+State=Mizoram33
+
+Name=Ritz Hotel, Aizawl
+
+Budget=800onwards
+Name=Royale Hotel, Aizawl
+
+Budget=600onwards
+Name=Chief Hotel, Aizawl
+
+Budget=800onwards
+Name=David's Clover Hotel, Aizawl
+
+Budget=750onwards
+Name=Chawlhna Hotel, Aizawl
+
+Budget=600onwards
+Name=Imperial Hotel, Aizawl
+
+Budget=200onwards
+Name=Millenium Hotel, Aizawl
+
+Budget=400onwards
+Name=Mayur Hotel, Aizawl
+
+Budget=400onwards
+Name=Orchid Hotel, Aizawl
+
+Budget=600onwards
+Name=Ahimsa Hotel, Aizawl
+
+Budget=800onwards
+Name=Hotel Riak Maw Inn, Aizawl
+
+Budget=1100onwards
+Hotels
+State=Nagaland35
+
+Name=Hotel Japfu Kohima, Kohima
+
+Budget=1800onwards
+Name=Hotel Orchid, Kohima
+
+Budget=2300onwards
+Name=Grandeur Hotel, Kohima
+
+Budget=1000onwards
+Name=Aradura Inn, Kohima
+
+Budget=1400onwards
+Name=Fira Hotel, Kohima
+
+Budget=800onwards
+Name=Saramati Hotel, Dimapur
+
+Budget=1200onwards
+Name=Hotel De Oriental Dream, Dimapur
+
+Budget=1600onwards
+Name=Hotel Pine, Kohima
+
+Budget=800onwards
+Name=Hotel Tragopan, Dimapur
+
+Budget=1500onwards
+Name=Dimori Cove, Kohima
+
+Budget=1400onwards
+Name=Hotel Razhu Pru, Kohima
+
+Budget=1800onwards
+Name=Tragopan Hotel, Dimapur
+
+Budget=1000onwards
+Name=Hotel Maple, Dimapur
+
+Budget=400onwards
+Name=Hotel Whispering Wind, Mokokchung
+
+Budget=900onwards
+Hotels
+State=Sikkim31
+
+Name=Sagorika Hotel, Gangtok
+
+Budget=1200onwards
+Name=Mayfair Gangtok, Gangtok
+
+Budget=12000onwards
+Name=Sai Kripa, Gangtok
+
+Budget=1000onwards
+Name=Nirvana Hotel, Gangtok
+
+Budget=1000onwards
+Name=Tibet Gallery Hotel, Gangtok
+
+Budget=2200onwards
+Name=Gangtok - Delisso Abode, A Sterling Holidays Resort, Gangtok
+
+Budget=4000onwards
+Name=Rabdentse Residency, Pelling
+
+Budget=1100onwards
+Name=The Royal Plaza, Gangtok
+
+Budget=4400onwards
+Name=Tashi Delek, Gangtok
+
+Budget=3400onwards
+Name=Hotel Sai Residency, Gangtok
+
+Budget=2500onwards
+Name=Golden Heights Hotel, Gangtok
+
+Budget=2200onwards
+Name=Hidden Forest Retreat, Gangtok
+
+Budget=1700onwards
+Name=Keepsa Residency, Gangtok
+
+Budget=6000onwards
+Name=Royal Residency Hotel, Gangtok
+
+Budget=2300onwards
+Name=White Conch Residency, Gangtok
+
+Budget=2100onwards
+Name=Anola Hotel, Gangtok
+
+Budget=1200onwards
+Name=Central Hotel, Gangtok
+
+Budget=3000onwards
+Name=Gajraj Hotel, Gangtok
+
+Budget=1800onwards
+Name=Ricasa Hotel, Gangtok
+
+Budget=2500onwards
+Name=Ttakshang Residency, Gangtok
+
+Budget=2600onwards
+Hotels
+State=Tripura29
+
+Name=Ginger Hotel, Agartala
+
+Budget=2900onwards
+Name=Rajdhani Hotel, Agartala
+
+Budget=1200onwards
+Name=Welcome Palace Hotel, Agartala
+
+Budget=700onwards
+Name=Royal Guest House, Agartala
+
+Budget=600onwards
+Name=Executive Inn Hotel, Agartala
+
+Budget=800onwards
+Name=Radha International Hotel, Agartala
+
+Budget=500onwards
+Name=City Centre Hotel, Agartala
+
+Budget=800onwards
+Name=Nirmala Hotel, Kailashahar
+
+Budget=200onwards
+Name=Star Hotel, Agartala
+
+Budget=300onwards
+Name=Galaxy Inn, Agartala
+
+Budget=500onwards
+Name=Rajarshi Badsha Hotel, Agartala
+
+Budget=400onwards
+Name=Minakshi Hotel, Agartala
+
+Budget=300onwards
+Name=Ambar Hotel, Agartala
+
+Budget=400onwards
+Name=Amber Hotel, Agartala
+
+Budget=400onwards
+Name=Hotel Haven, Agartala
+
+Budget=800onwards
+Name=Symphony Palms Beach Resort, Havelock Island
+
+Budget=3000onwards
+Name=SeaShell Beach Resort, Havelock Island
+
+Budget=4000onwards
+Name=Dolphin Resort, Havelock Island
+
+Budget=1500onwards
+Name=Dolphin Yatri Nivas, Havelock Island
+
+Budget=1500onwards
+Name=Silver Sand Beach Resort, Havelock Island
+
+Budget=6000onwards
+Name=TSG Emerald View, Port Blair
+
+Budget=2300onwards
+Name=The Wild Orchid, Havelock Island
+
+Budget=3000onwards
+Name=Peerless Sarovar Portico, Port Blair
+
+Budget=6500onwards
+Name=Barefoot at Havelock Jungle Resort, Havelock Island
+
+Budget=6000onwards
+Name=Megapode Camping Resort, Port Blair
+
+Budget=2250onwards
+Name=Sun Sea Resort, Port Blair
+
+Budget=2400onwards
+Name=Tango Beach Resort, Neil Island
+
+Budget=800onwards
+Name=Palm Grove Eco Resort, Port Blair
+
+Budget=600onwards
+Name=Holiday Inn Beach Resort, Havelock Island
+
+Budget=2200onwards
+Name=Silver Spring Resort, Havelock Island
+
+Budget=3000onwards
+Name=Eco Villa Palm Beach Resort, Havelock Island
+
+Budget=2000onwards
+Name=TSG Blue Resort, Havelock Island
+
+Budget=6000onwards
+Name=Cross Bill Beach Resort, Havelock Island
+
+Budget=3000onwards
+Name=Rose Valley Island Retreat, Port Blair
+
+Budget=6000onwards
+Name=Barefoot Scuba Dive Resort, Havelock Island
+
+Budget=1700onwards
+Beach Resorts
+State=Pondicherry17
+
+Name=Zest Big Beach, Pondicherry
+
+Budget=6000onwards
+Name=The Dune, Pondicherry
+
+Budget=5700onwards
+Name=St. James Court Beach Resort, Pondicherry
+
+Budget=3000onwards
+Name=Le Pondy, Pondicherry
+
+Budget=6500onwards
+Name=Kailash Beach Resort, Pondicherry
+
+Budget=5100onwards
+Name=Sea Gull Chunnambar Beach Resort, Pondicherry
+
+Budget=3500onwards
+Name=Annai Residence, Pondicherry
+
+Budget=1600onwards
+Name=Soorya Beach Resort, Pondicherry
+
+Budget=1000onwards
+Name=Nalla Eco Beach Resort, Pondicherry
+
+Budget=2500onwards
+Name=Ashok Beach Resort, Pondicherry
+
+Budget=6000onwards
+Name=The Neem Tree, Pondicherry
+
+Budget=1700onwards
+Name=Windflower Resort and spa, Pondicherry
+
+Budget=6700onwards
+Name=Holidays Farms & Resorts, Karaikal
+
+Budget=2000onwards
+Name=Eden Cottage Beach Resort, Pondicherry
+
+Budget=1000onwards
+Name=Zara Resorts, Pondicherry
+
+Budget=1800onwards
+Name=Prince Park Farm House, Pondicherry
+
+Budget=1800onwards
+Name=Prince Park, Pondicherry
+
+Budget=1800onwards
+Name=Little Castle Resort, Pondicherry
+
+Budget=2000onwards
+Name=Rosema Ayurveda Resorts, Pondicherry
+
+Budget=1400onwards
+Name=Zest Big Beach, Pondicherry
+
+Budget=1500onwards
+Beach Resorts
+State=Orissa27
+
+Name=Holiday Resort Hotel, Puri
+
+Budget=2400onwards
+Name=Toshali Sand Resort, Puri
+
+Budget=4500onwards
+Name=Mayfair Beach Resort, Puri
+
+Budget=10000onwards
+Name=Puri - Golden Sands, A Sterling Holidays Resort, Puri
+
+Budget=3500onwards
+Name=Deep Resort Hotel, Puri
+
+Budget=1000onwards
+Name=Park Beach Resort, Puri
+
+Budget=800onwards
+Name=Hans Coco Palm Beach Resort, Puri
+
+Budget=7000onwards
+Name=Mayfair Lagoon, Bhubaneswar
+
+Budget=10000onwards
+Name=Puri Beach Resort Hotel, Puri
+
+Budget=900onwards
+Name=Blue Lily Beach Resort, Puri
+
+Budget=3500onwards
+Name=The Chariot Resort and Spa, Puri
+
+Budget=2500onwards
+Name=Swosti Palm Resort, Gopalpur
+
+Budget=4000onwards
+Name=Nayak Beach Resort, Puri
+
+Budget=3500onwards
+Name=Sonali Resort, Puri
+
+Budget=500onwards
+Name=Reba Beach Resort, Puri
+
+Budget=770onwards
+Name=Lotus Resort, Ramchandi Beach, Konark
+
+Budget=5000onwards
+Name=Suryansh Hotels & Resorts, Bhubaneswar
+
+Budget=5000onwards
+Name=Gobinda Resorts Hotel, Puri
+
+Budget=400onwards
+Name=Oyster Beach Resort, Puri
+
+Budget=800onwards
+Name=Blue Orchid Resorts, Puri
+
+Budget=4500onwards
+Name=Rose Valley Resort, Mandarmani
+
+Budget=3000onwards
+Name=Digante, Mandarmani
+
+Budget=1100onwards
+Name=The Sana Beach, Mandarmani
+
+Budget=2500onwards
+Name=Darjeeling - Silver Oaks, A Sterling Holidays Resort, Darjeeling
+
+Budget=3500onwards
+Name=Neel Nirjaney, Mandarmani
+
+Budget=1000onwards
+Name=The Ffort, Raichak
+
+Budget=8000onwards
+Name=Mayfair Hill Resort Hotel, Darjeeling
+
+Budget=10000onwards
+Name=Dream Land, Mandarmani
+
+Budget=1300onwards
+Name=The Palm Resort, Digha
+
+Budget=1500onwards
+Name=Central Heritage, Darjeeling
+
+Budget=7700onwards
+Name=Debraj Beach Resort, Mandarmani
+
+Budget=1200onwards
+Name=The Golden Beach Resort, Mandarmani
+
+Budget=1200onwards
+Name=J P Resort, Mandarmani
+
+Budget=1500onwards
+Name=Resort Hirak Jayanti, Mandarmani
+
+Budget=1200onwards
+Name=Dream Hut Resort, Mandarmani
+
+Budget=1200onwards
+Name=Sinclairs Darjeeling Hotel, Darjeeling
+
+Budget=3500onwards
+Name=Central Nirvana, Darjeeling
+
+Budget=4000onwards
+Name=Eco Villa Resorts, Mandarmani
+
+Budget=1500onwards
+Name=Masara Beach Resort, Mandarmani
+
+Budget=1200onwards
+Name=Mark & Meadows Resort, Santiniketan
+
+Budget=2400onwards
+Name=Ooty - Fern Hill, A Sterling Holidays Resort, Ooty
+
+Budget=4500onwards
+Name=Kodai - By The Lake, A Sterling Holidays Resort, Kodaikanal
+
+Budget=4000onwards
+Name=Zeenath Taj Garden Resort, Yelagiri Hills
+
+Budget=2000onwards
+Name=Fairstay Holiday Resorts, Ooty
+
+Budget=3000onwards
+Name=Yercaud - Rock Perch, A Sterling Holidays Resort, Yercaud
+
+Budget=6000onwards
+Name=Ooty - Elk Hill, A Sterling Holidays Resort, Ooty
+
+Budget=4500onwards
+Name=Kodai Resort, Kodaikanal
+
+Budget=2500onwards
+Name=Sagar Holiday Resorts, Ooty
+
+Budget=3500onwards
+Name=Grand Palace Hotel, Yercaud
+
+Budget=3500onwards
+Name=Club Mahindra Hill Country, Kodaikanal
+
+Budget=6400onwards
+Name=Zest Coakers Villa Kodaikanal, Kodaikanal
+
+Budget=4500onwards
+Name=Kodai - Valley View, A Sterling Holidays Resort, Kodaikanal
+
+Budget=4500onwards
+Name=Jungle Hut, Mudumalai
+
+Budget=5000onwards
+Name=GRT Temple Bay, Mahabalipuram
+
+Budget=10000onwards
+Name=Srishty Garden Resorts, Courtallam
+
+Budget=1200onwards
+Name=Bear Mountain Jungle Resort, Mudumalai
+
+Budget=2000onwards
+Name=Star Holiday Resort, Yercaud
+
+Budget=1450onwards
+Name=Yelagiri-Madhura,A sterling Holidays Resort, Yelagiri Hills
+
+Budget=4000onwards
+Name=Bel Air Cottage, Kotagiri
+
+Budget=1250onwards
+Name=Kurumba Village Resort, Coonoor
+
+Budget=8600onwards
+Name=Haritha Beach Resort, Visakhapatnam
+
+Budget=1500onwards
+Name=Haritha Mayuri Resort, Araku Valley
+
+Budget=1200onwards
+Name=Haritha Hill Resort, Horsley Hills
+
+Budget=700onwards
+Name=Sai Priya Resorts, Visakhapatnam
+
+Budget=1300onwards
+Name=Ushodaya Resort, Araku Valley
+
+Budget=400onwards
+Name=KrishnaTara Comforts, Araku Valley
+
+Budget=1300onwards
+Name=Senora Beach Resort, Visakhapatnam
+
+Budget=1500onwards
+Name=Aalankrita, Hyderabad
+
+Budget=3500onwards
+Name=Ananthagiri Valley Resort, Ananthagiri
+
+Budget=1600onwards
+Name=Haritha Beach Resort Suryalanka, Guntur
+
+Budget=2000onwards
+Name=Vihar Holiday Inn Resorts, Araku Valley
+
+Budget=2000onwards
+Name=Dhimsa Resorts, Araku Valley
+
+Budget=500onwards
+Name=Coconut Country Resort, Konaseema
+
+Budget=2100onwards
+Name=Lahari Resorts, Hyderabad
+
+Budget=5600onwards
+Name=Grand World Resorts, Tirupati
+
+Budget=3200onwards
+Name=Ramoji Film City, Hyderabad
+
+Budget=6000onwards
+Name=Country Club Begumpet, Hyderabad
+
+Budget=2700onwards
+Name=WelcomHeritage Pragati Resorts, Hyderabad
+
+Budget=3500onwards
+Name=Dalmia Resorts Temple Valley, Tirupati
+
+Budget=1200onwards
+Name=Golkonda Resorts Spa, Hyderabad
+
+Budget=4200onwards
+Beach Resorts
+State=Karnataka13
+
+Name=Club Mahindra Kodagu Valley, Coorg
+
+Budget=9300onwards
+Name=Orange County Resort, Coorg
+
+Budget=20000onwards
+Name=Evergreen County, Coorg
+
+Budget=1700onwards
+Name=Jungle Lodges Kabini River Lodge, Kabini
+
+Budget=10000onwards
+Name=Coorg Parumpara, Coorg
+
+Budget=2400onwards
+Name=MC Resorts, Bandipur National Park
+
+Budget=5500onwards
+Name=Jungle Lodges Bandipur Safari Lodge, Bandipur National Park
+
+Budget=10000onwards
+Name=Hornbill River Resorts, Dandeli
+
+Budget=3000onwards
+Name=Our Native Village, Hesaraghatta
+
+Budget=7500onwards
+Name=Vijayshree Heritage Village, Hospet
+
+Budget=4500onwards
+Name=Paradise Isle Beach Resort, Malpe
+
+Budget=3500onwards
+Name=Jungle Lodges Devbagh Beach Resort, Devbagh
+
+Budget=8000onwards
+Name=Heritage Resort, Coorg
+
+Budget=8500onwards
+Name=Jungle Lodges Kali Wilderness Camp, Dandeli
+
+Budget=6000onwards
+Name=Jungle Lodges Bheemeshwari Fishing & Nature Camp, Bheemeshwari
+
+Budget=7000onwards
+Name=Raya, Talkad
+
+Budget=5040onwards
+Name=Orange County-Kabini, Kabini
+
+Budget=26000onwards
+Name=The Wind Flower, Mysore
+
+Budget=5100onwards
+Name=Bird of Paradise, Coorg
+
+Budget=3850onwards
+Name=Amblee Holiday Resort, Srirangapatna
+
+Budget=1300onwards
+Beach Resorts
+State=Kerala15
+
+Name=Club Mahindra Lake View, Munnar
+
+Budget=14000onwards
+Name=Igloo Nature Resort, Munnar
+
+Budget=4500onwards
+Name=Panoramic Sea Resort, Alappuzha (Alleppey)
+
+Budget=3500onwards
+Name=Vythiri Resorts, Wayanad
+
+Budget=9000onwards
+Name=Munnar - Terrace Greens, A Sterling Holidays Resort, Munnar
+
+Budget=7000onwards
+Name=Emmel Dwellings, Munnar
+
+Budget=1200onwards
+Name=Chancellor AyurCounty Resort, Munnar
+
+Budget=4197onwards
+Name=Tea County Hill Station Resort, Munnar
+
+Budget=7825onwards
+Name=Kumarakom Lake Resort, Kumarakom
+
+Budget=8450onwards
+Name=Misty Mountain Resort, Munnar
+
+Budget=3000onwards
+Name=Forest Haven Resorts, Munnar
+
+Budget=3000onwards
+Name=Haritagiri Resort, Wayanad
+
+Budget=1200onwards
+Name=Sagara Beach Resort, Kovalam
+
+Budget=2500onwards
+Name=Leela, Kovalam Beach Resort, Kovalam
+
+Budget=13500onwards
+Name=Bell Mount Resorts, Munnar
+
+Budget=2250onwards
+Name=Vythiri Village, Vythri
+
+Budget=7500onwards
+Name=Club Mahindra Tusker Trails, Thekkady(Periyar)
+
+Budget=7500onwards
+Name=Great Escapes, Munnar
+
+Budget=2500onwards
+Name=Deshadan Mountain Resort, Munnar
+
+Budget=3800onwards
+Name=West Wood Riverside, Munnar
+
+Budget=3500onwards
+Beach Resorts
+State=Goa19
+
+Name=Club Mahindra Varca Beach Resort, Varca
+
+Budget=5000onwards
+Name=Cidade de Goa Beach Resort, Goa
+
+Budget=12750onwards
+Name=Royal Goan Beach Club at Royal Palms, Benaulim
+
+Budget=1500onwards
+Name=Alor Holiday Resort, Calangute
+
+Budget=3000onwards
+Name=Pearls Oceanique Resort, Colva
+
+Budget=3000onwards
+Name=Holiday Inn Resort, Cavelossim-Mobor
+
+Budget=9000onwards
+Name=Estrela Do Mar Beach Resort, Baga
+
+Budget=4000onwards
+Name=Terra Paraiso Resort, Calangute
+
+Budget=5000onwards
+Name=Royal Goan Beach Club at Haathi Mahal, Salcette
+
+Budget=5500onwards
+Name=Leela Kempinski, Cavelossim-Mobor
+
+Budget=16000onwards
+Name=Avantika Resort, Calangute
+
+Budget=1600onwards
+Name=Park Hyatt Goa Resort & Spa, Cansaulim
+
+Budget=17500onwards
+Name=Majorda Beach Resort, Majorda Beach
+
+Budget=10000onwards
+Name=Taj Exotica, Benaulim
+
+Budget=18000onwards
+Name=Vivanta by Taj- Fort Aguada, Aguada Beach
+
+Budget=12000onwards
+Name=Vivanta by Taj - Holiday Village, Aguada Beach
+
+Budget=13500onwards
+Name=Zuri White Sands, Varca
+
+Budget=10000onwards
+Name=Alor Grande, Candolim Beach
+
+Budget=3500onwards
+Name=Ramada Caravela Beach Resort, Varca
+
+Budget=10000onwards
+Name=Kenilworth Beach Resort and Spa, Goa
+
+Budget=13000onwards
+Beach Resorts
+State=Maharashtra20
+
+Name=MTDC Beach Resort Ganapatipule, Ganapatipule
+
+Budget=1900onwards
+Name=MTDC Holiday Resort Mahabaleshwar, Mahabaleshwar
+
+Budget=1000onwards
+Name=MTDC Holiday Resort Tarkarli, Tarkarli
+
+Budget=7000onwards
+Name=MTDC Holiday Resort Karla, Lonavala
+
+Budget=1300onwards
+Name=Horseland Hotel & Mountain Spa, Matheran
+
+Budget=3600onwards
+Name=Ekaant Retreat, Lavasa
+
+Budget=3000onwards
+Name=Prakruti Resorts, Kashid Beach
+
+Budget=7000onwards
+Name=Mercure Lavasa, Lavasa
+
+Budget=4500onwards
+Name=Brightlands Resort, Matheran
+
+Budget=3400onwards
+Name=Ramsukh Resorts, Mahabaleshwar
+
+Budget=5700onwards
+Name=Fariyas Resort Lonavla, Lonavala
+
+Budget=11000onwards
+Name=Rangoli Retreat, Matheran
+
+Budget=2400onwards
+Name=Kashid Beach Resort, Kashid Beach
+
+Budget=3500onwards
+Name=Usha Ascot, Matheran
+
+Budget=5400onwards
+Name=The Waterfront Shaw, Lavasa
+
+Budget=4500onwards
+Name=Abhishek Beach Resort, Ganapatipule
+
+Budget=3000onwards
+Name=Valley View Resort, Mahabaleshwar
+
+Budget=3700onwards
+Name=The Byke Retreat, Matheran
+
+Budget=4300onwards
+Name=Manas Resort, Igatpuri
+
+Budget=3900onwards
+Name=Yash Resort, Bhandardara
+
+Budget=2000onwards
+Beach Resorts
+State=Gujarat22
+
+Name=Cambay Spa & Resort, Gandhinagar
+
+Budget=4000onwards
+Name=Toran Hill Resort, Saputara
+
+Budget=400onwards
+Name=Chitrakoot Hotel, Saputara
+
+Budget=1500onwards
+Name=Vaity Ropeway Resort, Saputara
+
+Budget=1800onwards
+Name=Savshanti Lake Resort Hotel, Saputara
+
+Budget=2900onwards
+Name=Shilpi Hill Resort, Saputara
+
+Budget=6400onwards
+Name=Club Mahindra Safari Resort, Sasan gir
+
+Budget=5800onwards
+Name=The Fern Gir Forest Resort, Sasan gir
+
+Budget=7000onwards
+Name=Maneland Jungle Lodge, Sasan gir
+
+Budget=4200onwards
+Name=Amidhara Resort, Sasan gir
+
+Budget=3300onwards
+Name=Salty Beach Resort, Tithal
+
+Budget=600onwards
+Name=Sukhsagar Gir Resort, Sasan gir
+
+Budget=4000onwards
+Name=Rann Riders, Kutch
+
+Budget=6000onwards
+Name=Safari Resort, Somnath
+
+Budget=1700onwards
+Name=Sharma Resort, Kutch
+
+Budget=2900onwards
+Name=Water World Resort, Ahmedabad
+
+Budget=2700onwards
+Name=Vanvaso Resort, Sasan gir
+
+Budget=9000onwards
+Name=Greenwoods Lake Resort, Ahmedabad
+
+Budget=1400onwards
+Name=Goveardhan Green Resort, Dwarka
+
+Budget=3500onwards
+Name=Madhubhan Resort & Spa, Anand
+
+Budget=10000onwards
+Name=Symphony Palms Beach Resort, Havelock Island
+
+Budget=3000onwards
+Name=SeaShell Beach Resort, Havelock Island
+
+Budget=4000onwards
+Name=Dolphin Resort, Havelock Island
+
+Budget=1500onwards
+Name=Dolphin Yatri Nivas, Havelock Island
+
+Budget=1500onwards
+Name=Silver Sand Beach Resort, Havelock Island
+
+Budget=6000onwards
+Name=TSG Emerald View, Port Blair
+
+Budget=2300onwards
+Name=The Wild Orchid, Havelock Island
+
+Budget=3000onwards
+Name=Peerless Sarovar Portico, Port Blair
+
+Budget=6500onwards
+Name=Barefoot at Havelock Jungle Resort, Havelock Island
+
+Budget=6000onwards
+Name=Megapode Camping Resort, Port Blair
+
+Budget=2250onwards
+Name=Sun Sea Resort, Port Blair
+
+Budget=2400onwards
+Name=Tango Beach Resort, Neil Island
+
+Budget=800onwards
+Name=Palm Grove Eco Resort, Port Blair
+
+Budget=600onwards
+Name=Holiday Inn Beach Resort, Havelock Island
+
+Budget=2200onwards
+Name=Silver Spring Resort, Havelock Island
+
+Budget=3000onwards
+Name=Eco Villa Palm Beach Resort, Havelock Island
+
+Budget=2000onwards
+Name=TSG Blue Resort, Havelock Island
+
+Budget=6000onwards
+Name=Cross Bill Beach Resort, Havelock Island
+
+Budget=3000onwards
+Name=Rose Valley Island Retreat, Port Blair
+
+Budget=6000onwards
+Name=Barefoot Scuba Dive Resort, Havelock Island
+
+Budget=1700onwards
+Beach Resorts
+State=Pondicherry17
+
+Name=Zest Big Beach, Pondicherry
+
+Budget=6000onwards
+Name=The Dune, Pondicherry
+
+Budget=5700onwards
+Name=St. James Court Beach Resort, Pondicherry
+
+Budget=3000onwards
+Name=Le Pondy, Pondicherry
+
+Budget=6500onwards
+Name=Kailash Beach Resort, Pondicherry
+
+Budget=5100onwards
+Name=Sea Gull Chunnambar Beach Resort, Pondicherry
+
+Budget=3500onwards
+Name=Annai Residence, Pondicherry
+
+Budget=1600onwards
+Name=Soorya Beach Resort, Pondicherry
+
+Budget=1000onwards
+Name=Nalla Eco Beach Resort, Pondicherry
+
+Budget=2500onwards
+Name=Ashok Beach Resort, Pondicherry
+
+Budget=6000onwards
+Name=The Neem Tree, Pondicherry
+
+Budget=1700onwards
+Name=Windflower Resort and spa, Pondicherry
+
+Budget=6700onwards
+Name=Holidays Farms & Resorts, Karaikal
+
+Budget=2000onwards
+Name=Eden Cottage Beach Resort, Pondicherry
+
+Budget=1000onwards
+Name=Zara Resorts, Pondicherry
+
+Budget=1800onwards
+Name=Prince Park Farm House, Pondicherry
+
+Budget=1800onwards
+Name=Prince Park, Pondicherry
+
+Budget=1800onwards
+Name=Little Castle Resort, Pondicherry
+
+Budget=2000onwards
+Name=Rosema Ayurveda Resorts, Pondicherry
+
+Budget=1400onwards
+Name=Zest Big Beach, Pondicherry
+
+Budget=1500onwards
+Beach Resorts
+State=Orissa27
+
+Name=Holiday Resort Hotel, Puri
+
+Budget=2400onwards
+Name=Toshali Sand Resort, Puri
+
+Budget=4500onwards
+Name=Mayfair Beach Resort, Puri
+
+Budget=10000onwards
+Name=Puri - Golden Sands, A Sterling Holidays Resort, Puri
+
+Budget=3500onwards
+Name=Deep Resort Hotel, Puri
+
+Budget=1000onwards
+Name=Park Beach Resort, Puri
+
+Budget=800onwards
+Name=Hans Coco Palm Beach Resort, Puri
+
+Budget=7000onwards
+Name=Mayfair Lagoon, Bhubaneswar
+
+Budget=10000onwards
+Name=Puri Beach Resort Hotel, Puri
+
+Budget=900onwards
+Name=Blue Lily Beach Resort, Puri
+
+Budget=3500onwards
+Name=The Chariot Resort and Spa, Puri
+
+Budget=2500onwards
+Name=Swosti Palm Resort, Gopalpur
+
+Budget=4000onwards
+Name=Nayak Beach Resort, Puri
+
+Budget=3500onwards
+Name=Sonali Resort, Puri
+
+Budget=500onwards
+Name=Reba Beach Resort, Puri
+
+Budget=770onwards
+Name=Lotus Resort, Ramchandi Beach, Konark
+
+Budget=5000onwards
+Name=Suryansh Hotels & Resorts, Bhubaneswar
+
+Budget=5000onwards
+Name=Gobinda Resorts Hotel, Puri
+
+Budget=400onwards
+Name=Oyster Beach Resort, Puri
+
+Budget=800onwards
+Name=Blue Orchid Resorts, Puri
+
+Budget=4500onwards
+Name=Rose Valley Resort, Mandarmani
+
+Budget=3000onwards
+Name=Digante, Mandarmani
+
+Budget=1100onwards
+Name=The Sana Beach, Mandarmani
+
+Budget=2500onwards
+Name=Darjeeling - Silver Oaks, A Sterling Holidays Resort, Darjeeling
+
+Budget=3500onwards
+Name=Neel Nirjaney, Mandarmani
+
+Budget=1000onwards
+Name=The Ffort, Raichak
+
+Budget=8000onwards
+Name=Mayfair Hill Resort Hotel, Darjeeling
+
+Budget=10000onwards
+Name=Dream Land, Mandarmani
+
+Budget=1300onwards
+Name=The Palm Resort, Digha
+
+Budget=1500onwards
+Name=Central Heritage, Darjeeling
+
+Budget=7700onwards
+Name=Debraj Beach Resort, Mandarmani
+
+Budget=1200onwards
+Name=The Golden Beach Resort, Mandarmani
+
+Budget=1200onwards
+Name=J P Resort, Mandarmani
+
+Budget=1500onwards
+Name=Resort Hirak Jayanti, Mandarmani
+
+Budget=1200onwards
+Name=Dream Hut Resort, Mandarmani
+
+Budget=1200onwards
+Name=Sinclairs Darjeeling Hotel, Darjeeling
+
+Budget=3500onwards
+Name=Central Nirvana, Darjeeling
+
+Budget=4000onwards
+Name=Eco Villa Resorts, Mandarmani
+
+Budget=1500onwards
+Name=Masara Beach Resort, Mandarmani
+
+Budget=1200onwards
+Name=Mark & Meadows Resort, Santiniketan
+
+Budget=2400onwards
+Name=Ooty - Fern Hill, A Sterling Holidays Resort, Ooty
+
+Budget=4500onwards
+Name=Kodai - By The Lake, A Sterling Holidays Resort, Kodaikanal
+
+Budget=4000onwards
+Name=Zeenath Taj Garden Resort, Yelagiri Hills
+
+Budget=2000onwards
+Name=Fairstay Holiday Resorts, Ooty
+
+Budget=3000onwards
+Name=Yercaud - Rock Perch, A Sterling Holidays Resort, Yercaud
+
+Budget=6000onwards
+Name=Ooty - Elk Hill, A Sterling Holidays Resort, Ooty
+
+Budget=4500onwards
+Name=Kodai Resort, Kodaikanal
+
+Budget=2500onwards
+Name=Sagar Holiday Resorts, Ooty
+
+Budget=3500onwards
+Name=Grand Palace Hotel, Yercaud
+
+Budget=3500onwards
+Name=Club Mahindra Hill Country, Kodaikanal
+
+Budget=6400onwards
+Name=Zest Coakers Villa Kodaikanal, Kodaikanal
+
+Budget=4500onwards
+Name=Kodai - Valley View, A Sterling Holidays Resort, Kodaikanal
+
+Budget=4500onwards
+Name=Jungle Hut, Mudumalai
+
+Budget=5000onwards
+Name=GRT Temple Bay, Mahabalipuram
+
+Budget=10000onwards
+Name=Srishty Garden Resorts, Courtallam
+
+Budget=1200onwards
+Name=Bear Mountain Jungle Resort, Mudumalai
+
+Budget=2000onwards
+Name=Star Holiday Resort, Yercaud
+
+Budget=1450onwards
+Name=Yelagiri-Madhura,A sterling Holidays Resort, Yelagiri Hills
+
+Budget=4000onwards
+Name=Bel Air Cottage, Kotagiri
+
+Budget=1250onwards
+Name=Kurumba Village Resort, Coonoor
+
+Budget=8600onwards
+Name=Haritha Beach Resort, Visakhapatnam
+
+Budget=1500onwards
+Name=Haritha Mayuri Resort, Araku Valley
+
+Budget=1200onwards
+Name=Haritha Hill Resort, Horsley Hills
+
+Budget=700onwards
+Name=Sai Priya Resorts, Visakhapatnam
+
+Budget=1300onwards
+Name=Ushodaya Resort, Araku Valley
+
+Budget=400onwards
+Name=KrishnaTara Comforts, Araku Valley
+
+Budget=1300onwards
+Name=Senora Beach Resort, Visakhapatnam
+
+Budget=1500onwards
+Name=Aalankrita, Hyderabad
+
+Budget=3500onwards
+Name=Ananthagiri Valley Resort, Ananthagiri
+
+Budget=1600onwards
+Name=Haritha Beach Resort Suryalanka, Guntur
+
+Budget=2000onwards
+Name=Vihar Holiday Inn Resorts, Araku Valley
+
+Budget=2000onwards
+Name=Dhimsa Resorts, Araku Valley
+
+Budget=500onwards
+Name=Coconut Country Resort, Konaseema
+
+Budget=2100onwards
+Name=Lahari Resorts, Hyderabad
+
+Budget=5600onwards
+Name=Grand World Resorts, Tirupati
+
+Budget=3200onwards
+Name=Ramoji Film City, Hyderabad
+
+Budget=6000onwards
+Name=Country Club Begumpet, Hyderabad
+
+Budget=2700onwards
+Name=WelcomHeritage Pragati Resorts, Hyderabad
+
+Budget=3500onwards
+Name=Dalmia Resorts Temple Valley, Tirupati
+
+Budget=1200onwards
+Name=Golkonda Resorts Spa, Hyderabad
+
+Budget=4200onwards
+Beach Resorts
+State=Karnataka13
+
+Name=Club Mahindra Kodagu Valley, Coorg
+
+Budget=9300onwards
+Name=Orange County Resort, Coorg
+
+Budget=20000onwards
+Name=Evergreen County, Coorg
+
+Budget=1700onwards
+Name=Jungle Lodges Kabini River Lodge, Kabini
+
+Budget=10000onwards
+Name=Coorg Parumpara, Coorg
+
+Budget=2400onwards
+Name=MC Resorts, Bandipur National Park
+
+Budget=5500onwards
+Name=Jungle Lodges Bandipur Safari Lodge, Bandipur National Park
+
+Budget=10000onwards
+Name=Hornbill River Resorts, Dandeli
+
+Budget=3000onwards
+Name=Our Native Village, Hesaraghatta
+
+Budget=7500onwards
+Name=Vijayshree Heritage Village, Hospet
+
+Budget=4500onwards
+Name=Paradise Isle Beach Resort, Malpe
+
+Budget=3500onwards
+Name=Jungle Lodges Devbagh Beach Resort, Devbagh
+
+Budget=8000onwards
+Name=Heritage Resort, Coorg
+
+Budget=8500onwards
+Name=Jungle Lodges Kali Wilderness Camp, Dandeli
+
+Budget=6000onwards
+Name=Jungle Lodges Bheemeshwari Fishing & Nature Camp, Bheemeshwari
+
+Budget=7000onwards
+Name=Raya, Talkad
+
+Budget=5040onwards
+Name=Orange County-Kabini, Kabini
+
+Budget=26000onwards
+Name=The Wind Flower, Mysore
+
+Budget=5100onwards
+Name=Bird of Paradise, Coorg
+
+Budget=3850onwards
+Name=Amblee Holiday Resort, Srirangapatna
+
+Budget=1300onwards
+Beach Resorts
+State=Kerala15
+
+Name=Club Mahindra Lake View, Munnar
+
+Budget=14000onwards
+Name=Igloo Nature Resort, Munnar
+
+Budget=4500onwards
+Name=Panoramic Sea Resort, Alappuzha (Alleppey)
+
+Budget=3500onwards
+Name=Vythiri Resorts, Wayanad
+
+Budget=9000onwards
+Name=Munnar - Terrace Greens, A Sterling Holidays Resort, Munnar
+
+Budget=7000onwards
+Name=Emmel Dwellings, Munnar
+
+Budget=1200onwards
+Name=Chancellor AyurCounty Resort, Munnar
+
+Budget=4197onwards
+Name=Tea County Hill Station Resort, Munnar
+
+Budget=7825onwards
+Name=Kumarakom Lake Resort, Kumarakom
+
+Budget=8450onwards
+Name=Misty Mountain Resort, Munnar
+
+Budget=3000onwards
+Name=Forest Haven Resorts, Munnar
+
+Budget=3000onwards
+Name=Haritagiri Resort, Wayanad
+
+Budget=1200onwards
+Name=Sagara Beach Resort, Kovalam
+
+Budget=2500onwards
+Name=Leela, Kovalam Beach Resort, Kovalam
+
+Budget=13500onwards
+Name=Bell Mount Resorts, Munnar
+
+Budget=2250onwards
+Name=Vythiri Village, Vythri
+
+Budget=7500onwards
+Name=Club Mahindra Tusker Trails, Thekkady(Periyar)
+
+Budget=7500onwards
+Name=Great Escapes, Munnar
+
+Budget=2500onwards
+Name=Deshadan Mountain Resort, Munnar
+
+Budget=3800onwards
+Name=West Wood Riverside, Munnar
+
+Budget=3500onwards
+Beach Resorts
+State=Goa19
+
+Name=Club Mahindra Varca Beach Resort, Varca
+
+Budget=5000onwards
+Name=Cidade de Goa Beach Resort, Goa
+
+Budget=12750onwards
+Name=Royal Goan Beach Club at Royal Palms, Benaulim
+
+Budget=1500onwards
+Name=Alor Holiday Resort, Calangute
+
+Budget=3000onwards
+Name=Pearls Oceanique Resort, Colva
+
+Budget=3000onwards
+Name=Holiday Inn Resort, Cavelossim-Mobor
+
+Budget=9000onwards
+Name=Estrela Do Mar Beach Resort, Baga
+
+Budget=4000onwards
+Name=Terra Paraiso Resort, Calangute
+
+Budget=5000onwards
+Name=Royal Goan Beach Club at Haathi Mahal, Salcette
+
+Budget=5500onwards
+Name=Leela Kempinski, Cavelossim-Mobor
+
+Budget=16000onwards
+Name=Avantika Resort, Calangute
+
+Budget=1600onwards
+Name=Park Hyatt Goa Resort & Spa, Cansaulim
+
+Budget=17500onwards
+Name=Majorda Beach Resort, Majorda Beach
+
+Budget=10000onwards
+Name=Taj Exotica, Benaulim
+
+Budget=18000onwards
+Name=Vivanta by Taj- Fort Aguada, Aguada Beach
+
+Budget=12000onwards
+Name=Vivanta by Taj - Holiday Village, Aguada Beach
+
+Budget=13500onwards
+Name=Zuri White Sands, Varca
+
+Budget=10000onwards
+Name=Alor Grande, Candolim Beach
+
+Budget=3500onwards
+Name=Ramada Caravela Beach Resort, Varca
+
+Budget=10000onwards
+Name=Kenilworth Beach Resort and Spa, Goa
+
+Budget=13000onwards
+Beach Resorts
+State=Maharashtra20
+
+Name=MTDC Beach Resort Ganapatipule, Ganapatipule
+
+Budget=1900onwards
+Name=MTDC Holiday Resort Mahabaleshwar, Mahabaleshwar
+
+Budget=1000onwards
+Name=MTDC Holiday Resort Tarkarli, Tarkarli
+
+Budget=7000onwards
+Name=MTDC Holiday Resort Karla, Lonavala
+
+Budget=1300onwards
+Name=Horseland Hotel & Mountain Spa, Matheran
+
+Budget=3600onwards
+Name=Ekaant Retreat, Lavasa
+
+Budget=3000onwards
+Name=Prakruti Resorts, Kashid Beach
+
+Budget=7000onwards
+Name=Mercure Lavasa, Lavasa
+
+Budget=4500onwards
+Name=Brightlands Resort, Matheran
+
+Budget=3400onwards
+Name=Ramsukh Resorts, Mahabaleshwar
+
+Budget=5700onwards
+Name=Fariyas Resort Lonavla, Lonavala
+
+Budget=11000onwards
+Name=Rangoli Retreat, Matheran
+
+Budget=2400onwards
+Name=Kashid Beach Resort, Kashid Beach
+
+Budget=3500onwards
+Name=Usha Ascot, Matheran
+
+Budget=5400onwards
+Name=The Waterfront Shaw, Lavasa
+
+Budget=4500onwards
+Name=Abhishek Beach Resort, Ganapatipule
+
+Budget=3000onwards
+Name=Valley View Resort, Mahabaleshwar
+
+Budget=3700onwards
+Name=The Byke Retreat, Matheran
+
+Budget=4300onwards
+Name=Manas Resort, Igatpuri
+
+Budget=3900onwards
+Name=Yash Resort, Bhandardara
+
+Budget=2000onwards
+Beach Resorts
+State=Gujarat22
+
+Name=Cambay Spa & Resort, Gandhinagar
+
+Budget=4000onwards
+Name=Toran Hill Resort, Saputara
+
+Budget=400onwards
+Name=Chitrakoot Hotel, Saputara
+
+Budget=1500onwards
+Name=Vaity Ropeway Resort, Saputara
+
+Budget=1800onwards
+Name=Savshanti Lake Resort Hotel, Saputara
+
+Budget=2900onwards
+Name=Shilpi Hill Resort, Saputara
+
+Budget=6400onwards
+Name=Club Mahindra Safari Resort, Sasan gir
+
+Budget=5800onwards
+Name=The Fern Gir Forest Resort, Sasan gir
+
+Budget=7000onwards
+Name=Maneland Jungle Lodge, Sasan gir
+
+Budget=4200onwards
+Name=Amidhara Resort, Sasan gir
+
+Budget=3300onwards
+Name=Salty Beach Resort, Tithal
+
+Budget=600onwards
+Name=Sukhsagar Gir Resort, Sasan gir
+
+Budget=4000onwards
+Name=Rann Riders, Kutch
+
+Budget=6000onwards
+Name=Safari Resort, Somnath
+
+Budget=1700onwards
+Name=Sharma Resort, Kutch
+
+Budget=2900onwards
+Name=Water World Resort, Ahmedabad
+
+Budget=2700onwards
+Name=Vanvaso Resort, Sasan gir
+
+Budget=9000onwards
+Name=Greenwoods Lake Resort, Ahmedabad
+
+Budget=1400onwards
+Name=Goveardhan Green Resort, Dwarka
+
+Budget=3500onwards
+Name=Madhubhan Resort & Spa, Anand
+
+Budget=10000onwards
+Heritage Site
+State=Bihar  
+Name=Nalanda, Bihar 
+Preferred by=Single, Couple 
+Name=Vaishali, Bihar 
+Preferred by=Couple, Single 
+Name=Bhagalpur, Bihar 
+Preferred by=Single, Couple 
+Name=Muzaffarpur, Bihar 
+Preferred by=Single, Couple 
+Name=Pawapuri, Bihar 
+Preferred by=Single, Family 
+Name=Rajgir, Bihar 
+Preferred by=Family, Group 
+Name=Sasaram, Bihar 
+Preferred by=Couple, Single 
+Name=Sonepur, Bihar 
+Preferred by=Single, Family 
+Name=Madhubani, Bihar 
+Preferred by=Single, Couple 
+Name=Buxar, Bihar 
+Preferred by=Single, Couple 
+Heritage Site
+State=Haryana  
+Name=Hansi, Haryana 
+Preferred by=Couple, Group 
+Name=Kurukshetra, Haryana 
+Preferred by=Single, Couple 
+Name=Panipat, Haryana 
+Preferred by=Couple, Single 
+Name=Ambala, Haryana 
+Preferred by=Couple, Single 
+Name=Karnal, Haryana 
+Preferred by=Couple, Single 
+Name=Panchkula, Haryana 
+Preferred by=Couple, Single 
+Name=Narnaul, Haryana 
+Preferred by=Couple, Single 
+Name=Nuh, Haryana 
+Preferred by=Couple, Group 
+Hill Stations
+State=Himachal Pradesh  
+Name=Chail, Himachal Pradesh 
+Preferred by=Family, Group 
+Name=Chamba, Himachal Pradesh 
+Preferred by=Couple, Family 
+Name=Dalhousie, Himachal Pradesh 
+Preferred by=Family, Couple 
+Name=Dharamshala, Himachal Pradesh 
+Preferred by=Couple, Family 
+Name=Kangra, Himachal Pradesh 
+Preferred by=Group, Single 
+Name=Kasauli, Himachal Pradesh 
+Preferred by=Couple, Family 
+Name=Kufri, Himachal Pradesh 
+Preferred by=Family, Couple 
+Name=Kullu, Himachal Pradesh 
+Preferred by=Couple, Family 
+Name=Lahaul and Spiti, Himachal Pradesh 
+Preferred by=Group, Family 
+Name=Manali, Himachal Pradesh 
+Preferred by=Couple, Family 
+Hill Stations
+State=Jammu Kashmir  
+Name=Gulmarg, Jammu & Kashmir 
+Preferred by=Family, Couple 
+Name=Kashmir, Jammu & Kashmir 
+Preferred by=Family, Couple 
+Name=Katra, Jammu & Kashmir 
+Preferred by=Family, Group 
+Name=Katra, Jammu & Kashmir 
+Preferred by=Group, Couple 
+Name=Nubra Valley, Jammu & Kashmir 
+Preferred by=Couple, Group 
+Name=Pahalgam, Jammu & Kashmir 
+Preferred by=Family, Couple 
+Name=Pangong, Jammu & Kashmir 
+Preferred by=Couple, Group 
+Name=Patnitop, Jammu & Kashmir 
+Preferred by=Family, Group 
+Name=Sonamarg, Jammu & Kashmir 
+Preferred by=Family, Group 
+Name=Srinagar, Jammu & Kashmir 
+Preferred by=Family, Group 
+Heritage Site
+State=Madhya Pradesh  
+Name=Gwalior, Madhya Pradesh 
+Preferred by=Couple, Single 
+Name=Khajuraho, Madhya Pradesh 
+Preferred by=Couple, Group 
+Name=Orchha, Madhya Pradesh 
+Preferred by=Couple, Single 
+Name=Maheshwar, Madhya Pradesh 
+Preferred by=Couple, Family 
+Name=Mandu, Madhya Pradesh 
+Preferred by=Couple, Group 
+Name=Guna, Madhya Pradesh 
+Preferred by=Couple, Group 
+Name=Itarsi, Madhya Pradesh 
+Preferred by=Couple, Single 
+Name=Neemuch, Madhya Pradesh 
+Preferred by=Couple, Family 
+Name=Raisen, Madhya Pradesh 
+Preferred by=Single, Couple 
+Name=Ratlam, Madhya Pradesh 
+Preferred by=Single, Couple 
+Heritage Site
+State=Punjab  
+Name=Jalandhar, Punjab 
+Preferred by=Couple, Single 
+Name=Pathankot, Punjab 
+Preferred by=Couple, Family 
+Name=Faridkot, Punjab 
+Preferred by=Couple, Single 
+Name=Ferozepur, Punjab 
+Preferred by=Single, Couple 
+Name=Gurdaspur, Punjab 
+Preferred by=Single, Couple 
+Name=Hoshiarpur, Punjab 
+Preferred by=Couple, Single 
+Name=Kapurthala, Punjab 
+Preferred by=Single, Couple 
+Name=Patiala, Punjab 
+Preferred by=Couple, Group 
+Name=Fatehgarh Sahib, Punjab 
+Preferred by=Couple, Single 
+Name=Mansa, Punjab 
+Preferred by=Single, Family 
+Heritage Site
+State=Uttar Pradesh  
+Name=Agra, Uttar Pradesh 
+Preferred by=Couple, Family 
+Name=Aligarh, Uttar Pradesh 
+Preferred by=Couple, Single 
+Name=Bareilly, Uttar Pradesh 
+Preferred by=Couple, Single 
+Name=Basti, Uttar Pradesh 
+Preferred by=Single, Couple 
+Name=Bulandshahr, Uttar Pradesh 
+Preferred by=Couple, Single 
+Name=Firozabad, Uttar Pradesh 
+Preferred by=Couple, Single 
+Name=Jhansi, Uttar Pradesh 
+Preferred by=Couple, Single 
+Name=Kaushambi, Uttar Pradesh 
+Preferred by=Couple, Single 
+Name=Meerut, Uttar Pradesh 
+Preferred by=Couple, Single 
+Name=Mirzapur, Uttar Pradesh 
+Preferred by=Couple, Group 
+Hill Stations
+State=Uttaranchal  
+Name=Almora, Uttaranchal 
+Preferred by=Group, Couple 
+Name=Auli, Uttaranchal 
+Preferred by=Couple, Family 
+Name=Bhimtal, Uttaranchal 
+Preferred by=Family, Couple 
+Name=Binsar, Uttaranchal 
+Preferred by=Family, Group 
+Name=Garhwal, Uttaranchal 
+Preferred by=Family, Single 
+Name=Hemkund, Uttaranchal 
+Preferred by=Group, Couple 
+Name=Kausani, Uttaranchal 
+Preferred by=Family, Couple 
+Name=Lansdowne, Uttaranchal 
+Preferred by=Group, Family 
+Name=Mukteshwar, Uttaranchal 
+Preferred by=Family, Group 
+Name=Mussoorie, Uttaranchal 
+Preferred by=Couple, Family 
+Heritage Site
+State=Rajasthan  
+Name=Ajmer, Rajasthan 
+Preferred by=Group, Family 
+Name=Alwar, Rajasthan 
+Preferred by=Couple, Family 
+Name=Chittorgarh, Rajasthan 
+Preferred by=Couple, Group 
+Name=Jaipur, Rajasthan 
+Preferred by=Couple, Family 
+Name=Jodhpur, Rajasthan 
+Preferred by=Family, Couple 
+Name=Khimsar, Rajasthan 
+Preferred by=Family, Couple 
+Name=Kota, Rajasthan 
+Preferred by=Couple, Single 
+Name=Kumbhalgarh, Rajasthan 
+Preferred by=Family, Couple 
+Name=Nagaur Fort, Rajasthan 
+Preferred by=Single, Family 
+Name=Pali, Rajasthan 
+Preferred by=Family, Couple 
+Hill Stations
+State=Jammu Kashmir  
+Name=Gulmarg, Jammu & Kashmir 
+Preferred by=Family, Couple 
+Name=Kashmir, Jammu & Kashmir 
+Preferred by=Family, Couple 
+Name=Katra, Jammu & Kashmir 
+Preferred by=Family, Group 
+Name=Katra, Jammu & Kashmir 
+Preferred by=Group, Couple 
+Name=Nubra Valley, Jammu & Kashmir 
+Preferred by=Couple, Group 
+Name=Pahalgam, Jammu & Kashmir 
+Preferred by=Family, Couple 
+Name=Pangong, Jammu & Kashmir 
+Preferred by=Couple, Group 
+Name=Patnitop, Jammu & Kashmir 
+Preferred by=Family, Group 
+Name=Sonamarg, Jammu & Kashmir 
+Preferred by=Family, Group 
+Name=Srinagar, Jammu & Kashmir 
+Preferred by=Family, Group 
+Heritage Site
+State=Chattisgarh  
+Name=Ambikapur, Chattisgarh 
+Preferred by=Single, Couple 
+Name=Raipur, Chattisgarh 
+Preferred by=Single, Couple 
+Name=Baikunthpur, Chattisgarh 
+Preferred by=Single, Family 
+Name=Dantewada, Chattisgarh 
+Preferred by=Single, Couple 
+Name=Jagdalpur, Chattisgarh 
+Preferred by=Family, Group 
+Name=Kanker, Chattisgarh 
+Preferred by=Single, Couple 
+Name=Kawardha, Chattisgarh 
+Preferred by=Couple, Single 
+Name=Mahasamund, Chattisgarh 
+Preferred by=Family, Couple 
+Heritage Site
+State=Jharkhand  
+Name=Dhanbad, Jharkhand 
+Preferred by=Single, Couple 
+Name=Sahibganj, Jharkhand 
+Preferred by=Group, Couple 
+Name=Chaibasa, Jharkhand 
+Preferred by=Single, Couple 
+Name=Godda, Jharkhand 
+Preferred by=Single, Couple 
+Name=Gumla, Jharkhand 
+Preferred by=Single, Family 
+Name=Lohardaga, Jharkhand 
+Preferred by=Single, Couple 
+Heritage Site
+State=Orissa  
+Name=Konark, Orissa 
+Preferred by=Couple, Group 
+Name=Puri, Orissa 
+Preferred by=Family, Group 
+Name=Balasore, Orissa 
+Preferred by=Couple, Group 
+Name=Baripada, Orissa 
+Preferred by=Single, Couple 
+Name=Berhampur, Orissa 
+Preferred by=Single, Couple 
+Name=Dhauli, Orissa 
+Preferred by=Group, Family 
+Name=Jeypore, Orissa 
+Preferred by=Couple, Single 
+Name=Kalahandi, Orissa 
+Preferred by=Group, Single 
+Name=Keonjhar, Orissa 
+Preferred by=Single, Family 
+Name=Phulbani, Orissa 
+Preferred by=Single, Family 
+Heritage Site
+State=West Bengal  
+Name=Jalpaiguri, West Bengal 
+Preferred by=Couple, Family 
+Name=Santiniketan, West Bengal 
+Preferred by=Group, Couple 
+Name=Bishnupur, West Bengal 
+Preferred by=Group, Couple 
+Name=Murshidabad, West Bengal 
+Preferred by=Group, Family 
+Name=Cooch-Behar, West Bengal 
+Preferred by=Group, Single 
+Name=Bardhaman, West Bengal 
+Preferred by=Couple, Single 
+Name=Malda, West Bengal 
+Preferred by=Single, Couple 
+Name=Krishnanagar, West Bengal 
+Preferred by=Couple, Single 
+Name=Alipore, West Bengal 
+Preferred by=Single, Couple 
+Name=Asansol, West Bengal 
+Preferred by=Couple, Single 
+Beach
+State=Daman Diu  
+Name=Daman, Daman & Diu 
+Preferred by=Couple, Group 
+Name=Diu, Daman & Diu 
+Preferred by=Group, Couple 
+Beach
+State=Goa  
+Name=Anjuna Beach, Goa 
+Preferred by=Group, Couple 
+Name=Baga, Goa 
+Preferred by=Group, Couple 
+Name=Benaulim, Goa 
+Preferred by=Couple, Group 
+Name=Bogmalo, Goa 
+Preferred by=Couple, Single 
+Name=Calangute, Goa 
+Preferred by=Group, Couple 
+Name=Candolim Beach, Goa 
+Preferred by=Couple, Group 
+Name=Chapora, Goa 
+Preferred by=Group, Couple 
+Name=Colva, Goa 
+Preferred by=Group, Couple 
+Name=Dona Paula, Goa 
+Preferred by=Couple, Group 
+Name=Majorda Beach, Goa 
+Preferred by=Group, Family 
+Heritage Site
+State=Gujarat  
+Name=Anand, Gujarat 
+Preferred by=Couple, Single 
+Name=Modhera, Gujarat 
+Preferred by=Family, Single 
+Name=Junagadh, Gujarat 
+Preferred by=Family, Group 
+Name=Jamnagar, Gujarat 
+Preferred by=Couple, Single 
+Name=Champaner, Gujarat 
+Preferred by=Group, Single 
+Name=Pavagadh, Gujarat 
+Preferred by=Couple, Family 
+Name=Dholavira, Gujarat 
+Preferred by=Couple, Group 
+Name=Porbandar, Gujarat 
+Preferred by=Group, Family 
+Name=Bhuj, Gujarat 
+Preferred by=Family, Group 
+Name=Gondal, Gujarat 
+Preferred by=Single, Family 
+Heritage Site
+State=Maharashtra  
+Name=Ajanta & Ellora, Maharashtra 
+Preferred by=Family, Couple 
+Name=Akola, Maharashtra 
+Preferred by=Couple, Single 
+Name=Aurangabad, Maharashtra 
+Preferred by=Family, Couple 
+Name=Kolhapur, Maharashtra 
+Preferred by=Family, Group 
+Name=Ahmednagar, Maharashtra 
+Preferred by=Couple, Single 
+Name=Chandrapur, Maharashtra 
+Preferred by=Couple, Single 
+Name=Elephanta Caves, Maharashtra 
+Preferred by=Couple, Family 
+Name=Jalgaon, Maharashtra 
+Preferred by=Couple, Single 
+Name=Karnala, Maharashtra 
+Preferred by=Couple, Family 
+Name=Sangli, Maharashtra 
+Preferred by=Single, Couple 
+Beach
+State=Maharashtra  
+Name=Bordi, Maharashtra 
+Preferred by=Family, Group 
+Name=Ganapatipule, Maharashtra 
+Preferred by=Family, Couple 
+Name=Murud, Maharashtra 
+Preferred by=Family, Group 
+Name=Alibaug, Maharashtra 
+Preferred by=Couple, Family 
+Name=Kashid Beach, Maharashtra 
+Preferred by=Group, Couple 
+Name=Madh-Marve, Maharashtra 
+Preferred by=Couple, Group 
+Name=Dahanu, Maharashtra 
+Preferred by=Couple, Family 
+Name=Gorai, Maharashtra 
+Preferred by=Couple, Group 
+Name=Kihim, Maharashtra 
+Preferred by=Couple, Group 
+Name=Madh Island, Maharashtra 
+Preferred by=Couple, Group 
+Beach
+State=Andaman Nicobar  
+Name=Port Blair, Andaman & Nicobar 
+Preferred by=Couple, Family 
+Name=Havelock Island, Andaman & Nicobar 
+Preferred by=Couple, Family 
+Name=Viper Island, Andaman & Nicobar 
+Preferred by=Couple, Group 
+Name=Ross Island, Andaman & Nicobar 
+Preferred by=Couple, Group 
+Name=Neil Island, Andaman & Nicobar 
+Preferred by=Couple, Group 
+Name=Cinque Island, Andaman & Nicobar 
+Preferred by=Family, Single 
+Name=Barren Island, Andaman & Nicobar 
+Preferred by=Single, Couple 
+Name=Pilomillow Island, Andaman & Nicobar 
+Preferred by=Single, Family 
+Name=Chorao, Andaman & Nicobar 
+Preferred by=Couple, Single 
+Heritage Site
+State=Andhra Pradesh  
+Name=Nagarjunasagar, Andhra Pradesh 
+Preferred by=Couple, Group 
+Name=Warangal, Andhra Pradesh 
+Preferred by=Couple, Group 
+Name=Rajahmundry, Andhra Pradesh 
+Preferred by=Couple, Single 
+Name=Guntur, Andhra Pradesh 
+Preferred by=Couple, Group 
+Name=Nizamabad, Andhra Pradesh 
+Preferred by=Family, Group 
+Name=Chittoor, Andhra Pradesh 
+Preferred by=Couple, Group 
+Name=Kurnool, Andhra Pradesh 
+Preferred by=Couple, Group 
+Name=Anantapur, Andhra Pradesh 
+Preferred by=Couple, Single 
+Name=Lepakshi, Andhra Pradesh 
+Preferred by=Couple, Family 
+Name=Nagarjunakonda, Andhra Pradesh 
+Preferred by=Couple, Group 
+Heritage Site
+State=Karnataka  
+Name=Badami, Karnataka 
+Preferred by=Group, Family 
+Name=Hampi, Karnataka 
+Preferred by=Couple, Group 
+Name=Hassan, Karnataka 
+Preferred by=Couple, Family 
+Name=Mysore, Karnataka 
+Preferred by=Couple, Family 
+Name=Srirangapatna, Karnataka 
+Preferred by=Couple, Group 
+Name=Sakleshpur, Karnataka 
+Preferred by=Group, Couple 
+Name=Bijapur, Karnataka 
+Preferred by=Couple, Family 
+Name=Bellary, Karnataka 
+Preferred by=Couple, Single 
+Name=Aihole, Karnataka 
+Preferred by=Single, Family 
+Name=Bidar, Karnataka 
+Preferred by=Couple, Group 
+Hill Stations
+State=Kerala  
+Name=Idukki, Kerala 
+Preferred by=Group, Single 
+Name=Munnar, Kerala 
+Preferred by=Couple, Family 
+Name=Wayanad, Kerala 
+Preferred by=Group, Family 
+Name=Nelliyampathy, Kerala 
+Preferred by=Group, Family 
+Name=Vagamon, Kerala 
+Preferred by=Group, Family 
+Name=Devikulam, Kerala 
+Preferred by=Family, Couple 
+Name=Kumily, Kerala 
+Preferred by=Family, Couple 
+Name=Peermede, Kerala 
+Preferred by=Family, Group 
+Name=Ponmudi, Kerala 
+Preferred by=Family, Group 
+Name=Kalpetta, Kerala 
+Preferred by=Group, Couple 
+Beach
+State=Lakshadweep  
+Name=Amini, Lakshadweep 
+Preferred by=Single, Group 
+Name=Androth, Lakshadweep 
+Preferred by=Single, Couple 
+Name=Bangaram, Lakshadweep 
+Preferred by=Couple, Group 
+Name=Bitra, Lakshadweep 
+Preferred by=Single, Family 
+Name=Chetlat, Lakshadweep 
+Preferred by=Group, Single 
+Name=Kadmat, Lakshadweep 
+Preferred by=Couple, Family 
+Name=Kalpeni, Lakshadweep 
+Preferred by=Group, Couple 
+Name=Kavaratti, Lakshadweep 
+Preferred by=Couple, Family 
+Name=Minicoy, Lakshadweep 
+Preferred by=Couple, Group 
+Beach
+State=Pondicherry  
+Name=Karaikal, Pondicherry 
+Preferred by=Couple, Group 
+Heritage Site
+State=Tamil Nadu  
+Name=Kanyakumari, Tamil Nadu 
+Preferred by=Family, Group 
+Name=Madurai, Tamil Nadu 
+Preferred by=Group, Couple 
+Name=Mahabalipuram, Tamil Nadu 
+Preferred by=Couple, Family 
+Name=Thanjavur, Tamil Nadu 
+Preferred by=Couple, Group 
+Name=Trichy, Tamil Nadu 
+Preferred by=Couple, Group 
+Name=Poompuhar, Tamil Nadu 
+Preferred by=Family, Single 
+Name=Chettinad, Tamil Nadu 
+Preferred by=Couple, Single 
+Name=Tuticorin, Tamil Nadu 
+Preferred by=Single, Couple 
+Name=Hosur, Tamil Nadu 
+Preferred by=Couple, Single 
+Name=Karaikkudi, Tamil Nadu 
+Preferred by=Couple, Group 
+Hill Stations
+State=Arunachal Pradesh  
+Name=Itanagar, Arunachal Pradesh 
+Preferred by=Couple, Single 
+Name=Tawang, Arunachal Pradesh 
+Preferred by=Family, Group 
+Name=Namdapha, Arunachal Pradesh 
+Preferred by=Group, Family 
+Name=Along, Arunachal Pradesh 
+Preferred by=Single, Family 
+Name=Anini, Arunachal Pradesh 
+Preferred by=Couple, Single 
+Name=Bomdila, Arunachal Pradesh 
+Preferred by=Family, Couple 
+Name=Khonsa, Arunachal Pradesh 
+Preferred by=Single, Family 
+Heritage Site
+State=Assam  
+Name=Silchar, Assam 
+Preferred by=Single, Couple 
+Name=Sibsagar, Assam 
+Preferred by=Single, Couple 
+Name=Bongaigaon, Assam 
+Preferred by=Single, Couple 
+Name=Tinsukia, Assam 
+Preferred by=Couple, Single 
+Name=Dhemaji, Assam 
+Preferred by=Family, Single 
+Name=Kokrajhar, Assam 
+Preferred by=Single, Family 
+Hill Stations
+State=Manipur  
+Name=Chandel, Manipur 
+Preferred by=Family, Single 
+Name=Churachandpur, Manipur 
+Preferred by=Single, Couple 
+Name=Karong, Manipur 
+Preferred by=Group, Single 
+Name=Tamenglong, Manipur 
+Preferred by=Group, Couple 
+Name=Ukhrul, Manipur 
+Preferred by=Single, Couple 
+Hill Stations
+State=Meghalaya  
+Name=Shillong, Meghalaya 
+Preferred by=Couple, Family 
+Name=Cherrapunjee, Meghalaya 
+Preferred by=Couple, Family 
+Name=Jowai, Meghalaya 
+Preferred by=Single, Couple 
+Name=Tura, Meghalaya 
+Preferred by=Couple, Single 
+Name=Williamnagar, Meghalaya 
+Preferred by=Single, Family 
+Hill Stations
+State=Mizoram  
+Name=Aizawl, Mizoram 
+Preferred by=Single, Couple 
+Name=Champhai, Mizoram 
+Preferred by=Single, Couple 
+Name=Kolasib, Mizoram 
+Preferred by=Single, Group 
+Name=Lunglei, Mizoram 
+Preferred by=Single, Family 
+Name=Mamit, Mizoram 
+Preferred by=Single, Family 
+Name=Serchhip, Mizoram 
+Preferred by=Single, Family 
+Hill Stations
+State=Nagaland  
+Name=Kohima, Nagaland 
+Preferred by=Couple, Single 
+Name=Dimapur, Nagaland 
+Preferred by=Couple, Single 
+Name=Mokokchung, Nagaland 
+Preferred by=Single, Family 
+Name=Tuensang, Nagaland 
+Preferred by=Single, Family 
+Hill Stations
+State=Sikkim  
+Name=Gangtok, Sikkim 
+Preferred by=Couple, Family 
+Name=Pelling, Sikkim 
+Preferred by=Family, Couple 
+Name=Chopta Valley, Sikkim 
+Preferred by=Family, Couple 
+Name=Lachung, Sikkim 
+Preferred by=Family, Couple 
+Name=Namchi, Sikkim 
+Preferred by=Couple, Group 
+Name=Pemayangtse, Sikkim 
+Preferred by=Family, Single 
+Name=Ravangla, Sikkim 
+Preferred by=Family, Couple 
+Name=Yuksam, Sikkim 
+Preferred by=Family, Single 
+Name=Nathula, Sikkim 
+Preferred by=Family, Couple 
+Heritage Site
+State=Tripura  
+Name=Agartala, Tripura 
+Preferred by=Single, Couple 
+Name=Kailashahar, Tripura 
+Preferred by=Couple, Group 

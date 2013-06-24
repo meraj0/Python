@@ -1,0 +1,2780 @@
+Name=nalanda
+Flights
+Total distance:1584 km Nearest Airport:Patna 
+Bus
+Total distance:1584 km 
+Taxi
+Total distance:1584 km Price:from Rs. 6 per km  
+Trains
+Total distance:1584 km 
+
+Name=vaishali
+Flights
+Total distance:1548 km Nearest Airport:Patna 
+Bus
+Total distance:1548 km 
+Taxi
+Total distance:1548 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Muzaffarpur Weekly Express (15227)  Last station:Muzaffarpur Total distance:1548 km 
+
+Name=bhagalpur
+Flights
+Total distance:1684 km Nearest Airport:Patna 
+Bus
+Total distance:1684 km 
+Taxi
+Total distance:1684 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Anga Express (12253)  Last station:Bhagalpur Total distance:1684 km 
+
+Name=muzaffarpur
+Flights
+Total distance:1674 km Nearest Airport:Patna 
+Bus
+Total distance:1674 km 
+Taxi
+Total distance:1674 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Muzaffarpur Weekly Express (15227)  Last station:Muzaffarpur Total distance:1674 km 
+
+Name=pawapuri
+Flights
+Total distance:1588 km Nearest Airport:Patna 
+Bus
+Total distance:1588 km 
+Taxi
+Total distance:1588 km Price:from Rs. 6 per km  
+Trains
+Total distance:1588 km 
+
+Name=rajgir
+Flights
+Total distance:1573 km Nearest Airport:Patna 
+Bus
+Total distance:1573 km 
+Taxi
+Total distance:1573 km Price:from Rs. 6 per km  
+Trains
+Total distance:1573 km 
+
+Name=sasaram
+Flights
+Total distance:1495 km Nearest Airport:Patna 
+Bus
+Total distance:1495 km 
+Taxi
+Total distance:1495 km Price:from Rs. 6 per km  
+Trains
+Total distance:1495 km 
+
+Name=sonepur
+Flights
+Total distance:1624 km Nearest Airport:Patna 
+Bus
+Total distance:1624 km 
+Taxi
+Total distance:1624 km Price:from Rs. 6 per km  
+Trains
+Total distance:1624 km 
+
+Name=madhubani
+Flights
+Total distance:1732 km Nearest Airport:Patna 
+Bus
+Total distance:1732 km 
+Taxi
+Total distance:1732 km Price:from Rs. 6 per km  
+Trains
+Total distance:1732 km 
+
+Name=Buxar
+Flights
+Total distance:1553 km Nearest Airport:Patna 
+Bus
+Total distance:1553 km 
+Taxi
+Total distance:1553 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore - Patna (Weekly) Special (06513), Bagmati SF Weekly Express (12578)  Last station:Buxar Total distance:1553 km 
+
+Name=hansi
+Flights
+Total distance:1804 km Nearest Airport:New Delhi 
+Bus
+Total distance:1804 km 
+Taxi
+Total distance:1804 km Price:from Rs. 6 per km  
+Trains
+Total distance:1804 km 
+
+Name=kurukshetra
+Flights
+Total distance:1894 km Nearest Airport:New Delhi 
+Bus
+Total distance:1894 km 
+Taxi
+Total distance:1894 km Price:from Rs. 6 per km  
+Trains
+Total distance:1894 km 
+
+Name=panipat
+Flights
+Total distance:1828 km Nearest Airport:New Delhi 
+Bus
+Total distance:1828 km 
+Taxi
+Total distance:1828 km Price:from Rs. 6 per km  
+Trains
+Total distance:1828 km 
+
+Name=Ambala
+Flights
+Total distance:5213 km Nearest Airport:Chandigarh 
+Bus
+Total distance:5213 km 
+Taxi
+Total distance:5213 km Price:from Rs. 6 per km  
+Trains
+Total distance:5213 km 
+
+Name=karnal
+Flights
+Total distance:1863 km Nearest Airport:New Delhi 
+Bus
+Total distance:1863 km 
+Taxi
+Total distance:1863 km Price:from Rs. 6 per km  
+Trains
+Total distance:1863 km 
+
+Name=panchkula
+Flights
+Total distance:1975 km Nearest Airport:Chandigarh 
+Bus
+Total distance:1975 km 
+Taxi
+Total distance:1975 km Price:from Rs. 6 per km  
+Trains
+Total distance:1975 km 
+
+Name=narnaul
+Flights
+Total distance:1685 km Nearest Airport:New Delhi 
+Bus
+Total distance:1685 km 
+Taxi
+Total distance:1685 km Price:from Rs. 6 per km  
+Trains
+Total distance:1685 km 
+
+Name=nuh
+Flights
+Total distance:1686 km Nearest Airport:Chandigarh 
+Bus
+Total distance:1686 km 
+Taxi
+Total distance:1686 km Price:from Rs. 6 per km  
+Trains
+Total distance:1686 km 
+
+Name=chail
+Flights
+Total distance:2005 km Nearest Airport:Shimla 
+Bus
+Total distance:2005 km 
+Taxi
+Total distance:2005 km Price:from Rs. 6 per km  
+Trains
+Total distance:2005 km 
+
+Name=chamba
+Flights
+Total distance:2186 km Nearest Airport:Amritsar 
+Bus
+Total distance:2186 km 
+Taxi
+Total distance:2186 km Price:from Rs. 6 per km  
+Trains
+Total distance:2186 km 
+
+Name=dalhousie
+Flights
+Total distance:2186 km Nearest Airport:Amritsar 
+Bus
+Total distance:2186 km 
+Taxi
+Total distance:2186 km Price:from Rs. 6 per km  
+Trains
+Total distance:2186 km 
+
+Name=dharamshala
+Flights
+Total distance:2148 km Nearest Airport:Dharamshala 
+Bus
+Total distance:2148 km 
+Taxi
+Total distance:2148 km Price:from Rs. 6 per km  
+Trains
+Total distance:2148 km 
+
+Name=kangra
+Flights
+Total distance:2134 km Nearest Airport:Kangra 
+Bus
+Total distance:2134 km 
+Taxi
+Total distance:2134 km Price:from Rs. 6 per km  
+Trains
+Total distance:2134 km 
+
+Name=kasauli
+Flights
+Total distance:1998 km Nearest Airport:Chandigarh 
+Bus
+Total distance:1998 km 
+Taxi
+Total distance:1998 km Price:from Rs. 6 per km  
+Trains
+Total distance:1998 km 
+
+Name=kufri
+Flights
+Total distance:2018 km Nearest Airport:Shimla 
+Bus
+Total distance:2018 km 
+Taxi
+Total distance:2018 km Price:from Rs. 6 per km  
+Trains
+Total distance:2018 km 
+
+Name=kullu
+Flights
+Total distance:2115 km Nearest Airport:Kullu 
+Bus
+Total distance:2115 km 
+Taxi
+Total distance:2115 km Price:from Rs. 6 per km  
+Trains
+Total distance:2115 km 
+
+Name=lahaul
+Flights
+Total distance:2249 km Nearest Airport:Kullu 
+Bus
+Total distance:2249 km 
+Taxi
+Total distance:2249 km Price:from Rs. 6 per km  
+Trains
+Total distance:2249 km 
+
+Name=manali
+Flights
+Total distance:2144 km Nearest Airport:Kullu 
+Bus
+Total distance:2144 km 
+Taxi
+Total distance:2144 km Price:from Rs. 6 per km  
+Trains
+Total distance:2144 km 
+
+Name=gwalior
+Flights
+Total distance:1478 km Nearest Airport:Gwalior 
+Bus
+Total distance:1478 km 
+Taxi
+Total distance:1478 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Kongu Express (12647), Karnataka Express (12627)  Last station:Gwalior Total distance:1478 km 
+
+Name=Khajuraho
+Flights
+Total distance:1342 km Nearest Airport:Khajuraho 
+Bus
+Total distance:1342 km 
+Taxi
+Total distance:1342 km Price:from Rs. 6 per km  
+Trains
+Total distance:1342 km 
+
+Name=orchha
+Flights
+Total distance:1383 km Nearest Airport:Bhopal 
+Bus
+Total distance:1383 km 
+Taxi
+Total distance:1383 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yeshvantapur Gorakhpur Express (15024), Karnataka Sampark Kranti Express (12649)  Last station:Jhansi Total distance:1383 km 
+
+Name=maheshwar
+Trains
+Total distance:1117 km 
+Bus
+Total distance:1117 km 
+Taxi
+Total distance:1117 km Price:from Rs. 6 per km  
+Flights
+Total distance:1117 km Nearest Airport:Indore 
+
+Name=mandu
+Trains
+Total distance:1068 km 
+Bus
+Total distance:1068 km 
+Taxi
+Total distance:1068 km Price:from Rs. 6 per km  
+Flights
+Total distance:1068 km Nearest Airport:Ranchi 
+
+Name=Guna
+Flights
+Total distance:1301 km Nearest Airport:Bhopal 
+Bus
+Total distance:1301 km 
+Taxi
+Total distance:1301 km Price:from Rs. 6 per km  
+Trains
+Total distance:1301 km 
+
+Name=itarsi
+Trains
+Best trains to take:Yeshvantapur Gorakhpur Express (15024), Kongu Express (12647)  Last station:Itarsi Total distance:1074 km 
+Bus
+Total distance:1074 km 
+Taxi
+Total distance:1074 km Price:from Rs. 6 per km  
+Flights
+Total distance:1074 km Nearest Airport:Bhopal 
+
+Name=neemuch
+Flights
+Total distance:1312 km Nearest Airport:Indore 
+Bus
+Total distance:1312 km 
+Taxi
+Total distance:1312 km Price:from Rs. 6 per km  
+Trains
+Total distance:1312 km 
+
+Name=raisen
+Trains
+Best trains to take:Karnataka Sampark Kranti Express (12649), Yeshvantapur Gorakhpur Express (15024)  Last station:Bhopal Total distance:1154 km 
+Bus
+Total distance:1154 km 
+Taxi
+Total distance:1154 km Price:from Rs. 6 per km  
+Flights
+Total distance:1154 km Nearest Airport:Bhopal 
+
+Name=ratlam
+Trains
+Total distance:1185 km 
+Bus
+Total distance:1185 km 
+Taxi
+Total distance:1185 km Price:from Rs. 6 per km  
+Flights
+Total distance:1185 km Nearest Airport:Indore 
+
+Name=jalandhar
+Flights
+Total distance:2054 km Nearest Airport:Amritsar 
+Bus
+Total distance:2054 km 
+Taxi
+Total distance:2054 km Price:from Rs. 6 per km  
+Trains
+Total distance:2054 km 
+
+Name=pathankot
+Flights
+Total distance:2156 km Nearest Airport:Pathankot 
+Bus
+Total distance:2156 km 
+Taxi
+Total distance:2156 km Price:from Rs. 6 per km  
+Trains
+Total distance:2156 km 
+
+Name=faridkot
+Flights
+Total distance:1993 km Nearest Airport:Amritsar 
+Bus
+Total distance:1993 km 
+Taxi
+Total distance:1993 km Price:from Rs. 6 per km  
+Trains
+Total distance:1993 km 
+
+Name=ferozepur
+Flights
+Total distance:2022 km Nearest Airport:Amritsar 
+Bus
+Total distance:2022 km 
+Taxi
+Total distance:2022 km Price:from Rs. 6 per km  
+Trains
+Total distance:2022 km 
+
+Name=gurdaspur
+Flights
+Total distance:2135 km Nearest Airport:Amritsar 
+Bus
+Total distance:2135 km 
+Taxi
+Total distance:2135 km Price:from Rs. 6 per km  
+Trains
+Total distance:2135 km 
+
+Name=hoshiarpur
+Flights
+Total distance:2074 km Nearest Airport:Amritsar 
+Bus
+Total distance:2074 km 
+Taxi
+Total distance:2074 km Price:from Rs. 6 per km  
+Trains
+Total distance:2074 km 
+
+Name=kapurthala
+Flights
+Total distance:2062 km Nearest Airport:Amritsar 
+Bus
+Total distance:2062 km 
+Taxi
+Total distance:2062 km Price:from Rs. 6 per km  
+Trains
+Total distance:2062 km 
+
+Name=patiala
+Flights
+Total distance:1937 km Nearest Airport:Chandigarh 
+Bus
+Total distance:1937 km 
+Taxi
+Total distance:1937 km Price:from Rs. 6 per km  
+Trains
+Total distance:1937 km 
+
+Name=fatehgarh
+Flights
+Total distance:1973 km Nearest Airport:Chandigarh 
+Bus
+Total distance:1973 km 
+Taxi
+Total distance:1973 km Price:from Rs. 6 per km  
+Trains
+Total distance:1973 km 
+
+Name=mansa
+Flights
+Total distance:1907 km Nearest Airport:Chandigarh 
+Bus
+Total distance:1907 km 
+Taxi
+Total distance:1907 km Price:from Rs. 6 per km  
+Trains
+Total distance:1907 km 
+
+Name=ajmer
+Flights
+Total distance:1532 km Nearest Airport:Jaipur 
+Bus
+Total distance:1532 km 
+Taxi
+Total distance:1532 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Mysore-Ajmer Express (16210), Yeswantpur Jaipur Weekly GaribRath Holiday Special (06511)  Last station:Ajmer Total distance:1532 km 
+
+Name=alwar
+Flights
+Total distance:1628 km Nearest Airport:Jaipur 
+Bus
+Total distance:1628 km 
+Taxi
+Total distance:1628 km Price:from Rs. 6 per km  
+Trains
+Total distance:1628 km 
+
+Name=chittorgarh
+Flights
+Total distance:1363 km Nearest Airport:Udaipur 
+Bus
+Total distance:1363 km 
+Taxi
+Total distance:1363 km Price:from Rs. 6 per km  
+Trains
+Total distance:1363 km 
+
+Name=jaipur
+Flights
+Total distance:1563 km Nearest Airport:Jaipur 
+Bus
+Total distance:1563 km 
+Taxi
+Total distance:1563 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Mysore-Jaipur SF Express (12975), Yeswantpur Jaipur Weekly GaribRath Holiday Special (06511)  Last station:Jaipur Total distance:1563 km 
+
+Name=jodhpur
+Flights
+Total distance:1558 km Nearest Airport:Jodhpur 
+Bus
+Total distance:1558 km 
+Taxi
+Total distance:1558 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Jodhpur Express (16508), Yesvantpur-Jodhpur Express (16534)  Last station:Jodhpur Total distance:1558 km 
+
+Name=khimsar
+Flights
+Total distance:1593 km Nearest Airport:Jodhpur 
+Bus
+Total distance:1593 km 
+Taxi
+Total distance:1593 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Jodhpur Express (16508), Yesvantpur-Jodhpur Express (16534)  Last station:Jodhpur Total distance:1593 km 
+
+Name=kota
+Flights
+Total distance:1372 km Nearest Airport:Udaipur 
+Bus
+Total distance:1372 km 
+Taxi
+Total distance:1372 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Mysore-Jaipur SF Express (12975)  Last station:Kota Total distance:1372 km 
+
+Name=kumbhalgarh
+Flights
+Total distance:1421 km Nearest Airport:Udaipur 
+Bus
+Total distance:1421 km 
+Taxi
+Total distance:1421 km Price:from Rs. 6 per km  
+Trains
+Total distance:1421 km 
+
+Name=nagaur
+Flights
+Total distance:1635 km Nearest Airport:Jodhpur 
+Bus
+Total distance:1635 km 
+Taxi
+Total distance:1635 km Price:from Rs. 6 per km  
+Trains
+Total distance:1635 km 
+
+Name=pali
+Flights
+Total distance:1494 km Nearest Airport:Jodhpur 
+Bus
+Total distance:1494 km 
+Taxi
+Total distance:1494 km Price:from Rs. 6 per km  
+Trains
+Total distance:1494 km 
+
+Name=Agra
+Flights
+Total distance:1583 km Nearest Airport:Agra 
+Bus
+Total distance:1583 km 
+Taxi
+Total distance:1583 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Kongu Express (12647), Karnataka Express (12627)  Last station:Agra Total distance:1583 km 
+
+Name=aligarh
+Flights
+Total distance:1662 km Nearest Airport:New Delhi 
+Bus
+Total distance:1662 km 
+Taxi
+Total distance:1662 km Price:from Rs. 6 per km  
+Trains
+Total distance:1662 km 
+
+Name=bareilly
+Flights
+Total distance:1724 km Nearest Airport:New Delhi 
+Bus
+Total distance:1724 km 
+Taxi
+Total distance:1724 km Price:from Rs. 6 per km  
+Trains
+Total distance:1724 km 
+
+Name=basti
+Flights
+Total distance:1629 km Nearest Airport:Lucknow 
+Bus
+Total distance:1629 km 
+Taxi
+Total distance:1629 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore City-Gorakhpur Express (12592)  Last station:Basti Total distance:1629 km 
+
+Name=bulandshahr
+Flights
+Total distance:1719 km Nearest Airport:New Delhi 
+Bus
+Total distance:1719 km 
+Taxi
+Total distance:1719 km Price:from Rs. 6 per km  
+Trains
+Total distance:1719 km 
+
+Name=Firozabad
+Flights
+Total distance:1581 km Nearest Airport:Agra 
+Bus
+Total distance:1581 km 
+Taxi
+Total distance:1581 km Price:from Rs. 6 per km  
+Trains
+Total distance:1581 km 
+
+Name=Kaushambi
+Flights
+Total distance:1436 km Nearest Airport:Allahabad 
+Bus
+Total distance:1436 km 
+Taxi
+Total distance:1436 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Lucknow Weekly SF Express (12539), Sanghamitra Express (12295)  Last station:Allahabad Total distance:1436 km 
+
+Name=meerut
+Flights
+Total distance:1784 km Nearest Airport:New Delhi 
+Bus
+Total distance:1784 km 
+Taxi
+Total distance:1784 km Price:from Rs. 6 per km  
+Trains
+Total distance:1784 km 
+
+Name=mirzapur
+Flights
+Total distance:1452 km Nearest Airport:Varanasi 
+Bus
+Total distance:1452 km 
+Taxi
+Total distance:1452 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore - Patna (Weekly) Special (06513), Bagmati SF Weekly Express (12578)  Last station:Mirzapur Total distance:1452 km 
+
+Name=almora
+Flights
+Total distance:1864 km Nearest Airport:Allahabad 
+Bus
+Total distance:1864 km 
+Taxi
+Total distance:1864 km Price:from Rs. 6 per km  
+Trains
+Total distance:1864 km 
+
+Name=auli
+Flights
+Total distance:1966 km Nearest Airport:Dehradun 
+Bus
+Total distance:1966 km 
+Taxi
+Total distance:1966 km Price:from Rs. 6 per km  
+Trains
+Total distance:1966 km 
+
+Name=bhimtal
+Flights
+Total distance:1835 km Nearest Airport:New Delhi 
+Bus
+Total distance:1835 km 
+Taxi
+Total distance:1835 km Price:from Rs. 6 per km  
+Trains
+Total distance:1835 km 
+
+Name=binsar
+Flights
+Total distance:1878 km Nearest Airport:New Delhi 
+Bus
+Total distance:1878 km 
+Taxi
+Total distance:1878 km Price:from Rs. 6 per km  
+Trains
+Total distance:1878 km 
+
+Name=garhwal
+Flights
+Total distance:1933 km Nearest Airport:Dehradun 
+Bus
+Total distance:1933 km 
+Taxi
+Total distance:1933 km Price:from Rs. 6 per km  
+Trains
+Total distance:1933 km 
+
+Name=hemkund
+Flights
+Total distance:1986 km Nearest Airport:Dehradun 
+Bus
+Total distance:1986 km 
+Taxi
+Total distance:1986 km Price:from Rs. 6 per km  
+Trains
+Total distance:1986 km 
+
+Name=kausani
+Flights
+Total distance:1890 km Nearest Airport:New Delhi 
+Bus
+Total distance:1890 km 
+Taxi
+Total distance:1890 km Price:from Rs. 6 per km  
+Trains
+Total distance:1890 km 
+
+Name=lansdowne
+Flights
+Total distance:1882 km Nearest Airport:Dehradun 
+Bus
+Total distance:1882 km 
+Taxi
+Total distance:1882 km Price:from Rs. 6 per km  
+Trains
+Total distance:1882 km 
+
+Name=mukteshwar
+Flights
+Total distance:1850 km Nearest Airport:New Delhi 
+Bus
+Total distance:1850 km 
+Taxi
+Total distance:1850 km Price:from Rs. 6 per km  
+Trains
+Total distance:1850 km 
+
+Name=mussoorie
+Flights
+Total distance:1948 km Nearest Airport:Dehradun 
+Bus
+Total distance:1948 km 
+Taxi
+Total distance:1948 km Price:from Rs. 6 per km  
+Trains
+Total distance:1948 km 
+
+Name=gulmarg
+Flights
+Total distance:2371 km Nearest Airport:Srinagar 
+Bus
+Total distance:2371 km 
+Taxi
+Total distance:2371 km Price:from Rs. 6 per km  
+Trains
+Total distance:2371 km 
+
+Name=kashmir
+Flights
+Total distance:2420 km Nearest Airport:Leh 
+Bus
+Total distance:2420 km 
+Taxi
+Total distance:2420 km Price:from Rs. 6 per km  
+Trains
+Total distance:2420 km 
+
+Name=katra
+Flights
+Total distance:2246 km Nearest Airport:Jammu 
+Bus
+Total distance:2246 km 
+Taxi
+Total distance:2246 km Price:from Rs. 6 per km  
+Trains
+Total distance:2246 km 
+
+Name=ladakh
+Flights
+Total distance:2362 km Nearest Airport:Leh 
+Bus
+Total distance:2362 km 
+Taxi
+Total distance:2362 km Price:from Rs. 6 per km  
+Trains
+Total distance:2362 km 
+
+Name=nubra
+Flights
+Total distance:2473 km Nearest Airport:Leh 
+Bus
+Total distance:2473 km 
+Taxi
+Total distance:2473 km Price:from Rs. 6 per km  
+Trains
+Total distance:2473 km 
+
+Name=pahalgam
+Flights
+Total distance:2359 km Nearest Airport:Srinagar 
+Bus
+Total distance:2359 km 
+Taxi
+Total distance:2359 km Price:from Rs. 6 per km  
+Trains
+Total distance:2359 km 
+
+Name=pangong
+Flights
+Total distance:2329 km Nearest Airport:Leh 
+Bus
+Total distance:2329 km 
+Taxi
+Total distance:2329 km Price:from Rs. 6 per km  
+Trains
+Total distance:2329 km 
+
+Name=patnitop
+Flights
+Total distance:2254 km Nearest Airport:Jammu 
+Bus
+Total distance:2254 km 
+Taxi
+Total distance:2254 km Price:from Rs. 6 per km  
+Trains
+Total distance:2254 km 
+
+Name=sonamarg
+Flights
+Total distance:2387 km Nearest Airport:Srinagar 
+Bus
+Total distance:2387 km 
+Taxi
+Total distance:2387 km Price:from Rs. 6 per km  
+Trains
+Total distance:2387 km 
+
+Name=srinagar
+Flights
+Total distance:2368 km Nearest Airport:Srinagar 
+Bus
+Total distance:2368 km 
+Taxi
+Total distance:2368 km Price:from Rs. 6 per km  
+Trains
+Total distance:2368 km 
+
+Name=raipur
+Trains
+Best trains to take:Wainganga Express (12251)  Last station:Raipur Total distance:1013 km 
+Bus
+Total distance:1013 km 
+Taxi
+Total distance:1013 km Price:from Rs. 6 per km  
+Flights
+Total distance:1013 km Nearest Airport:Raipur 
+
+Name=baikunthpur
+Flights
+Total distance:1259 km Nearest Airport:Raipur 
+Bus
+Total distance:1259 km 
+Taxi
+Total distance:1259 km Price:from Rs. 6 per km  
+Trains
+Total distance:1259 km 
+
+Name=dantewada
+Trains
+Total distance:772 km 
+Bus
+Total distance:772 km 
+Taxi
+Total distance:772 km Price:from Rs. 6 per km  
+Flights
+Total distance:772 km Nearest Airport:Raipur 
+
+Name=jagdalpur
+Trains
+Total distance:828 km 
+Bus
+Total distance:828 km 
+Taxi
+Total distance:828 km Price:from Rs. 6 per km  
+Flights
+Total distance:828 km Nearest Airport:Raipur 
+
+Name=Kanker
+Trains
+Total distance:913 km 
+Bus
+Total distance:913 km 
+Taxi
+Total distance:913 km Price:from Rs. 6 per km  
+Flights
+Total distance:913 km Nearest Airport:Raipur 
+
+Name=kawardha
+Trains
+Best trains to take:Wainganga Express (12251)  Last station:Bilaspur Total distance:1078 km 
+Bus
+Total distance:1078 km 
+Taxi
+Total distance:1078 km Price:from Rs. 6 per km  
+Flights
+Total distance:1078 km Nearest Airport:Raipur 
+
+Name=mahasamund
+Trains
+Total distance:1024 km 
+Bus
+Total distance:1024 km 
+Taxi
+Total distance:1024 km Price:from Rs. 6 per km  
+Flights
+Total distance:1024 km Nearest Airport:Raipur 
+
+Name=simdega
+Flights
+Total distance:1298 km Nearest Airport:Ranchi 
+Bus
+Total distance:1298 km 
+Taxi
+Total distance:1298 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Hatia Express (12836), Yeshvantapur Hatia Pooja Special (08636)  Last station:Rourkela Total distance:1298 km 
+
+Name=chatra
+Flights
+Total distance:1467 km Nearest Airport:Ranchi 
+Bus
+Total distance:1467 km 
+Taxi
+Total distance:1467 km Price:from Rs. 6 per km  
+Trains
+Total distance:1467 km 
+
+Name=dhanbad
+Flights
+Total distance:1523 km Nearest Airport:Ranchi 
+Bus
+Total distance:1523 km 
+Taxi
+Total distance:1523 km Price:from Rs. 6 per km  
+Trains
+Total distance:1523 km 
+
+Name=sahibganj
+Flights
+Total distance:1725 km Nearest Airport:Ranchi 
+Bus
+Total distance:1725 km 
+Taxi
+Total distance:1725 km Price:from Rs. 6 per km  
+Trains
+Total distance:1725 km 
+
+Name=chaibasa
+Flights
+Total distance:1376 km Nearest Airport:Ranchi 
+Bus
+Total distance:1376 km 
+Taxi
+Total distance:1376 km Price:from Rs. 6 per km  
+Trains
+Total distance:1376 km 
+
+Name=garhwa
+Flights
+Total distance:1408 km Nearest Airport:Ranchi 
+Bus
+Total distance:1408 km 
+Taxi
+Total distance:1408 km Price:from Rs. 6 per km  
+Trains
+Total distance:1408 km 
+
+Name=godda
+Flights
+Total distance:1662 km Nearest Airport:Ranchi 
+Bus
+Total distance:1662 km 
+Taxi
+Total distance:1662 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Anga Express (12253)  Last station:Bhagalpur Total distance:1662 km 
+
+Name=gumla
+Flights
+Total distance:1339 km Nearest Airport:Ranchi 
+Bus
+Total distance:1339 km 
+Taxi
+Total distance:1339 km Price:from Rs. 6 per km  
+Trains
+Total distance:1339 km 
+
+Name=lohardaga
+Flights
+Total distance:1384 km Nearest Airport:Ranchi 
+Bus
+Total distance:1384 km 
+Taxi
+Total distance:1384 km Price:from Rs. 6 per km  
+Trains
+Total distance:1384 km 
+
+Name=seraikela
+Flights
+Total distance:1399 km Nearest Airport:Ranchi 
+Bus
+Total distance:1399 km 
+Taxi
+Total distance:1399 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Hatia Express (12836), Yeshvantapur Hatia Pooja Special (08636)  Last station:Rourkela Total distance:1399 km 
+
+Name=konark
+Trains
+Total distance:1189 km 
+Bus
+Total distance:1189 km 
+Taxi
+Total distance:1189 km Price:from Rs. 6 per km  
+Flights
+Total distance:1189 km Nearest Airport:Bhubaneshwar 
+
+Name=puri
+Trains
+Total distance:1161 km 
+Bus
+Total distance:1161 km 
+Taxi
+Total distance:1161 km Price:from Rs. 6 per km  
+Flights
+Total distance:1161 km Nearest Airport:Bhubaneshwar 
+
+Name=Balasore
+Flights
+Total distance:1371 km Nearest Airport:Bhubaneshwar 
+Bus
+Total distance:1371 km 
+Taxi
+Total distance:1371 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Anga Express (12253), Yesvantpur-Howrah Express (12864)  Last station:Balasore Total distance:1371 km 
+
+Name=baripada
+Flights
+Total distance:1391 km Nearest Airport:Bhubaneshwar 
+Bus
+Total distance:1391 km 
+Taxi
+Total distance:1391 km Price:from Rs. 6 per km  
+Trains
+Total distance:1391 km 
+
+Name=berhampur
+Trains
+Best trains to take:Anga Express (12253), Yesvantpur Bhubaneswar Express (12846)  Last station:Berhampur Total distance:1045 km 
+Bus
+Total distance:1045 km 
+Taxi
+Total distance:1045 km Price:from Rs. 6 per km  
+Flights
+Total distance:1045 km Nearest Airport:Bhubaneshwar 
+
+Name=dhauli
+Trains
+Best trains to take:Anga Express (12253), Yesvantpur Bhubaneswar Express (12846)  Last station:Bhubaneswar Total distance:1160 km 
+Bus
+Total distance:1160 km 
+Taxi
+Total distance:1160 km Price:from Rs. 6 per km  
+Flights
+Total distance:1160 km Nearest Airport:Bhubaneshwar 
+
+Name=jeypore
+Trains
+Total distance:843 km 
+Bus
+Total distance:843 km 
+Taxi
+Total distance:843 km Price:from Rs. 6 per km  
+Flights
+Total distance:843 km Nearest Airport:Vishakapatnam 
+
+Name=kalahandi
+Trains
+Best trains to take:Anga Express (12253), Yesvantpur Bhubaneswar Express (12846)  Last station:Bhubaneswar Total distance:991 km 
+Bus
+Total distance:991 km 
+Taxi
+Total distance:991 km Price:from Rs. 6 per km  
+Flights
+Total distance:991 km Nearest Airport:Vishakapatnam 
+
+Name=Keonjhar
+Flights
+Total distance:1283 km Nearest Airport:Bhubaneshwar 
+Bus
+Total distance:1283 km 
+Taxi
+Total distance:1283 km Price:from Rs. 6 per km  
+Trains
+Total distance:1283 km 
+
+Name=phulbani
+Trains
+Best trains to take:Anga Express (12253), Yesvantpur Bhubaneswar Express (12846)  Last station:Berhampur Total distance:1094 km 
+Bus
+Total distance:1094 km 
+Taxi
+Total distance:1094 km Price:from Rs. 6 per km  
+Flights
+Total distance:1094 km Nearest Airport:Bhubaneshwar 
+
+Name=jalpaiguri
+Flights
+Total distance:1904 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1904 km 
+Taxi
+Total distance:1904 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1904 km 
+
+Name=santiniketan
+Trains
+Total distance:940 km 
+Bus
+Total distance:940 km 
+Taxi
+Total distance:940 km Price:from Rs. 6 per km  
+Flights
+Total distance:940 km Nearest Airport:Bagdogra 
+
+Name=bishnupur
+Flights
+Total distance:1520 km Nearest Airport:Kolkata 
+Bus
+Total distance:1520 km 
+Taxi
+Total distance:1520 km Price:from Rs. 6 per km  
+Trains
+Total distance:1520 km 
+
+Name=murshidabad
+Flights
+Total distance:1679 km Nearest Airport:Kolkata 
+Bus
+Total distance:1679 km 
+Taxi
+Total distance:1679 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Anga Express (12253), Yesvantpur Bhubaneswar Express (12846)  Last station:Berhampur Total distance:1679 km 
+
+Name=cooch
+Flights
+Total distance:1936 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1936 km 
+Taxi
+Total distance:1936 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1936 km 
+
+Name=bardhaman
+Flights
+Total distance:1575 km Nearest Airport:Kolkata 
+Bus
+Total distance:1575 km 
+Taxi
+Total distance:1575 km Price:from Rs. 6 per km  
+Trains
+Total distance:1575 km 
+
+Name=Malda
+Flights
+Total distance:1742 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1742 km 
+Taxi
+Total distance:1742 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901), Yesvantpur-Muzaffarpur Weekly Express (15227)  Last station:Malda Total distance:1742 km 
+
+Name=krishnanagar
+Flights
+Total distance:1634 km Nearest Airport:Kolkata 
+Bus
+Total distance:1634 km 
+Taxi
+Total distance:1634 km Price:from Rs. 6 per km  
+Trains
+Total distance:1634 km 
+
+Name=alipore
+Flights
+Total distance:1556 km Nearest Airport:Kolkata 
+Bus
+Total distance:1556 km 
+Taxi
+Total distance:1556 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Anga Express (12253), Yesvantpur-Howrah Express (12864)  Last station:Howrah Total distance:1556 km 
+
+Name=asansol
+Flights
+Total distance:1549 km Nearest Airport:Kolkata 
+Bus
+Total distance:1549 km 
+Taxi
+Total distance:1549 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Anga Express (12253)  Last station:Asansol Total distance:1549 km 
+
+Name=daman
+Trains
+Total distance:985 km 
+Bus
+Total distance:985 km 
+Taxi
+Total distance:985 km Price:from Rs. 6 per km  
+Flights
+Total distance:985 km Nearest Airport:Mumbai 
+
+Name=diu
+Trains
+Total distance:1053 km 
+Bus
+Total distance:1053 km 
+Taxi
+Total distance:1053 km Price:from Rs. 6 per km  
+Flights
+Total distance:1053 km Nearest Airport:Mumbai 
+
+Name=anjuna
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:509 km 
+Bus
+Total distance:509 km 
+Taxi
+Total distance:509 km Price:from Rs. 6 per km  
+Flights
+Total distance:509 km Nearest Airport:Goa 
+
+Name=baga
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:506 km 
+Bus
+Total distance:506 km 
+Taxi
+Total distance:506 km Price:from Rs. 6 per km  
+Flights
+Total distance:506 km Nearest Airport:Goa 
+
+Name=benaulim
+Bus
+Total distance:472 km 
+Taxi
+Total distance:472 km Price:from Rs. 6 per km  
+Flights
+Total distance:472 km Nearest Airport:Goa 
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:472 km 
+
+Name=bogmalo
+Bus
+Total distance:487 km 
+Taxi
+Total distance:487 km Price:from Rs. 6 per km  
+Flights
+Total distance:487 km Nearest Airport:Goa 
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:487 km 
+
+Name=calangute
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:502 km 
+Bus
+Total distance:502 km 
+Taxi
+Total distance:502 km Price:from Rs. 6 per km  
+Flights
+Total distance:502 km Nearest Airport:Goa 
+
+Name=candolim
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:504 km 
+Bus
+Total distance:504 km 
+Taxi
+Total distance:504 km Price:from Rs. 6 per km  
+Flights
+Total distance:504 km Nearest Airport:Goa 
+
+Name=chapora
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:510 km 
+Bus
+Total distance:510 km 
+Taxi
+Total distance:510 km Price:from Rs. 6 per km  
+Flights
+Total distance:510 km Nearest Airport:Goa 
+
+Name=colva
+Bus
+Total distance:474 km 
+Taxi
+Total distance:474 km Price:from Rs. 6 per km  
+Flights
+Total distance:474 km Nearest Airport:Goa 
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:474 km 
+
+Name=dona
+Bus
+Total distance:497 km 
+Taxi
+Total distance:497 km Price:from Rs. 6 per km  
+Flights
+Total distance:497 km Nearest Airport:Goa 
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:497 km 
+
+Name=majorda
+Bus
+Total distance:477 km 
+Taxi
+Total distance:477 km Price:from Rs. 6 per km  
+Flights
+Total distance:477 km Nearest Airport:Goa 
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:477 km 
+
+Name=anand
+Trains
+Best trains to take:Madurai Okha Vivek Express (19567), Coimbatore-Rajkot Express (16614)  Last station:Anand Total distance:1176 km 
+Bus
+Total distance:1176 km 
+Taxi
+Total distance:1176 km Price:from Rs. 6 per km  
+Flights
+Total distance:1176 km Nearest Airport:Ahmedabad 
+
+Name=modhera
+Flights
+Total distance:1278 km Nearest Airport:Ahmedabad 
+Bus
+Total distance:1278 km 
+Taxi
+Total distance:1278 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Madurai Okha Vivek Express (19567), Coimbatore-Rajkot Express (16614)  Last station:Baroda(Vadodara) Total distance:1278 km 
+
+Name=junagadh
+Flights
+Total distance:1212 km Nearest Airport:Rajkot 
+Bus
+Total distance:1212 km 
+Taxi
+Total distance:1212 km Price:from Rs. 6 per km  
+Trains
+Total distance:1212 km 
+
+Name=jamnagar
+Flights
+Total distance:1288 km Nearest Airport:Jamnagar 
+Bus
+Total distance:1288 km 
+Taxi
+Total distance:1288 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Madurai Okha Vivek Express (19567)  Last station:Jamnagar Total distance:1288 km 
+
+Name=dholavira
+Flights
+Total distance:1417 km Nearest Airport:Rajkot 
+Bus
+Total distance:1417 km 
+Taxi
+Total distance:1417 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Madurai Okha Vivek Express (19567), Coimbatore-Rajkot Express (16614)  Last station:Ahmedabad Total distance:1417 km 
+
+Name=bhuj
+Flights
+Total distance:1420 km Nearest Airport:Rajkot 
+Bus
+Total distance:1420 km 
+Taxi
+Total distance:1420 km Price:from Rs. 6 per km  
+Trains
+Total distance:1420 km 
+
+Name=gondal
+Flights
+Total distance:1221 km Nearest Airport:Rajkot 
+Bus
+Total distance:1221 km 
+Taxi
+Total distance:1221 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Madurai Okha Vivek Express (19567), Coimbatore-Rajkot Express (16614)  Last station:Rajkot Total distance:1221 km 
+
+Name=ajanta
+Trains
+Total distance:867 km 
+Bus
+Total distance:867 km 
+Taxi
+Total distance:867 km Price:from Rs. 6 per km  
+Flights
+Total distance:867 km Nearest Airport:Aurangabad 
+
+Name=Akola
+Trains
+Total distance:864 km 
+Bus
+Total distance:864 km 
+Taxi
+Total distance:864 km Price:from Rs. 6 per km  
+Flights
+Total distance:864 km Nearest Airport:Nagpur 
+
+Name=ahmednagar
+Trains
+Best trains to take:Chennai-Sainagar Shirdi Weekly SF Express (22601), Bangalore-Ahmedabad Express (16502)  Last station:Ahmednagar Total distance:750 km 
+Bus
+Total distance:750 km 
+Taxi
+Total distance:750 km Price:from Rs. 6 per km  
+Flights
+Total distance:750 km Nearest Airport:Pune 
+
+Name=chandrapur
+Trains
+Best trains to take:Yeshvantapur Gorakhpur Express (15024), Mysore-Jaipur SF Express (12975)  Last station:Chandrapur Total distance:808 km 
+Bus
+Total distance:808 km 
+Taxi
+Total distance:808 km Price:from Rs. 6 per km  
+Flights
+Total distance:808 km Nearest Airport:Nagpur 
+
+Name=elephanta
+Trains
+Best trains to take:Trivandrum-Mumbai CST Weekly Express (16332), Nagercoil-Mumbai CST Express (16340)  Last station:Mumbai Total distance:834 km 
+Bus
+Total distance:834 km 
+Taxi
+Total distance:834 km Price:from Rs. 6 per km  
+Flights
+Total distance:834 km Nearest Airport:Mumbai 
+
+Name=sangli
+Trains
+Best trains to take:Tirunelveli-Dadar Express (11022), Chalukya Express (11018)  Last station:Sangli Total distance:543 km 
+Bus
+Total distance:543 km 
+Taxi
+Total distance:543 km Price:from Rs. 6 per km  
+Flights
+Total distance:543 km Nearest Airport:Kolhapur 
+
+Name=bordi
+Trains
+Total distance:953 km 
+Bus
+Total distance:953 km 
+Taxi
+Total distance:953 km Price:from Rs. 6 per km  
+Flights
+Total distance:953 km Nearest Airport:Mumbai 
+
+Name=ganapatipule
+Trains
+Total distance:659 km 
+Bus
+Total distance:659 km 
+Taxi
+Total distance:659 km Price:from Rs. 6 per km  
+Flights
+Total distance:659 km Nearest Airport:Mumbai 
+
+Name=murud
+Trains
+Total distance:777 km 
+Bus
+Total distance:777 km 
+Taxi
+Total distance:777 km Price:from Rs. 6 per km  
+Flights
+Total distance:777 km Nearest Airport:Mumbai 
+
+Name=alibaug
+Trains
+Total distance:811 km 
+Bus
+Total distance:811 km 
+Taxi
+Total distance:811 km Price:from Rs. 6 per km  
+Flights
+Total distance:811 km Nearest Airport:Mumbai 
+
+Name=kashid
+Trains
+Total distance:791 km 
+Bus
+Total distance:791 km 
+Taxi
+Total distance:791 km Price:from Rs. 6 per km  
+Flights
+Total distance:791 km Nearest Airport:Mumbai 
+
+Name=madh
+Trains
+Best trains to take:Trivandrum-Mumbai CST Weekly Express (16332), Nagercoil-Mumbai CST Express (16340)  Last station:Mumbai Total distance:864 km 
+Bus
+Total distance:864 km 
+Taxi
+Total distance:864 km Price:from Rs. 6 per km  
+Flights
+Total distance:864 km Nearest Airport:Mumbai 
+
+Name=dahanu
+Trains
+Total distance:938 km 
+Bus
+Total distance:938 km 
+Taxi
+Total distance:938 km Price:from Rs. 6 per km  
+Flights
+Total distance:938 km Nearest Airport:Mumbai 
+
+Name=gorai
+Trains
+Best trains to take:Trivandrum-Mumbai CST Weekly Express (16332), Nagercoil-Mumbai CST Express (16340)  Last station:Mumbai Total distance:868 km 
+Bus
+Total distance:868 km 
+Taxi
+Total distance:868 km Price:from Rs. 6 per km  
+Flights
+Total distance:868 km Nearest Airport:Mumbai 
+
+Name=kihim
+Trains
+Total distance:815 km 
+Bus
+Total distance:815 km 
+Taxi
+Total distance:815 km Price:from Rs. 6 per km  
+Flights
+Total distance:815 km Nearest Airport:Mumbai 
+
+Name=madh
+Trains
+Best trains to take:Trivandrum-Mumbai CST Weekly Express (16332), Nagercoil-Mumbai CST Express (16340)  Last station:Mumbai Total distance:858 km 
+Bus
+Total distance:858 km 
+Taxi
+Total distance:858 km Price:from Rs. 6 per km  
+Flights
+Total distance:858 km Nearest Airport:Mumbai 
+
+Name=port
+Flights
+Total distance:1655 km Nearest Airport:Port Blair 
+Bus
+Total distance:1655 km 
+Taxi
+Total distance:1655 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:1655 km 
+
+Name=havelock
+Flights
+Total distance:1676 km Nearest Airport:Port Blair 
+Bus
+Total distance:1676 km 
+Taxi
+Total distance:1676 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:1676 km 
+
+Name=viper
+Flights
+Total distance:1648 km Nearest Airport:Port Blair 
+Bus
+Total distance:1648 km 
+Taxi
+Total distance:1648 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:1648 km 
+
+Name=ross
+Flights
+Total distance:1654 km Nearest Airport:Port Blair 
+Bus
+Total distance:1654 km 
+Taxi
+Total distance:1654 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:1654 km 
+
+Name=neil
+Flights
+Total distance:1683 km Nearest Airport:Port Blair 
+Bus
+Total distance:1683 km 
+Taxi
+Total distance:1683 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:1683 km 
+
+Name=cinque
+Flights
+Total distance:1653 km Nearest Airport:Port Blair 
+Bus
+Total distance:1653 km 
+Taxi
+Total distance:1653 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:1653 km 
+
+Name=chatham
+Flights
+Total distance:1650 km Nearest Airport:Port Blair 
+Bus
+Total distance:1650 km 
+Taxi
+Total distance:1650 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:1650 km 
+
+Name=barren
+Flights
+Total distance:1767 km Nearest Airport:Port Blair 
+Bus
+Total distance:1767 km 
+Taxi
+Total distance:1767 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:1767 km 
+
+Name=pilomillow
+Flights
+Total distance:1825 km Nearest Airport:Port Blair 
+Bus
+Total distance:1825 km 
+Taxi
+Total distance:1825 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:1825 km 
+
+Name=chorao
+Flights
+Total distance:1761 km Nearest Airport:Goa 
+Bus
+Total distance:1761 km 
+Taxi
+Total distance:1761 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur Vasco da Gama Express (17309), Chennai Vasco Express (17311)  Last station:Margao Total distance:1761 km 
+
+Name=nagarjunasagar
+Bus
+Total distance:441 km 
+Taxi
+Total distance:441 km Price:from Rs. 6 per km  
+Flights
+Total distance:441 km Nearest Airport:Hyderabad 
+Trains
+Best trains to take:Yesvantpur - Machilipatnam Express (17212), Yesvantapur-Vijayawada Passenger (56503)  Last station:Guntur Total distance:441 km 
+
+Name=warangal
+Trains
+Best trains to take:Yesvantpur-Lucknow Weekly SF Express (12539), Bangalore - Patna (Weekly) Special (06513)  Last station:Warangal Total distance:598 km 
+Bus
+Total distance:598 km 
+Taxi
+Total distance:598 km Price:from Rs. 6 per km  
+Flights
+Total distance:598 km Nearest Airport:Hyderabad 
+
+Name=rajahmundry
+Flights
+Total distance:636 km Nearest Airport:Rajahmundry 
+Trains
+Best trains to take:Yesvantpur-Hatia Express (12836), Yesvantpur Bhubaneswar Express (12846)  Last station:Rajahmundry Total distance:636 km 
+Bus
+Total distance:636 km Duration: 11 Hrs by Bus 
+Taxi
+Total distance:636 km Duration: 11 Hrs by car Price:from Rs. 6 per km  
+
+Name=guntur
+Bus
+Total distance:481 km 
+Taxi
+Total distance:481 km Price:from Rs. 6 per km  
+Flights
+Total distance:481 km Nearest Airport:Hyderabad 
+Trains
+Best trains to take:Yesvantpur - Machilipatnam Express (17212), Yesvantapur-Vijayawada Passenger (56503)  Last station:Guntur Total distance:481 km 
+
+Name=nizamabad
+Trains
+Total distance:636 km 
+Bus
+Total distance:636 km 
+Taxi
+Total distance:636 km Price:from Rs. 6 per km  
+Flights
+Total distance:636 km Nearest Airport:Hyderabad 
+
+Name=chittoor
+Taxi
+Total distance:163 km Price:from Rs. 6 per km  
+Bus
+Total distance:163 km 
+Flights
+Total distance:163 km Nearest Airport:Chennai 
+Trains
+Best trains to take:Yesvantpur-Tirupati Tri Weekly Intercity (22617), Yesvantpur Bhubaneswar Express (12846)  Last station:Chittoor Total distance:163 km 
+
+Name=kurnool
+Taxi
+Total distance:321 km Price:from Rs. 6 per km  
+Bus
+Total distance:321 km 
+Flights
+Total distance:321 km Nearest Airport:Hyderabad 
+Trains
+Best trains to take:Yeshvantapur Gorakhpur Express (15024), Wainganga Express (12251)  Last station:Kurnool Total distance:321 km 
+
+Name=anantapur
+Taxi
+Total distance:359 km Duration: 6 Hrs by car Price:from Rs. 6 per km  
+Bus
+Total distance:359 km Duration: 6 Hrs by Bus 
+Trains
+Best trains to take:Yesvantpur - Solapur (Tri-Weekly) SF Express (22134), Basava Express (17307)  Last station:Anantapur Total distance:359 km 
+Flights
+Total distance:359 km Nearest Airport:Sri Sathya Sai Airport 
+
+Name=lepakshi
+Taxi
+Total distance:93 km Price:from Rs. 6 per km  
+Bus
+Total distance:93 km 
+Flights
+Total distance:93 km Nearest Airport:Bangalore 
+Trains
+Best trains to take:Prashanti Nilayam Express (17604), Yesvantapur-Vijayawada Passenger (56503)  Last station:Hindupur Total distance:93 km 
+
+Name=nagarjunakonda
+Bus
+Total distance:442 km 
+Taxi
+Total distance:442 km Price:from Rs. 6 per km  
+Flights
+Total distance:442 km Nearest Airport:Hyderabad 
+Trains
+Best trains to take:Yesvantpur - Machilipatnam Express (17212), Yesvantapur-Vijayawada Passenger (56503)  Last station:Guntur Total distance:442 km 
+
+Name=badami
+Bus
+Total distance:389 km 
+Taxi
+Total distance:389 km Price:from Rs. 6 per km  
+Flights
+Total distance:389 km Nearest Airport:Bangalore 
+Trains
+Best trains to take:Yesvantapur - Ahmedabad (Weekly) AC Express (19405), Gol Gumbaz Express (16535)  Last station:Badami Total distance:389 km 
+
+Name=hampi
+Trains
+Best trains to take:Garib Nawaz Express (16532), Yesvantpur-Jodhpur Express (16534)  Last station:Hospet Total distance:291 km 
+Bus
+Total distance:291 km 
+Taxi
+Total distance:291 km Price:from Rs. 6 per km  
+Flights
+Total distance:291 km Nearest Airport:Bangalore 
+
+Name=hassan
+Taxi
+Total distance:164 km Duration: 3 Hrs by car Price:from Rs. 6 per km  
+Bus
+Total distance:164 km Duration: 3 Hrs by Bus 
+Trains
+Best trains to take:Yeshvantpur - Karwar Express (16515), Yeshvantpur - Karwar Express (16517)  Last station:Hassan Total distance:164 km 
+Flights
+Total distance:164 km Nearest Airport:Bangalore 
+
+Name=mysore
+Trains
+Best trains to take:Bangalore Mysore Passenger (56230), Bangalore Mysore (PUSH-PULL) Passenger (56238)  Last station:Mysore Total distance:128 km 
+Taxi
+Total distance:128 km Duration: 2 Hrs by car Price:from Rs. 6 per km  
+Bus
+Total distance:128 km Duration: 2 Hrs by Bus 
+Flights
+Total distance:128 km Nearest Airport:Bangalore 
+
+Name=srirangapatna
+Taxi
+Total distance:117 km Duration: 2 Hrs by car Price:from Rs. 6 per km  
+Bus
+Total distance:117 km 
+Flights
+Total distance:117 km Nearest Airport:Bangalore 
+Trains
+Best trains to take:Bangalore Mysore Passenger (56230), Bangalore Mysore (PUSH-PULL) Passenger (56238)  Last station:Mysore Total distance:117 km 
+
+Name=sakleshpur
+Taxi
+Total distance:198 km Price:from Rs. 6 per km  
+Bus
+Total distance:198 km 
+Flights
+Total distance:198 km Nearest Airport:Mangalore 
+Trains
+Best trains to take:Yeshvantpur - Karwar Express (16515), Yeshvantpur - Karwar Express (16517)  Last station:Hassan Total distance:198 km 
+
+Name=bijapur
+Bus
+Total distance:475 km 
+Taxi
+Total distance:475 km Price:from Rs. 6 per km  
+Flights
+Total distance:475 km Nearest Airport:Belgaum 
+Trains
+Best trains to take:Yesvantapur - Ahmedabad (Weekly) AC Express (19405), Gol Gumbaz Express (16535)  Last station:Bijapur Total distance:475 km 
+
+Name=bellary
+Trains
+Best trains to take:Garib Nawaz Express (16532), Yesvantpur-Jodhpur Express (16534)  Last station:Bellary Total distance:254 km 
+Taxi
+Total distance:254 km Duration: 4 Hrs by car Price:from Rs. 6 per km  
+Bus
+Total distance:254 km Duration: 4 Hrs by Bus 
+Flights
+Total distance:254 km Nearest Airport:Bellary 
+
+Name=aihole
+Bus
+Total distance:388 km 
+Taxi
+Total distance:388 km Price:from Rs. 6 per km  
+Flights
+Total distance:388 km Nearest Airport:Belgaum 
+Trains
+Best trains to take:Yesvantapur - Ahmedabad (Weekly) AC Express (19405), Gol Gumbaz Express (16535)  Last station:Bagalkot Total distance:388 km 
+
+Name=bidar
+Trains
+Best trains to take:Bangalore-Nanded Express (16594)  Last station:Bidar Total distance:551 km 
+Bus
+Total distance:551 km Duration: 9 Hrs by Bus 
+Flights
+Total distance:551 km Nearest Airport:Hyderabad 
+Taxi
+Total distance:551 km Duration: 9 Hrs by car Price:from Rs. 6 per km  
+
+Name=idukki
+Bus
+Total distance:354 km 
+Taxi
+Total distance:354 km Price:from Rs. 6 per km  
+Flights
+Total distance:354 km Nearest Airport:Kochi 
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Kottayam Total distance:354 km 
+
+Name=munnar
+Taxi
+Total distance:326 km Duration: 5 Hrs by car Price:from Rs. 6 per km  
+Bus
+Total distance:326 km Duration: 5 Hrs by Bus 
+Trains
+Best trains to take:Bangalore City-Ernakulam Intercity Express (12677), Bangalore-Ernakulam Weekly Superfast Express (22608)  Last station:Kochi (Cochin) Total distance:326 km 
+Flights
+Total distance:326 km Nearest Airport:Kochi 
+
+Name=wayanad
+Taxi
+Total distance:216 km Duration: 4 Hrs by car Price:from Rs. 6 per km  
+Bus
+Total distance:216 km Duration: 4 Hrs by Bus 
+Trains
+Best trains to take:Yesvantpur - Kannur Express (16527)  Last station:Kozhikode (Calicut) Total distance:216 km 
+Flights
+Total distance:216 km Nearest Airport:Calicut 
+
+Name=nelliyampathy
+Taxi
+Total distance:297 km Price:from Rs. 6 per km  
+Bus
+Total distance:297 km 
+Flights
+Total distance:297 km Nearest Airport:Coimbatore 
+Trains
+Best trains to take:Yesvantpur - Kannur Express (16527), Bangalore City-Ernakulam Intercity Express (12677)  Last station:Palakkad Total distance:297 km 
+
+Name=vagamon
+Bus
+Total distance:372 km 
+Taxi
+Total distance:372 km Price:from Rs. 6 per km  
+Flights
+Total distance:372 km Nearest Airport:Kochi 
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Kottayam Total distance:372 km 
+
+Name=devikulam
+Taxi
+Total distance:327 km Price:from Rs. 6 per km  
+Bus
+Total distance:327 km 
+Flights
+Total distance:327 km Nearest Airport:Kochi 
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:327 km 
+
+Name=kumily
+Bus
+Total distance:376 km 
+Taxi
+Total distance:376 km Price:from Rs. 6 per km  
+Flights
+Total distance:376 km Nearest Airport:Kochi 
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Kottayam Total distance:376 km 
+
+Name=peermede
+Bus
+Total distance:383 km 
+Taxi
+Total distance:383 km Price:from Rs. 6 per km  
+Flights
+Total distance:383 km Nearest Airport:Kochi 
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Kottayam Total distance:383 km 
+
+Name=ponmudi
+Bus
+Total distance:472 km 
+Taxi
+Total distance:472 km Price:from Rs. 6 per km  
+Flights
+Total distance:472 km Nearest Airport:Thiruvanantapuram 
+Trains
+Best trains to take:Mumbai CST-Trivandrum Weekly Express (16331), Bangalore Tiruvananthapuram Weekly Express (16321)  Last station:Thiruvananthapuram Total distance:472 km 
+
+Name=kalpetta
+Taxi
+Total distance:233 km Price:from Rs. 6 per km  
+Bus
+Total distance:233 km 
+Flights
+Total distance:233 km Nearest Airport:Calicut 
+Trains
+Best trains to take:Yesvantpur - Kannur Express (16527)  Last station:Kozhikode (Calicut) Total distance:233 km 
+
+Name=amini
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:569 km 
+Bus
+Total distance:569 km 
+Taxi
+Total distance:569 km Price:from Rs. 6 per km  
+Flights
+Total distance:569 km Nearest Airport:Kochi 
+
+Name=androth
+Bus
+Total distance:490 km 
+Taxi
+Total distance:490 km Price:from Rs. 6 per km  
+Flights
+Total distance:490 km Nearest Airport:Kochi 
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:490 km 
+
+Name=bangaram
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:622 km 
+Bus
+Total distance:622 km 
+Taxi
+Total distance:622 km Price:from Rs. 6 per km  
+Flights
+Total distance:622 km Nearest Airport:Kochi 
+
+Name=bitra
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:610 km 
+Bus
+Total distance:610 km 
+Taxi
+Total distance:610 km Price:from Rs. 6 per km  
+Flights
+Total distance:610 km Nearest Airport:Kochi 
+
+Name=chetlat
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:552 km 
+Bus
+Total distance:552 km 
+Taxi
+Total distance:552 km Price:from Rs. 6 per km  
+Flights
+Total distance:552 km Nearest Airport:Kochi 
+
+Name=kadmat
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:560 km 
+Bus
+Total distance:560 km 
+Taxi
+Total distance:560 km Price:from Rs. 6 per km  
+Flights
+Total distance:560 km Nearest Airport:Kochi 
+
+Name=kalpeni
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:540 km 
+Bus
+Total distance:540 km 
+Taxi
+Total distance:540 km Price:from Rs. 6 per km  
+Flights
+Total distance:540 km Nearest Airport:Kochi 
+
+Name=kavaratti
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:603 km 
+Bus
+Total distance:603 km 
+Taxi
+Total distance:603 km Price:from Rs. 6 per km  
+Flights
+Total distance:603 km Nearest Airport:Kochi 
+
+Name=kittan
+Trains
+Best trains to take:Yesvantapur Kochuveli Garib Rath Express (12257), Hubli-Kochuveli Weekly SF Express (12777)  Last station:Adoor Total distance:527 km 
+Bus
+Total distance:527 km 
+Taxi
+Total distance:527 km Price:from Rs. 6 per km  
+Flights
+Total distance:527 km Nearest Airport:Kochi 
+
+Name=minicoy
+Flights
+Total distance:1499 km Nearest Airport:Kochi 
+Bus
+Total distance:1499 km 
+Taxi
+Total distance:1499 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore City-Ernakulam Intercity Express (12677), Bangalore-Ernakulam Weekly Superfast Express (22608)  Last station:Kochi (Cochin) Total distance:1499 km 
+
+Name=karaikal
+Taxi
+Total distance:332 km Price:from Rs. 6 per km  
+Bus
+Total distance:332 km 
+Flights
+Total distance:332 km Nearest Airport:Chennai 
+Trains
+Total distance:332 km 
+
+Name=kanyakumari
+Trains
+Best trains to take:Bangalore - Kanniyakumari (Island) Express (16526)  Last station:Kanyakumari Total distance:544 km 
+Bus
+Total distance:544 km 
+Taxi
+Total distance:544 km Price:from Rs. 6 per km  
+Flights
+Total distance:544 km Nearest Airport:Thiruvanantapuram 
+
+Name=madurai
+Taxi
+Total distance:344 km Price:from Rs. 6 per km  
+Bus
+Total distance:344 km 
+Flights
+Total distance:344 km Nearest Airport:Madurai 
+Trains
+Best trains to take:Mysore-Tuticorin Express (16732), Dadar-Tirunelveli Express (11021)  Last station:Madurai Total distance:344 km 
+
+Name=mahabalipuram
+Taxi
+Total distance:284 km Duration: 5 Hrs by car Price:from Rs. 6 per km  
+Bus
+Total distance:284 km Duration: 5 Hrs by Bus 
+Trains
+Best trains to take:Vasco-Chennai Express (17312), Hubli - Chennai Express (17314)  Last station:Chennai Total distance:284 km 
+Flights
+Total distance:284 km Nearest Airport:Chennai 
+
+Name=thanjavur
+Trains
+Best trains to take:Mysore Mayiladuturai Express (16232), Vasco-da-gama  Velankanni Express (17315)  Last station:Thanjavur Total distance:295 km 
+Taxi
+Total distance:295 km Duration: 5 Hrs by car Price:from Rs. 6 per km  
+Bus
+Total distance:295 km Duration: 5 Hrs by Bus 
+Flights
+Total distance:295 km Nearest Airport:Chennai 
+
+Name=trichy
+Bus
+Total distance:269 km Duration: 4 Hrs by Bus 
+Taxi
+Total distance:269 km Duration: 4 Hrs by car Price:from Rs. 6 per km  
+Trains
+Best trains to take:Mysore Mayiladuturai Express (16232)  Last station:Trichy Total distance:269 km 
+Flights
+Total distance:269 km Nearest Airport:Tiruchirapalli 
+
+Name=poompuhar
+Taxi
+Total distance:320 km Price:from Rs. 6 per km  
+Bus
+Total distance:320 km 
+Flights
+Total distance:320 km Nearest Airport:Tiruchirapalli 
+Trains
+Best trains to take:Mysore Mayiladuturai Express (16232), Vasco-da-gama  Velankanni Express (17315)  Last station:Thanjavur Total distance:320 km 
+
+Name=chettinad
+Bus
+Total distance:360 km 
+Taxi
+Total distance:360 km Price:from Rs. 6 per km  
+Flights
+Total distance:360 km Nearest Airport:Madurai 
+Trains
+Total distance:360 km 
+
+Name=tuticorin
+Bus
+Total distance:467 km 
+Taxi
+Total distance:467 km Price:from Rs. 6 per km  
+Flights
+Total distance:467 km Nearest Airport:Tuticorin 
+Trains
+Best trains to take:Mysore-Tuticorin Express (16732)  Last station:Tuticorin Total distance:467 km 
+
+Name=hosur
+Taxi
+Total distance:36 km Price:from Rs. 6 per km  
+Bus
+Total distance:36 km 
+Flights
+Total distance:36 km Nearest Airport:Bangalore 
+Trains
+Best trains to take:Bangalore City-Ernakulam Intercity Express (12677), Bangalore Nagore Passenger (56514)  Last station:Hosur Total distance:36 km 
+
+Name=karaikkudi
+Taxi
+Total distance:347 km Price:from Rs. 6 per km  
+Bus
+Total distance:347 km 
+Flights
+Total distance:347 km Nearest Airport:Madurai 
+Trains
+Total distance:347 km 
+
+Name=itanagar
+Flights
+Total distance:2297 km Nearest Airport:Guwahati 
+Bus
+Total distance:2297 km 
+Taxi
+Total distance:2297 km Price:from Rs. 6 per km  
+Trains
+Total distance:2297 km 
+
+Name=tawang
+Flights
+Total distance:2201 km Nearest Airport:Guwahati 
+Bus
+Total distance:2201 km 
+Taxi
+Total distance:2201 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:2201 km 
+
+Name=namdapha
+Flights
+Total distance:2523 km Nearest Airport:Guwahati 
+Bus
+Total distance:2523 km 
+Taxi
+Total distance:2523 km Price:from Rs. 6 per km  
+Trains
+Total distance:2523 km 
+
+Name=along
+Flights
+Total distance:2459 km Nearest Airport:Guwahati 
+Bus
+Total distance:2459 km 
+Taxi
+Total distance:2459 km Price:from Rs. 6 per km  
+Trains
+Total distance:2459 km 
+
+Name=anini
+Trains
+Total distance:569 km 
+Bus
+Total distance:569 km 
+Taxi
+Total distance:569 km Price:from Rs. 6 per km  
+Flights
+Total distance:569 km Nearest Airport:Guwahati 
+
+Name=anjaw
+Flights
+Total distance:2627 km Nearest Airport:Guwahati 
+Bus
+Total distance:2627 km 
+Taxi
+Total distance:2627 km Price:from Rs. 6 per km  
+Trains
+Total distance:2627 km 
+
+Name=bomdila
+Flights
+Total distance:2217 km Nearest Airport:Guwahati 
+Bus
+Total distance:2217 km 
+Taxi
+Total distance:2217 km Price:from Rs. 6 per km  
+Trains
+Total distance:2217 km 
+
+Name=changlang
+Flights
+Total distance:2461 km Nearest Airport:Guwahati 
+Bus
+Total distance:2461 km 
+Taxi
+Total distance:2461 km Price:from Rs. 6 per km  
+Trains
+Total distance:2461 km 
+
+Name=daporijo
+Flights
+Total distance:2402 km Nearest Airport:Guwahati 
+Bus
+Total distance:2402 km 
+Taxi
+Total distance:2402 km Price:from Rs. 6 per km  
+Trains
+Total distance:2402 km 
+
+Name=khonsa
+Flights
+Total distance:2432 km Nearest Airport:Guwahati 
+Bus
+Total distance:2432 km 
+Taxi
+Total distance:2432 km Price:from Rs. 6 per km  
+Trains
+Total distance:2432 km 
+
+Name=silchar
+Flights
+Total distance:2072 km Nearest Airport:Silchar 
+Bus
+Total distance:2072 km 
+Taxi
+Total distance:2072 km Price:from Rs. 6 per km  
+Trains
+Total distance:2072 km 
+
+Name=sibsagar
+Flights
+Total distance:2361 km Nearest Airport:Jorhat 
+Bus
+Total distance:2361 km 
+Taxi
+Total distance:2361 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Sibsagar Total distance:2361 km 
+
+Name=bongaigaon
+Flights
+Total distance:2022 km Nearest Airport:Jorhat 
+Bus
+Total distance:2022 km 
+Taxi
+Total distance:2022 km Price:from Rs. 6 per km  
+Trains
+Total distance:2022 km 
+
+Name=tinsukia
+Flights
+Total distance:2454 km Nearest Airport:Guwahati 
+Bus
+Total distance:2454 km 
+Taxi
+Total distance:2454 km Price:from Rs. 6 per km  
+Trains
+Total distance:2454 km 
+
+Name=dhemaji
+Flights
+Total distance:2391 km Nearest Airport:Guwahati 
+Bus
+Total distance:2391 km 
+Taxi
+Total distance:2391 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:2391 km 
+
+Name=kokrajhar
+Flights
+Total distance:1997 km Nearest Airport:Guwahati 
+Bus
+Total distance:1997 km 
+Taxi
+Total distance:1997 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Kokrajhar Total distance:1997 km 
+
+Name=mangaldai
+Flights
+Total distance:2125 km Nearest Airport:Guwahati 
+Bus
+Total distance:2125 km 
+Taxi
+Total distance:2125 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:2125 km 
+
+Name=chandel
+Flights
+Total distance:2138 km Nearest Airport:Imphal 
+Bus
+Total distance:2138 km 
+Taxi
+Total distance:2138 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2138 km 
+
+Name=churachandpur
+Flights
+Total distance:2114 km Nearest Airport:Imphal 
+Bus
+Total distance:2114 km 
+Taxi
+Total distance:2114 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2114 km 
+
+Name=karong
+Flights
+Total distance:2204 km Nearest Airport:Imphal 
+Bus
+Total distance:2204 km 
+Taxi
+Total distance:2204 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2204 km 
+
+Name=tamenglong
+Flights
+Total distance:2140 km Nearest Airport:Imphal 
+Bus
+Total distance:2140 km 
+Taxi
+Total distance:2140 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2140 km 
+
+Name=thoubal
+Flights
+Total distance:2159 km Nearest Airport:Imphal 
+Bus
+Total distance:2159 km 
+Taxi
+Total distance:2159 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2159 km 
+
+Name=ukhrul
+Flights
+Total distance:2219 km Nearest Airport:Imphal 
+Bus
+Total distance:2219 km 
+Taxi
+Total distance:2219 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2219 km 
+
+Name=shillong
+Flights
+Total distance:2050 km Nearest Airport:Shillong 
+Bus
+Total distance:2050 km 
+Taxi
+Total distance:2050 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:2050 km 
+
+Name=cherrapunjee
+Flights
+Total distance:2017 km Nearest Airport:Guwahati 
+Bus
+Total distance:2017 km 
+Taxi
+Total distance:2017 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:2017 km 
+
+Name=jowai
+Flights
+Total distance:2067 km Nearest Airport:Guwahati 
+Bus
+Total distance:2067 km 
+Taxi
+Total distance:2067 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:2067 km 
+
+Name=nongpoh
+Flights
+Total distance:2075 km Nearest Airport:Guwahati 
+Bus
+Total distance:2075 km 
+Taxi
+Total distance:2075 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:2075 km 
+
+Name=nongstoin
+Flights
+Total distance:2001 km Nearest Airport:Shillong 
+Bus
+Total distance:2001 km 
+Taxi
+Total distance:2001 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:2001 km 
+
+Name=tura
+Flights
+Total distance:1924 km Nearest Airport:Guwahati 
+Bus
+Total distance:1924 km 
+Taxi
+Total distance:1924 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:1924 km 
+
+Name=williamnagar
+Flights
+Total distance:1951 km Nearest Airport:Guwahati 
+Bus
+Total distance:1951 km 
+Taxi
+Total distance:1951 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:1951 km 
+
+Name=aizawl
+Flights
+Total distance:1994 km Nearest Airport:Aizwal 
+Bus
+Total distance:1994 km 
+Taxi
+Total distance:1994 km Price:from Rs. 6 per km  
+Trains
+Total distance:1994 km 
+
+Name=champhai
+Flights
+Total distance:2021 km Nearest Airport:Aizwal 
+Bus
+Total distance:2021 km 
+Taxi
+Total distance:2021 km Price:from Rs. 6 per km  
+Trains
+Total distance:2021 km 
+
+Name=kolasib
+Flights
+Total distance:2022 km Nearest Airport:Aizwal 
+Bus
+Total distance:2022 km 
+Taxi
+Total distance:2022 km Price:from Rs. 6 per km  
+Trains
+Total distance:2022 km 
+
+Name=lawngtlai
+Flights
+Total distance:1938 km Nearest Airport:Aizwal 
+Bus
+Total distance:1938 km 
+Taxi
+Total distance:1938 km Price:from Rs. 6 per km  
+Trains
+Total distance:1938 km 
+
+Name=lunglei
+Flights
+Total distance:1947 km Nearest Airport:Aizwal 
+Bus
+Total distance:1947 km 
+Taxi
+Total distance:1947 km Price:from Rs. 6 per km  
+Trains
+Total distance:1947 km 
+
+Name=mamit
+Flights
+Total distance:1987 km Nearest Airport:Aizwal 
+Bus
+Total distance:1987 km 
+Taxi
+Total distance:1987 km Price:from Rs. 6 per km  
+Trains
+Total distance:1987 km 
+
+Name=saiha
+Flights
+Total distance:1943 km Nearest Airport:Aizwal 
+Bus
+Total distance:1943 km 
+Taxi
+Total distance:1943 km Price:from Rs. 6 per km  
+Trains
+Total distance:1943 km 
+
+Name=serchhip
+Flights
+Total distance:1979 km Nearest Airport:Aizwal 
+Bus
+Total distance:1979 km 
+Taxi
+Total distance:1979 km Price:from Rs. 6 per km  
+Trains
+Total distance:1979 km 
+
+Name=kohima
+Flights
+Total distance:2234 km Nearest Airport:Dimapur 
+Bus
+Total distance:2234 km 
+Taxi
+Total distance:2234 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2234 km 
+
+Name=dimapur
+Flights
+Total distance:2218 km Nearest Airport:Dimapur 
+Bus
+Total distance:2218 km 
+Taxi
+Total distance:2218 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2218 km 
+
+Name=mokokchung
+Flights
+Total distance:2308 km Nearest Airport:Dimapur 
+Bus
+Total distance:2308 km 
+Taxi
+Total distance:2308 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2308 km 
+
+Name=mon
+Flights
+Total distance:2377 km Nearest Airport:Dimapur 
+Bus
+Total distance:2377 km 
+Taxi
+Total distance:2377 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2377 km 
+
+Name=phek
+Flights
+Total distance:2262 km Nearest Airport:Dimapur 
+Bus
+Total distance:2262 km 
+Taxi
+Total distance:2262 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2262 km 
+
+Name=tuensang
+Flights
+Total distance:2327 km Nearest Airport:Jorhat 
+Bus
+Total distance:2327 km 
+Taxi
+Total distance:2327 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2327 km 
+
+Name=wokha
+Flights
+Total distance:2273 km Nearest Airport:Dimapur 
+Bus
+Total distance:2273 km 
+Taxi
+Total distance:2273 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2273 km 
+
+Name=zunheboto
+Flights
+Total distance:2289 km Nearest Airport:Dimapur 
+Bus
+Total distance:2289 km 
+Taxi
+Total distance:2289 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Yesvantpur-Dibrugarh Express (15901)  Last station:Dimapur Total distance:2289 km 
+
+Name=gangtok
+Flights
+Total distance:1967 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1967 km 
+Taxi
+Total distance:1967 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1967 km 
+
+Name=pelling
+Flights
+Total distance:1961 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1961 km 
+Taxi
+Total distance:1961 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1961 km 
+
+Name=chopta
+Flights
+Total distance:2013 km Nearest Airport:Bagdogra 
+Bus
+Total distance:2013 km 
+Taxi
+Total distance:2013 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:2013 km 
+
+Name=lachung
+Flights
+Total distance:2006 km Nearest Airport:Bagdogra 
+Bus
+Total distance:2006 km 
+Taxi
+Total distance:2006 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:2006 km 
+
+Name=legship
+Flights
+Total distance:1940 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1940 km 
+Taxi
+Total distance:1940 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1940 km 
+
+Name=namchi
+Flights
+Total distance:1939 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1939 km 
+Taxi
+Total distance:1939 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1939 km 
+
+Name=pemayangtse
+Flights
+Total distance:1932 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1932 km 
+Taxi
+Total distance:1932 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1932 km 
+
+Name=ravangla
+Flights
+Total distance:1950 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1950 km 
+Taxi
+Total distance:1950 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1950 km 
+
+Name=yuksam
+Flights
+Total distance:1943 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1943 km 
+Taxi
+Total distance:1943 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1943 km 
+
+Name=nathula
+Flights
+Total distance:1987 km Nearest Airport:Bagdogra 
+Bus
+Total distance:1987 km 
+Taxi
+Total distance:1987 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509)  Last station:Jalpaiguri Total distance:1987 km 
+
+Name=kailashahar
+Flights
+Total distance:1975 km Nearest Airport:Agartala 
+Bus
+Total distance:1975 km 
+Taxi
+Total distance:1975 km Price:from Rs. 6 per km  
+Trains
+Best trains to take:Bangalore Guwahati SF Express (12509), Yesvantpur-Dibrugarh Express (15901)  Last station:Guwahati Total distance:1975 km 
+
+Name=agartala
+Flights
+Total distance:1882 km Nearest Airport:Agartala 
+Bus
+Total distance:1882 km 
+Taxi
+Total distance:1882 km Price:from Rs. 6 per km  
+Trains
+Total distance:1882 km 
+
